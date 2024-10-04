@@ -1,0 +1,4683 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<InspData>
+
+  <ConfigInfo>
+    <Inspector>MV-6E</Inspector>
+    <DefectPath></DefectPath>
+    <IsSaveOverKill>TRUE</IsSaveOverKill>
+    <UserID>agent</UserID>
+  </ConfigInfo>
+
+  <BoardInfo>
+    <Model>SM-S928U-SUB-BOT</Model>
+    <SerialNo>20240711151358</SerialNo>
+    <RepSerialNo>20240711151358</RepSerialNo>
+    <BoardSide>0</BoardSide>
+    <CarrierID>None</CarrierID>
+    <LotID></LotID>
+    <LaneID>2</LaneID>
+    <ModuleID>0</ModuleID>
+    <ComputerName>MV-6EOMNI</ComputerName>
+    <BoardCount>19</BoardCount>
+    <ModuleCount>49</ModuleCount>
+    <InspStartTime>20240711;151359</InspStartTime>
+    <ModuleSerialList>20240711151358|||||||||||||||||||||||||||||||||||||||||||||||||</ModuleSerialList>
+    <IsGood>0</IsGood>
+    <IsInspectGood>0</IsInspectGood>
+    <BoardFidOffsetX>-162</BoardFidOffsetX>
+    <BoardFidOffsetY>82</BoardFidOffsetY>
+  </BoardInfo>
+
+  <DefectInfo>
+    <InspStartTime>2024-07-11 15:13:59</InspStartTime>
+    <InspEndTime>2024-07-11 15:14:57</InspEndTime>
+    <OperatorEndTime>2024-07-11 15:14:57</OperatorEndTime>
+    <RepairEndTime>2024-07-11 15:14:57</RepairEndTime>
+    <InspResult>1</InspResult>
+    <BoardSide>0</BoardSide>
+  </DefectInfo>
+
+  <DefectCount>
+    <Mounting>42</Mounting>
+    <Solder>8</Solder>
+    <Bridge>1</Bridge>
+    <OCR>0</OCR>
+    <Binary>22</Binary>
+    <Color>3</Color>
+    <Height>9</Height>
+    <LiftedLead>0</LiftedLead>
+    <ChipChecker>0</ChipChecker>
+    <ResistorColorChecker>0</ResistorColorChecker>
+    <BridgeOffset>0</BridgeOffset>
+    <ChipColorInsp>0</ChipColorInsp>
+    <ICSolder>0</ICSolder>
+    <ContoursFind>0</ContoursFind>
+    <Body>0</Body>
+    <Solder3D>0</Solder3D>
+    <Solder3DProfile>0</Solder3DProfile>
+    <Lead3D>0</Lead3D>
+  </DefectCount>
+
+  <InspCount>
+    <Part>2009</Part>
+    <Frame>1</Frame>
+    <Window>7448</Window>
+    <Mounting>3626</Mounting>
+    <Solder>343</Solder>
+    <Bridge>98</Bridge>
+    <OCR>0</OCR>
+    <Binary>98</Binary>
+    <Color>735</Color>
+    <Height>2548</Height>
+    <LiftedLead>0</LiftedLead>
+    <ChipChecker>0</ChipChecker>
+    <ResistorColorChecker>0</ResistorColorChecker>
+    <BridgeOffset>0</BridgeOffset>
+    <ChipColorInsp>0</ChipColorInsp>
+    <ICSolder>0</ICSolder>
+    <ContoursFind>0</ContoursFind>
+    <PinHole>0</PinHole>
+    <Body>0</Body>
+    <Solder3D>0</Solder3D>
+    <Solder3DProfile>0</Solder3DProfile>
+    <Lead3D>0</Lead3D>
+    <SkipInfo>0</SkipInfo>
+  </InspCount>
+
+  <ModuleResult>
+    <Module IsSkiped="0" ModuleGroup="0" ModuleId="0" RectBottom="149285" RectLeft="212395" RectRight="270902" RectTop="90782" Result="0"/>
+    <Module IsSkiped="0" ModuleGroup="0" ModuleId="1" RectBottom="149285" RectLeft="237568" RectRight="296075" RectTop="90782" Result="0"/>
+    <Module IsSkiped="0" ModuleGroup="0" ModuleId="2" RectBottom="149285" RectLeft="262741" RectRight="321248" RectTop="90782" Result="0"/>
+    <Module IsSkiped="0" ModuleGroup="0" ModuleId="3" RectBottom="227727" RectLeft="212395" RectRight="270902" RectTop="169224" Result="0"/>
+    <Module IsSkiped="0" ModuleGroup="0" ModuleId="4" RectBottom="227727" RectLeft="237568" RectRight="296075" RectTop="169224" Result="0"/>
+    <Module IsSkiped="0" ModuleGroup="0" ModuleId="5" RectBottom="227727" RectLeft="262741" RectRight="321248" RectTop="169224" Result="0"/>
+    <Module IsSkiped="0" ModuleGroup="0" ModuleId="6" RectBottom="149385" RectLeft="307375" RectRight="365882" RectTop="90882" Result="1"/>
+    <Module IsSkiped="0" ModuleGroup="0" ModuleId="7" RectBottom="149385" RectLeft="332548" RectRight="391055" RectTop="90882" Result="0"/>
+    <Module IsSkiped="0" ModuleGroup="0" ModuleId="8" RectBottom="149385" RectLeft="357721" RectRight="416228" RectTop="90882" Result="0"/>
+    <Module IsSkiped="0" ModuleGroup="0" ModuleId="9" RectBottom="227827" RectLeft="307375" RectRight="365882" RectTop="169324" Result="1"/>
+    <Module IsSkiped="0" ModuleGroup="0" ModuleId="10" RectBottom="227827" RectLeft="332548" RectRight="391055" RectTop="169324" Result="0"/>
+    <Module IsSkiped="0" ModuleGroup="0" ModuleId="11" RectBottom="227827" RectLeft="357721" RectRight="416228" RectTop="169324" Result="0"/>
+    <Module IsSkiped="0" ModuleGroup="0" ModuleId="12" RectBottom="312618" RectLeft="212518" RectRight="271025" RectTop="254115" Result="1"/>
+    <Module IsSkiped="0" ModuleGroup="0" ModuleId="13" RectBottom="312618" RectLeft="237691" RectRight="296198" RectTop="254115" Result="0"/>
+    <Module IsSkiped="0" ModuleGroup="0" ModuleId="14" RectBottom="312618" RectLeft="262864" RectRight="321371" RectTop="254115" Result="1"/>
+    <Module IsSkiped="0" ModuleGroup="0" ModuleId="15" RectBottom="391060" RectLeft="212518" RectRight="271025" RectTop="332557" Result="0"/>
+    <Module IsSkiped="0" ModuleGroup="0" ModuleId="16" RectBottom="391060" RectLeft="237691" RectRight="296198" RectTop="332557" Result="1"/>
+    <Module IsSkiped="0" ModuleGroup="0" ModuleId="17" RectBottom="391060" RectLeft="262864" RectRight="321371" RectTop="332557" Result="1"/>
+    <Module IsSkiped="0" ModuleGroup="0" ModuleId="18" RectBottom="312894" RectLeft="307821" RectRight="366328" RectTop="254391" Result="0"/>
+    <Module IsSkiped="0" ModuleGroup="0" ModuleId="19" RectBottom="312894" RectLeft="332994" RectRight="391501" RectTop="254391" Result="0"/>
+    <Module IsSkiped="0" ModuleGroup="0" ModuleId="20" RectBottom="312894" RectLeft="358167" RectRight="416674" RectTop="254391" Result="1"/>
+    <Module IsSkiped="0" ModuleGroup="0" ModuleId="21" RectBottom="391336" RectLeft="307821" RectRight="366328" RectTop="332833" Result="1"/>
+    <Module IsSkiped="0" ModuleGroup="0" ModuleId="22" RectBottom="391336" RectLeft="332994" RectRight="391501" RectTop="332833" Result="0"/>
+    <Module IsSkiped="0" ModuleGroup="0" ModuleId="23" RectBottom="391336" RectLeft="358167" RectRight="416674" RectTop="332833" Result="0"/>
+    <Module IsSkiped="0" ModuleGroup="0" ModuleId="24" RectBottom="183563" RectLeft="218273" RectRight="276780" RectTop="125060" Result="0"/>
+    <Module IsSkiped="0" ModuleGroup="0" ModuleId="25" RectBottom="183563" RectLeft="243273" RectRight="301780" RectTop="125060" Result="1"/>
+    <Module IsSkiped="0" ModuleGroup="0" ModuleId="26" RectBottom="183563" RectLeft="268273" RectRight="326780" RectTop="125060" Result="0"/>
+    <Module IsSkiped="0" ModuleGroup="0" ModuleId="27" RectBottom="262005" RectLeft="218273" RectRight="276780" RectTop="203502" Result="0"/>
+    <Module IsSkiped="0" ModuleGroup="0" ModuleId="28" RectBottom="262005" RectLeft="243273" RectRight="301780" RectTop="203502" Result="0"/>
+    <Module IsSkiped="0" ModuleGroup="0" ModuleId="29" RectBottom="262005" RectLeft="268273" RectRight="326780" RectTop="203502" Result="0"/>
+    <Module IsSkiped="0" ModuleGroup="0" ModuleId="30" RectBottom="262170" RectLeft="313154" RectRight="371661" RectTop="203667" Result="1"/>
+    <Module IsSkiped="0" ModuleGroup="0" ModuleId="31" RectBottom="347358" RectLeft="218378" RectRight="276885" RectTop="288855" Result="0"/>
+    <Module IsSkiped="0" ModuleGroup="0" ModuleId="32" RectBottom="347358" RectLeft="243551" RectRight="302058" RectTop="288855" Result="0"/>
+    <Module IsSkiped="0" ModuleGroup="0" ModuleId="33" RectBottom="347358" RectLeft="268724" RectRight="327231" RectTop="288855" Result="0"/>
+    <Module IsSkiped="0" ModuleGroup="0" ModuleId="34" RectBottom="425800" RectLeft="218378" RectRight="276885" RectTop="367297" Result="1"/>
+    <Module IsSkiped="0" ModuleGroup="0" ModuleId="35" RectBottom="425800" RectLeft="243551" RectRight="302058" RectTop="367297" Result="0"/>
+    <Module IsSkiped="0" ModuleGroup="0" ModuleId="36" RectBottom="425800" RectLeft="268724" RectRight="327231" RectTop="367297" Result="0"/>
+    <Module IsSkiped="0" ModuleGroup="0" ModuleId="37" RectBottom="183597" RectLeft="313443" RectRight="371950" RectTop="125094" Result="1"/>
+    <Module IsSkiped="0" ModuleGroup="0" ModuleId="38" RectBottom="183597" RectLeft="338616" RectRight="397123" RectTop="125094" Result="1"/>
+    <Module IsSkiped="0" ModuleGroup="0" ModuleId="39" RectBottom="183597" RectLeft="363789" RectRight="422296" RectTop="125094" Result="0"/>
+    <Module IsSkiped="0" ModuleGroup="0" ModuleId="40" RectBottom="262039" RectLeft="313443" RectRight="371950" RectTop="203536" Result="1"/>
+    <Module IsSkiped="0" ModuleGroup="0" ModuleId="41" RectBottom="262039" RectLeft="338616" RectRight="397123" RectTop="203536" Result="0"/>
+    <Module IsSkiped="0" ModuleGroup="0" ModuleId="42" RectBottom="262039" RectLeft="363789" RectRight="422296" RectTop="203536" Result="0"/>
+    <Module IsSkiped="0" ModuleGroup="0" ModuleId="43" RectBottom="347444" RectLeft="313539" RectRight="372046" RectTop="288941" Result="0"/>
+    <Module IsSkiped="0" ModuleGroup="0" ModuleId="44" RectBottom="347444" RectLeft="338712" RectRight="397219" RectTop="288941" Result="0"/>
+    <Module IsSkiped="0" ModuleGroup="0" ModuleId="45" RectBottom="347444" RectLeft="363885" RectRight="422392" RectTop="288941" Result="0"/>
+    <Module IsSkiped="0" ModuleGroup="0" ModuleId="46" RectBottom="425886" RectLeft="313539" RectRight="372046" RectTop="367383" Result="0"/>
+    <Module IsSkiped="0" ModuleGroup="0" ModuleId="47" RectBottom="425886" RectLeft="338712" RectRight="397219" RectTop="367383" Result="0"/>
+    <Module IsSkiped="0" ModuleGroup="0" ModuleId="48" RectBottom="425886" RectLeft="363885" RectRight="422392" RectTop="367383" Result="0"/>
+  </ModuleResult>
+
+  <Defect>
+    <Overkill>0</Overkill>
+    <DefectTypeString>Missing</DefectTypeString>
+    <ModuleId>48</ModuleId>
+    <RefId>USB200</RefId>
+    <FrameId>0</FrameId>
+    <WindowId>1</WindowId>
+    <IsImportantWindow>0</IsImportantWindow>
+    <PartNumber>0401-000006A</PartNumber>
+    <PartID>80123E87-9BCC-435b-84CC-86FE98D56AC6</PartID>
+    <WindowType>1</WindowType>
+    <ViewType>2</ViewType>
+    <PartGrabType>-1</PartGrabType>
+    <Reviewed>0</Reviewed>
+    <GroupDefectInfo>1</GroupDefectInfo>
+    <VirtualRefID>V5F23BCB4-FD92-4c60-905C-8F4D52D9DC4D</VirtualRefID>
+    <WindowRefID>_MNT_62_</WindowRefID>
+    <IsZAxisUpPos1>0</IsZAxisUpPos1>
+    <IsZAxisUpPos2>0</IsZAxisUpPos2>
+    <ChangeDefectType>0</ChangeDefectType>
+    <ResultValue>0.000000</ResultValue>
+    <CameraNo>-1</CameraNo>
+    <IsChipFlyingDefect>0</IsChipFlyingDefect>
+    <_3DChipFlyingResultHeight>0.000000</_3DChipFlyingResultHeight>
+    <ResultMsg>Insp Type   :  Mounting&#xD;
+&#xD;
+.  No      Score   ChipVerify&#xD;
+[  1]   :  V       59.5%                    &#xD;
+== Retry ==&#xD;
+[  1]   :  V       59.6%                    &#xD;
+----------------------------------&#xD;
+Max score:  59.6%[Acceptance score :   60.0%]&#xD;
+Offset(X, Y, Angle)    : -2, -16, 0.00&#xD;
+</ResultMsg>
+    <PartRect X1="2639" X2="2639" X3="1910" X4="1910" Y1="2285" Y2="3340" Y3="3340" Y4="2285"/>
+    <WindowRect X1="2502" X2="2502" X3="2446" X4="2446" Y1="2509" Y2="3118" Y3="3118" Y4="2509"/>
+    <FrameRect X1="363695" X2="422202" X3="422202" X4="363695" Y1="367424" Y2="367424" Y3="425926" Y4="425926"/>
+    <DefectRect X1="396212" X2="405342" X3="405342" X4="396212" Y1="383344" Y2="383344" Y3="384188" Y4="384188"/>
+    <AngleOffset>0.00</AngleOffset>
+    <Offset X="-2" Y="-16"/>
+    <Viewer3DMaxRange>0</Viewer3DMaxRange>
+    <ViewerDirection>0</ViewerDirection>
+    <WindowAngle>270</WindowAngle>
+    <DefectType>1</DefectType>
+    <Defect3DType>1</Defect3DType>
+    <PassDefectType/>
+    <PassDefect3DType/>
+    <DefectPins/>
+    <OverKillPins/>
+  </Defect>
+
+  <Defect>
+    <Overkill>0</Overkill>
+    <DefectTypeString>Missing</DefectTypeString>
+    <ModuleId>48</ModuleId>
+    <RefId>USB200</RefId>
+    <FrameId>0</FrameId>
+    <WindowId>3</WindowId>
+    <IsImportantWindow>0</IsImportantWindow>
+    <PartNumber>0401-000006A</PartNumber>
+    <PartID>80123E87-9BCC-435b-84CC-86FE98D56AC6</PartID>
+    <WindowType>1</WindowType>
+    <ViewType>2</ViewType>
+    <PartGrabType>-1</PartGrabType>
+    <Reviewed>0</Reviewed>
+    <GroupDefectInfo>1</GroupDefectInfo>
+    <VirtualRefID>V4A02AC68-6C0B-4d1e-9792-A6DD06A3A766</VirtualRefID>
+    <WindowRefID>_MNT_64_</WindowRefID>
+    <IsZAxisUpPos1>0</IsZAxisUpPos1>
+    <IsZAxisUpPos2>0</IsZAxisUpPos2>
+    <ChangeDefectType>0</ChangeDefectType>
+    <ResultValue>0.000000</ResultValue>
+    <CameraNo>-1</CameraNo>
+    <IsChipFlyingDefect>0</IsChipFlyingDefect>
+    <_3DChipFlyingResultHeight>0.000000</_3DChipFlyingResultHeight>
+    <ResultMsg>Insp Type   :  Mounting&#xD;
+&#xD;
+.  No      Score   ChipVerify&#xD;
+[  1]   :  V       37.1%                    &#xD;
+== Retry ==&#xD;
+[  1]   :  V       52.2%                    &#xD;
+----------------------------------&#xD;
+Max score:  52.2%[Acceptance score :   60.0%]&#xD;
+Offset(X, Y, Angle)    : 6, -15, 0.00&#xD;
+</ResultMsg>
+    <PartRect X1="2648" X2="2648" X3="1919" X4="1919" Y1="2286" Y2="3341" Y3="3341" Y4="2286"/>
+    <WindowRect X1="2605" X2="2605" X3="2531" X4="2531" Y1="2987" Y2="3008" Y3="3008" Y4="2987"/>
+    <FrameRect X1="363695" X2="422202" X3="422202" X4="363695" Y1="367424" Y2="367424" Y3="425926" Y4="425926"/>
+    <DefectRect X1="402026" X2="402344" X3="402344" X4="402026" Y1="380455" Y2="380455" Y3="381567" Y4="381567"/>
+    <AngleOffset>0.00</AngleOffset>
+    <Offset X="6" Y="-15"/>
+    <Viewer3DMaxRange>0</Viewer3DMaxRange>
+    <ViewerDirection>17346</ViewerDirection>
+    <WindowAngle>270</WindowAngle>
+    <DefectType>1</DefectType>
+    <Defect3DType>1</Defect3DType>
+    <PassDefectType/>
+    <PassDefect3DType/>
+    <DefectPins/>
+    <OverKillPins/>
+  </Defect>
+
+  <Defect>
+    <Overkill>0</Overkill>
+    <DefectTypeString>Missing</DefectTypeString>
+    <ModuleId>48</ModuleId>
+    <RefId>USB200</RefId>
+    <FrameId>0</FrameId>
+    <WindowId>14</WindowId>
+    <IsImportantWindow>0</IsImportantWindow>
+    <PartNumber>0401-000006A</PartNumber>
+    <PartID>80123E87-9BCC-435b-84CC-86FE98D56AC6</PartID>
+    <WindowType>1</WindowType>
+    <ViewType>2</ViewType>
+    <PartGrabType>-1</PartGrabType>
+    <Reviewed>0</Reviewed>
+    <GroupDefectInfo>1</GroupDefectInfo>
+    <VirtualRefID>V469B8F1F-B634-4b43-B935-D04A666825E8</VirtualRefID>
+    <WindowRefID>_MNT_75_</WindowRefID>
+    <IsZAxisUpPos1>0</IsZAxisUpPos1>
+    <IsZAxisUpPos2>0</IsZAxisUpPos2>
+    <ChangeDefectType>0</ChangeDefectType>
+    <ResultValue>0.000000</ResultValue>
+    <CameraNo>-1</CameraNo>
+    <IsChipFlyingDefect>0</IsChipFlyingDefect>
+    <_3DChipFlyingResultHeight>0.000000</_3DChipFlyingResultHeight>
+    <ResultMsg>Insp Type   :  Mounting&#xD;
+&#xD;
+.  No      Score   ChipVerify&#xD;
+[  1]   :  V       42.4%                    &#xD;
+== Retry ==&#xD;
+[  1]   :  V       54.3%                    &#xD;
+----------------------------------&#xD;
+Max score:  54.3%[Acceptance score :   60.0%]&#xD;
+Offset(X, Y, Angle)    : 1, -15, 0.00&#xD;
+</ResultMsg>
+    <PartRect X1="2644" X2="2644" X3="1915" X4="1915" Y1="2286" Y2="3341" Y3="3341" Y4="2286"/>
+    <WindowRect X1="2599" X2="2599" X3="2530" X4="2530" Y1="2621" Y2="2640" Y3="2640" Y4="2621"/>
+    <FrameRect X1="363695" X2="422202" X3="422202" X4="363695" Y1="367424" Y2="367424" Y3="425926" Y4="425926"/>
+    <DefectRect X1="401995" X2="402287" X3="402287" X4="401995" Y1="385982" Y2="385982" Y3="387014" Y4="387014"/>
+    <AngleOffset>0.00</AngleOffset>
+    <Offset X="1" Y="-15"/>
+    <Viewer3DMaxRange>0</Viewer3DMaxRange>
+    <ViewerDirection>17574</ViewerDirection>
+    <WindowAngle>270</WindowAngle>
+    <DefectType>1</DefectType>
+    <Defect3DType>1</Defect3DType>
+    <PassDefectType/>
+    <PassDefect3DType/>
+    <DefectPins/>
+    <OverKillPins/>
+  </Defect>
+
+  <Defect>
+    <Overkill>0</Overkill>
+    <DefectTypeString>2D Defect</DefectTypeString>
+    <ModuleId>48</ModuleId>
+    <RefId>USB200</RefId>
+    <FrameId>0</FrameId>
+    <WindowId>21</WindowId>
+    <IsImportantWindow>0</IsImportantWindow>
+    <PartNumber>0401-000006A</PartNumber>
+    <PartID>80123E87-9BCC-435b-84CC-86FE98D56AC6</PartID>
+    <WindowType>4</WindowType>
+    <ViewType>1</ViewType>
+    <PartGrabType>-1</PartGrabType>
+    <Reviewed>0</Reviewed>
+    <GroupDefectInfo>1</GroupDefectInfo>
+    <VirtualRefID>V4E5A2D58-FEDB-4a59-8D80-C2BE9C826E77</VirtualRefID>
+    <WindowRefID>_BIN_3_</WindowRefID>
+    <IsZAxisUpPos1>0</IsZAxisUpPos1>
+    <IsZAxisUpPos2>0</IsZAxisUpPos2>
+    <ChangeDefectType>0</ChangeDefectType>
+    <ResultValue>1093.964422</ResultValue>
+    <CameraNo>-1</CameraNo>
+    <IsChipFlyingDefect>0</IsChipFlyingDefect>
+    <_3DChipFlyingResultHeight>0.000000</_3DChipFlyingResultHeight>
+    <ResultMsg>Stripe(Vert/Negative)&#xD;
+Pixel      : 75 &lt; 73.0 &lt;= 95 &#xD;
+</ResultMsg>
+    <PartRect X1="2642" X2="2642" X3="1913" X4="1913" Y1="2302" Y2="3357" Y3="3357" Y4="2302"/>
+    <WindowRect X1="2145" X2="2145" X3="2013" X4="2013" Y1="2925" Y2="2983" Y3="2983" Y4="2925"/>
+    <FrameRect X1="363695" X2="422202" X3="422202" X4="363695" Y1="367424" Y2="367424" Y3="425926" Y4="425926"/>
+    <DefectRect X1="394422" X2="395286" X3="395286" X4="394422" Y1="380674" Y2="380674" Y3="382646" Y4="382646"/>
+    <AngleOffset>0.00</AngleOffset>
+    <Offset X="-4" Y="19"/>
+    <DefectPos X1="2013" X2="2145" X3="2145" X4="2013" Y1="2925" Y2="2925" Y3="2983" Y4="2983"/>
+    <Viewer3DMaxRange>0</Viewer3DMaxRange>
+    <ViewerDirection>17635</ViewerDirection>
+    <WindowAngle>270</WindowAngle>
+    <DefectType>-4</DefectType>
+    <Defect3DType>-4</Defect3DType>
+    <PassDefectType/>
+    <PassDefect3DType/>
+    <DefectPins/>
+    <OverKillPins/>
+  </Defect>
+
+  <Defect>
+    <Overkill>0</Overkill>
+    <DefectTypeString>InsufficientSolder</DefectTypeString>
+    <ModuleId>48</ModuleId>
+    <RefId>USB200</RefId>
+    <FrameId>0</FrameId>
+    <WindowId>24</WindowId>
+    <IsImportantWindow>0</IsImportantWindow>
+    <PartNumber>0401-000006A</PartNumber>
+    <PartID>80123E87-9BCC-435b-84CC-86FE98D56AC6</PartID>
+    <WindowType>2</WindowType>
+    <ViewType>1</ViewType>
+    <PartGrabType>-1</PartGrabType>
+    <Reviewed>0</Reviewed>
+    <GroupDefectInfo>1</GroupDefectInfo>
+    <VirtualRefID>V2F54E25A-7D54-48d4-802E-CE366809525D</VirtualRefID>
+    <WindowRefID>_SLD_20_</WindowRefID>
+    <IsZAxisUpPos1>0</IsZAxisUpPos1>
+    <IsZAxisUpPos2>0</IsZAxisUpPos2>
+    <ChangeDefectType>0</ChangeDefectType>
+    <ResultValue>0.000000</ResultValue>
+    <CameraNo>-1</CameraNo>
+    <IsChipFlyingDefect>0</IsChipFlyingDefect>
+    <_3DChipFlyingResultHeight>0.000000</_3DChipFlyingResultHeight>
+    <ResultMsg> Insp type : Solder &#xD;
+ Condition  :  30 &lt;= X &lt;= 255 &#xD;
+ White Rate : 24.9% [40.0% ~ 100.0%] 
+</ResultMsg>
+    <PartRect X1="2642" X2="2642" X3="1913" X4="1913" Y1="2302" Y2="3357" Y3="3357" Y4="2302"/>
+    <WindowRect X1="2400" X2="2400" X3="2284" X4="2284" Y1="3174" Y2="3218" Y3="3218" Y4="3174"/>
+    <FrameRect X1="363695" X2="422202" X3="422202" X4="363695" Y1="367424" Y2="367424" Y3="425926" Y4="425926"/>
+    <DefectRect X1="398460" X2="399122" X3="399122" X4="398460" Y1="377163" Y2="377163" Y3="378901" Y4="378901"/>
+    <AngleOffset>0.00</AngleOffset>
+    <Offset X="-4" Y="19"/>
+    <DefectPos X1="2400" X2="2400" X3="2284" X4="2284" Y1="3174" Y2="3218" Y3="3218" Y4="3174"/>
+    <Viewer3DMaxRange>0</Viewer3DMaxRange>
+    <ViewerDirection>17346</ViewerDirection>
+    <WindowAngle>270</WindowAngle>
+    <DefectType>5</DefectType>
+    <Defect3DType>5</Defect3DType>
+    <PassDefectType/>
+    <PassDefect3DType/>
+    <DefectPins/>
+    <OverKillPins/>
+  </Defect>
+
+  <Defect>
+    <Overkill>0</Overkill>
+    <DefectTypeString>Missing</DefectTypeString>
+    <ModuleId>47</ModuleId>
+    <RefId>USB200</RefId>
+    <FrameId>0</FrameId>
+    <WindowId>1</WindowId>
+    <IsImportantWindow>0</IsImportantWindow>
+    <PartNumber>0401-000006A</PartNumber>
+    <PartID>80123E87-9BCC-435b-84CC-86FE98D56AC6</PartID>
+    <WindowType>1</WindowType>
+    <ViewType>2</ViewType>
+    <PartGrabType>-1</PartGrabType>
+    <Reviewed>0</Reviewed>
+    <GroupDefectInfo>1</GroupDefectInfo>
+    <VirtualRefID>V5F23BCB4-FD92-4c60-905C-8F4D52D9DC4D</VirtualRefID>
+    <WindowRefID>_MNT_62_</WindowRefID>
+    <IsZAxisUpPos1>0</IsZAxisUpPos1>
+    <IsZAxisUpPos2>0</IsZAxisUpPos2>
+    <ChangeDefectType>0</ChangeDefectType>
+    <ResultValue>0.000000</ResultValue>
+    <CameraNo>-1</CameraNo>
+    <IsChipFlyingDefect>0</IsChipFlyingDefect>
+    <_3DChipFlyingResultHeight>0.000000</_3DChipFlyingResultHeight>
+    <ResultMsg>Insp Type   :  Mounting&#xD;
+&#xD;
+.  No      Score   ChipVerify&#xD;
+[  1]   :  V       49.7%                    &#xD;
+== Retry ==&#xD;
+[  1]   :  V       49.7%                    &#xD;
+----------------------------------&#xD;
+Max score:  49.7%[Acceptance score :   60.0%]&#xD;
+Offset(X, Y, Angle)    : -6, -15, 0.00&#xD;
+</ResultMsg>
+    <PartRect X1="2637" X2="2637" X3="1907" X4="1907" Y1="2287" Y2="3342" Y3="3342" Y4="2287"/>
+    <WindowRect X1="2499" X2="2499" X3="2443" X4="2443" Y1="2511" Y2="3120" Y3="3120" Y4="2511"/>
+    <FrameRect X1="338668" X2="397175" X3="397175" X4="338668" Y1="367432" Y2="367432" Y3="425934" Y4="425934"/>
+    <DefectRect X1="371141" X2="380271" X3="380271" X4="371141" Y1="383331" Y2="383331" Y3="384174" Y4="384174"/>
+    <AngleOffset>0.00</AngleOffset>
+    <Offset X="-6" Y="-15"/>
+    <Viewer3DMaxRange>0</Viewer3DMaxRange>
+    <ViewerDirection>17425</ViewerDirection>
+    <WindowAngle>270</WindowAngle>
+    <DefectType>1</DefectType>
+    <Defect3DType>1</Defect3DType>
+    <PassDefectType/>
+    <PassDefect3DType/>
+    <DefectPins/>
+    <OverKillPins/>
+  </Defect>
+
+  <Defect>
+    <Overkill>0</Overkill>
+    <DefectTypeString>Missing</DefectTypeString>
+    <ModuleId>47</ModuleId>
+    <RefId>USB200</RefId>
+    <FrameId>0</FrameId>
+    <WindowId>3</WindowId>
+    <IsImportantWindow>0</IsImportantWindow>
+    <PartNumber>0401-000006A</PartNumber>
+    <PartID>80123E87-9BCC-435b-84CC-86FE98D56AC6</PartID>
+    <WindowType>1</WindowType>
+    <ViewType>2</ViewType>
+    <PartGrabType>-1</PartGrabType>
+    <Reviewed>0</Reviewed>
+    <GroupDefectInfo>1</GroupDefectInfo>
+    <VirtualRefID>V4A02AC68-6C0B-4d1e-9792-A6DD06A3A766</VirtualRefID>
+    <WindowRefID>_MNT_64_</WindowRefID>
+    <IsZAxisUpPos1>0</IsZAxisUpPos1>
+    <IsZAxisUpPos2>0</IsZAxisUpPos2>
+    <ChangeDefectType>0</ChangeDefectType>
+    <ResultValue>0.000000</ResultValue>
+    <CameraNo>-1</CameraNo>
+    <IsChipFlyingDefect>0</IsChipFlyingDefect>
+    <_3DChipFlyingResultHeight>0.000000</_3DChipFlyingResultHeight>
+    <ResultMsg>Insp Type   :  Mounting&#xD;
+&#xD;
+.  No      Score   ChipVerify&#xD;
+[  1]   :  V       25.4%                    &#xD;
+== Retry ==&#xD;
+[  1]   :  V       40.7%                    &#xD;
+----------------------------------&#xD;
+Max score:  40.7%[Acceptance score :   60.0%]&#xD;
+Offset(X, Y, Angle)    : 2, -16, 0.00&#xD;
+</ResultMsg>
+    <PartRect X1="2644" X2="2644" X3="1915" X4="1915" Y1="2284" Y2="3339" Y3="3339" Y4="2284"/>
+    <WindowRect X1="2601" X2="2601" X3="2527" X4="2527" Y1="2985" Y2="3006" Y3="3006" Y4="2985"/>
+    <FrameRect X1="338668" X2="397175" X3="397175" X4="338668" Y1="367432" Y2="367432" Y3="425934" Y4="425934"/>
+    <DefectRect X1="376940" X2="377258" X3="377258" X4="376940" Y1="380487" Y2="380487" Y3="381599" Y4="381599"/>
+    <AngleOffset>0.00</AngleOffset>
+    <Offset X="2" Y="-16"/>
+    <Viewer3DMaxRange>0</Viewer3DMaxRange>
+    <ViewerDirection>52232</ViewerDirection>
+    <WindowAngle>270</WindowAngle>
+    <DefectType>1</DefectType>
+    <Defect3DType>1</Defect3DType>
+    <PassDefectType/>
+    <PassDefect3DType/>
+    <DefectPins/>
+    <OverKillPins/>
+  </Defect>
+
+  <Defect>
+    <Overkill>0</Overkill>
+    <DefectTypeString>Missing</DefectTypeString>
+    <ModuleId>47</ModuleId>
+    <RefId>USB200</RefId>
+    <FrameId>0</FrameId>
+    <WindowId>14</WindowId>
+    <IsImportantWindow>0</IsImportantWindow>
+    <PartNumber>0401-000006A</PartNumber>
+    <PartID>80123E87-9BCC-435b-84CC-86FE98D56AC6</PartID>
+    <WindowType>1</WindowType>
+    <ViewType>2</ViewType>
+    <PartGrabType>-1</PartGrabType>
+    <Reviewed>0</Reviewed>
+    <GroupDefectInfo>1</GroupDefectInfo>
+    <VirtualRefID>V469B8F1F-B634-4b43-B935-D04A666825E8</VirtualRefID>
+    <WindowRefID>_MNT_75_</WindowRefID>
+    <IsZAxisUpPos1>0</IsZAxisUpPos1>
+    <IsZAxisUpPos2>0</IsZAxisUpPos2>
+    <ChangeDefectType>0</ChangeDefectType>
+    <ResultValue>0.000000</ResultValue>
+    <CameraNo>-1</CameraNo>
+    <IsChipFlyingDefect>0</IsChipFlyingDefect>
+    <_3DChipFlyingResultHeight>0.000000</_3DChipFlyingResultHeight>
+    <ResultMsg>Insp Type   :  Mounting&#xD;
+&#xD;
+.  No      Score   ChipVerify&#xD;
+[  1]   :  V       37.6%                    &#xD;
+== Retry ==&#xD;
+[  1]   :  V       51.4%                    &#xD;
+----------------------------------&#xD;
+Max score:  51.4%[Acceptance score :   60.0%]&#xD;
+Offset(X, Y, Angle)    : -3, -16, 0.00&#xD;
+</ResultMsg>
+    <PartRect X1="2639" X2="2639" X3="1910" X4="1910" Y1="2284" Y2="3339" Y3="3339" Y4="2284"/>
+    <WindowRect X1="2594" X2="2594" X3="2525" X4="2525" Y1="2620" Y2="2639" Y3="2639" Y4="2620"/>
+    <FrameRect X1="338668" X2="397175" X3="397175" X4="338668" Y1="367432" Y2="367432" Y3="425934" Y4="425934"/>
+    <DefectRect X1="376894" X2="377185" X3="377185" X4="376894" Y1="386013" Y2="386013" Y3="387046" Y4="387046"/>
+    <AngleOffset>0.00</AngleOffset>
+    <Offset X="-3" Y="-16"/>
+    <Viewer3DMaxRange>0</Viewer3DMaxRange>
+    <ViewerDirection>17583</ViewerDirection>
+    <WindowAngle>270</WindowAngle>
+    <DefectType>1</DefectType>
+    <Defect3DType>1</Defect3DType>
+    <PassDefectType/>
+    <PassDefect3DType/>
+    <DefectPins/>
+    <OverKillPins/>
+  </Defect>
+
+  <Defect>
+    <Overkill>0</Overkill>
+    <DefectTypeString>Missing</DefectTypeString>
+    <ModuleId>46</ModuleId>
+    <RefId>USB200</RefId>
+    <FrameId>0</FrameId>
+    <WindowId>1</WindowId>
+    <IsImportantWindow>0</IsImportantWindow>
+    <PartNumber>0401-000006A</PartNumber>
+    <PartID>80123E87-9BCC-435b-84CC-86FE98D56AC6</PartID>
+    <WindowType>1</WindowType>
+    <ViewType>2</ViewType>
+    <PartGrabType>-1</PartGrabType>
+    <Reviewed>0</Reviewed>
+    <GroupDefectInfo>1</GroupDefectInfo>
+    <VirtualRefID>V5F23BCB4-FD92-4c60-905C-8F4D52D9DC4D</VirtualRefID>
+    <WindowRefID>_MNT_62_</WindowRefID>
+    <IsZAxisUpPos1>0</IsZAxisUpPos1>
+    <IsZAxisUpPos2>0</IsZAxisUpPos2>
+    <ChangeDefectType>0</ChangeDefectType>
+    <ResultValue>0.000000</ResultValue>
+    <CameraNo>-1</CameraNo>
+    <IsChipFlyingDefect>0</IsChipFlyingDefect>
+    <_3DChipFlyingResultHeight>0.000000</_3DChipFlyingResultHeight>
+    <ResultMsg>Insp Type   :  Mounting&#xD;
+&#xD;
+.  No      Score   ChipVerify&#xD;
+[  1]   :  V       51.4%                    &#xD;
+== Retry ==&#xD;
+[  1]   :  V       51.3%                    &#xD;
+----------------------------------&#xD;
+Max score:  51.4%[Acceptance score :   60.0%]&#xD;
+Offset(X, Y, Angle)    : -6, -15, 0.00&#xD;
+</ResultMsg>
+    <PartRect X1="2636" X2="2636" X3="1907" X4="1907" Y1="2283" Y2="3337" Y3="3337" Y4="2283"/>
+    <WindowRect X1="2499" X2="2499" X3="2443" X4="2443" Y1="2507" Y2="3116" Y3="3116" Y4="2507"/>
+    <FrameRect X1="313566" X2="372073" X3="372073" X4="313566" Y1="367359" Y2="367359" Y3="425861" Y4="425861"/>
+    <DefectRect X1="346033" X2="355163" X3="355163" X4="346033" Y1="383306" Y2="383306" Y3="384150" Y4="384150"/>
+    <AngleOffset>0.00</AngleOffset>
+    <Offset X="-6" Y="-15"/>
+    <Viewer3DMaxRange>0</Viewer3DMaxRange>
+    <ViewerDirection>17459</ViewerDirection>
+    <WindowAngle>270</WindowAngle>
+    <DefectType>1</DefectType>
+    <Defect3DType>1</Defect3DType>
+    <PassDefectType/>
+    <PassDefect3DType/>
+    <DefectPins/>
+    <OverKillPins/>
+  </Defect>
+
+  <Defect>
+    <Overkill>0</Overkill>
+    <DefectTypeString>Missing</DefectTypeString>
+    <ModuleId>22</ModuleId>
+    <RefId>TAPE</RefId>
+    <FrameId>0</FrameId>
+    <WindowId>0</WindowId>
+    <IsImportantWindow>0</IsImportantWindow>
+    <PartNumber>TAPE1</PartNumber>
+    <PartID>93B5D1CA-0ED4-4b99-B306-2C508756FD39</PartID>
+    <WindowType>1</WindowType>
+    <ViewType>2</ViewType>
+    <PartGrabType>-1</PartGrabType>
+    <Reviewed>0</Reviewed>
+    <GroupDefectInfo>1</GroupDefectInfo>
+    <VirtualRefID>VE0AD665B-719C-44c9-8272-C21FB1A718FE</VirtualRefID>
+    <WindowRefID>_MNT_120_</WindowRefID>
+    <IsZAxisUpPos1>0</IsZAxisUpPos1>
+    <IsZAxisUpPos2>0</IsZAxisUpPos2>
+    <ChangeDefectType>0</ChangeDefectType>
+    <ResultValue>0.000000</ResultValue>
+    <CameraNo>-1</CameraNo>
+    <IsChipFlyingDefect>0</IsChipFlyingDefect>
+    <_3DChipFlyingResultHeight>0.000000</_3DChipFlyingResultHeight>
+    <ResultMsg>Insp Type   :  Mounting&#xD;
+&#xD;
+.  No      Score   ChipVerify&#xD;
+[  1]   :  V       77.3%                    &#xD;
+[  2]   :  V       70.7%                    &#xD;
+[  3]   :  V       77.1%                    &#xD;
+== Retry ==&#xD;
+[  1]   :  V       77.3%                    &#xD;
+[  2]   :  V       70.7%                    &#xD;
+[  3]   :  V       77.1%                    &#xD;
+----------------------------------&#xD;
+Max score:  77.3%[Acceptance score :   78.0%]&#xD;
+Offset(X, Y, Angle)    : -9, 18, 0.00&#xD;
+</ResultMsg>
+    <PartRect X1="1128" X2="1721" X3="1721" X4="1128" Y1="1513" Y2="1513" Y3="1736" Y4="1736"/>
+    <WindowRect X1="1466" X2="1721" X3="1721" X4="1466" Y1="1514" Y2="1514" Y3="1727" Y4="1727"/>
+    <FrameRect X1="332233" X2="390740" X3="390740" X4="332233" Y1="333018" Y2="333018" Y3="391520" Y4="391520"/>
+    <DefectRect X1="354222" X2="358042" X3="358042" X4="354222" Y1="365631" Y2="365631" Y3="368823" Y4="368823"/>
+    <AngleOffset>0.00</AngleOffset>
+    <Offset X="-9" Y="18"/>
+    <Viewer3DMaxRange>0</Viewer3DMaxRange>
+    <ViewerDirection>0</ViewerDirection>
+    <WindowAngle>0</WindowAngle>
+    <DefectType>1</DefectType>
+    <Defect3DType>1</Defect3DType>
+    <PassDefectType/>
+    <PassDefect3DType/>
+    <DefectPins/>
+    <OverKillPins/>
+  </Defect>
+
+  <Defect>
+    <Overkill>0</Overkill>
+    <DefectTypeString>WrongPart</DefectTypeString>
+    <ModuleId>22</ModuleId>
+    <RefId>TAPE</RefId>
+    <FrameId>0</FrameId>
+    <WindowId>3</WindowId>
+    <IsImportantWindow>0</IsImportantWindow>
+    <PartNumber>TAPE1</PartNumber>
+    <PartID>93B5D1CA-0ED4-4b99-B306-2C508756FD39</PartID>
+    <WindowType>8</WindowType>
+    <ViewType>1</ViewType>
+    <PartGrabType>-1</PartGrabType>
+    <Reviewed>0</Reviewed>
+    <GroupDefectInfo>1</GroupDefectInfo>
+    <VirtualRefID>V99B7A529-BDCE-4068-8C44-F23375E25609</VirtualRefID>
+    <WindowRefID>_CLR_45_</WindowRefID>
+    <IsZAxisUpPos1>0</IsZAxisUpPos1>
+    <IsZAxisUpPos2>0</IsZAxisUpPos2>
+    <ChangeDefectType>0</ChangeDefectType>
+    <ResultValue>0.000000</ResultValue>
+    <CameraNo>-1</CameraNo>
+    <IsChipFlyingDefect>0</IsChipFlyingDefect>
+    <_3DChipFlyingResultHeight>0.000000</_3DChipFlyingResultHeight>
+    <ResultMsg>Target Color - R : 10.00, G : 12.00, B : 19.00&#xD;
+.                     Color                                  Difference&#xD;
+Num.      R         G         B         R         G         B        Radius&#xD;
+001     11.94     17.78     26.43      1.94      5.78      7.43      9.61(X)&#xD;
+</ResultMsg>
+    <PartRect X1="1137" X2="1730" X3="1730" X4="1137" Y1="1494" Y2="1494" Y3="1717" Y4="1717"/>
+    <WindowRect X1="1559" X2="1644" X3="1644" X4="1559" Y1="1574" Y2="1574" Y3="1632" Y4="1632"/>
+    <FrameRect X1="332233" X2="390740" X3="390740" X4="332233" Y1="333018" Y2="333018" Y3="391520" Y4="391520"/>
+    <DefectRect X1="355613" X2="356881" X3="356881" X4="355613" Y1="367047" Y2="367047" Y3="367928" Y4="367928"/>
+    <AngleOffset>0.00</AngleOffset>
+    <Offset X="3" Y="-6"/>
+    <Viewer3DMaxRange>0</Viewer3DMaxRange>
+    <ViewerDirection>0</ViewerDirection>
+    <WindowAngle>0</WindowAngle>
+    <DefectType>13</DefectType>
+    <Defect3DType>13</Defect3DType>
+    <PassDefectType/>
+    <PassDefect3DType/>
+    <DefectPins/>
+    <OverKillPins/>
+  </Defect>
+
+  <Defect>
+    <Overkill>0</Overkill>
+    <DefectTypeString>Missing</DefectTypeString>
+    <ModuleId>23</ModuleId>
+    <RefId>USB200</RefId>
+    <FrameId>0</FrameId>
+    <WindowId>1</WindowId>
+    <IsImportantWindow>0</IsImportantWindow>
+    <PartNumber>0401-000006A</PartNumber>
+    <PartID>80123E87-9BCC-435b-84CC-86FE98D56AC6</PartID>
+    <WindowType>1</WindowType>
+    <ViewType>2</ViewType>
+    <PartGrabType>-1</PartGrabType>
+    <Reviewed>0</Reviewed>
+    <GroupDefectInfo>1</GroupDefectInfo>
+    <VirtualRefID>V5F23BCB4-FD92-4c60-905C-8F4D52D9DC4D</VirtualRefID>
+    <WindowRefID>_MNT_62_</WindowRefID>
+    <IsZAxisUpPos1>0</IsZAxisUpPos1>
+    <IsZAxisUpPos2>0</IsZAxisUpPos2>
+    <ChangeDefectType>0</ChangeDefectType>
+    <ResultValue>0.000000</ResultValue>
+    <CameraNo>-1</CameraNo>
+    <IsChipFlyingDefect>0</IsChipFlyingDefect>
+    <_3DChipFlyingResultHeight>0.000000</_3DChipFlyingResultHeight>
+    <ResultMsg>Insp Type   :  Mounting&#xD;
+&#xD;
+.  No      Score   ChipVerify&#xD;
+[  1]   :  V       54.4%                    &#xD;
+== Retry ==&#xD;
+[  1]   :  V       54.4%                    &#xD;
+----------------------------------&#xD;
+Max score:  54.4%[Acceptance score :   60.0%]&#xD;
+Offset(X, Y, Angle)    : 3, 4, 0.00&#xD;
+</ResultMsg>
+    <PartRect X1="1276" X2="1276" X3="2004" X4="2004" Y1="1617" Y2="563" Y3="563" Y4="1617"/>
+    <WindowRect X1="1413" X2="1413" X3="1468" X4="1468" Y1="1393" Y2="784" Y3="784" Y4="1393"/>
+    <FrameRect X1="357289" X2="415797" X3="415797" X4="357289" Y1="333053" Y2="333053" Y3="391555" Y4="391555"/>
+    <DefectRect X1="374332" X2="383462" X3="383462" X4="374332" Y1="374801" Y2="374801" Y3="375644" Y4="375644"/>
+    <AngleOffset>0.00</AngleOffset>
+    <Offset X="3" Y="4"/>
+    <Viewer3DMaxRange>0</Viewer3DMaxRange>
+    <ViewerDirection>17391</ViewerDirection>
+    <WindowAngle>90</WindowAngle>
+    <DefectType>1</DefectType>
+    <Defect3DType>1</Defect3DType>
+    <PassDefectType/>
+    <PassDefect3DType/>
+    <DefectPins/>
+    <OverKillPins/>
+  </Defect>
+
+  <Defect>
+    <Overkill>0</Overkill>
+    <DefectTypeString>Missing</DefectTypeString>
+    <ModuleId>44</ModuleId>
+    <RefId>USB200</RefId>
+    <FrameId>0</FrameId>
+    <WindowId>1</WindowId>
+    <IsImportantWindow>0</IsImportantWindow>
+    <PartNumber>0401-000006A</PartNumber>
+    <PartID>80123E87-9BCC-435b-84CC-86FE98D56AC6</PartID>
+    <WindowType>1</WindowType>
+    <ViewType>2</ViewType>
+    <PartGrabType>-1</PartGrabType>
+    <Reviewed>0</Reviewed>
+    <GroupDefectInfo>1</GroupDefectInfo>
+    <VirtualRefID>V5F23BCB4-FD92-4c60-905C-8F4D52D9DC4D</VirtualRefID>
+    <WindowRefID>_MNT_62_</WindowRefID>
+    <IsZAxisUpPos1>0</IsZAxisUpPos1>
+    <IsZAxisUpPos2>0</IsZAxisUpPos2>
+    <ChangeDefectType>0</ChangeDefectType>
+    <ResultValue>0.000000</ResultValue>
+    <CameraNo>-1</CameraNo>
+    <IsChipFlyingDefect>0</IsChipFlyingDefect>
+    <_3DChipFlyingResultHeight>0.000000</_3DChipFlyingResultHeight>
+    <ResultMsg>Insp Type   :  Mounting&#xD;
+&#xD;
+.  No      Score   ChipVerify&#xD;
+[  1]   :  V       50.5%                    &#xD;
+== Retry ==&#xD;
+[  1]   :  V       50.5%                    &#xD;
+----------------------------------&#xD;
+Max score:  50.5%[Acceptance score :   60.0%]&#xD;
+Offset(X, Y, Angle)    : 3, -14, 0.00&#xD;
+</ResultMsg>
+    <PartRect X1="2643" X2="2643" X3="1914" X4="1914" Y1="2276" Y2="3330" Y3="3330" Y4="2276"/>
+    <WindowRect X1="2506" X2="2506" X3="2450" X4="2450" Y1="2500" Y2="3109" Y3="3109" Y4="2500"/>
+    <FrameRect X1="338639" X2="397147" X3="397147" X4="338639" Y1="288918" Y2="288918" Y3="347420" Y4="347420"/>
+    <DefectRect X1="371211" X2="380341" X3="380341" X4="371211" Y1="304973" Y2="304973" Y3="305817" Y4="305817"/>
+    <AngleOffset>0.00</AngleOffset>
+    <Offset X="3" Y="-14"/>
+    <Viewer3DMaxRange>0</Viewer3DMaxRange>
+    <ViewerDirection>17694</ViewerDirection>
+    <WindowAngle>270</WindowAngle>
+    <DefectType>1</DefectType>
+    <Defect3DType>1</Defect3DType>
+    <PassDefectType/>
+    <PassDefect3DType/>
+    <DefectPins/>
+    <OverKillPins/>
+  </Defect>
+
+  <Defect>
+    <Overkill>0</Overkill>
+    <DefectTypeString>2D Defect</DefectTypeString>
+    <ModuleId>44</ModuleId>
+    <RefId>USB200</RefId>
+    <FrameId>0</FrameId>
+    <WindowId>21</WindowId>
+    <IsImportantWindow>0</IsImportantWindow>
+    <PartNumber>0401-000006A</PartNumber>
+    <PartID>80123E87-9BCC-435b-84CC-86FE98D56AC6</PartID>
+    <WindowType>4</WindowType>
+    <ViewType>1</ViewType>
+    <PartGrabType>-1</PartGrabType>
+    <Reviewed>0</Reviewed>
+    <GroupDefectInfo>1</GroupDefectInfo>
+    <VirtualRefID>V4E5A2D58-FEDB-4a59-8D80-C2BE9C826E77</VirtualRefID>
+    <WindowRefID>_BIN_3_</WindowRefID>
+    <IsZAxisUpPos1>0</IsZAxisUpPos1>
+    <IsZAxisUpPos2>0</IsZAxisUpPos2>
+    <ChangeDefectType>0</ChangeDefectType>
+    <ResultValue>1063.992794</ResultValue>
+    <CameraNo>-1</CameraNo>
+    <IsChipFlyingDefect>0</IsChipFlyingDefect>
+    <_3DChipFlyingResultHeight>0.000000</_3DChipFlyingResultHeight>
+    <ResultMsg>Stripe(Vert/Negative)&#xD;
+Pixel      : 75 &lt; 71.0 &lt;= 95 &#xD;
+</ResultMsg>
+    <PartRect X1="2639" X2="2639" X3="1910" X4="1910" Y1="2291" Y2="3345" Y3="3345" Y4="2291"/>
+    <WindowRect X1="2142" X2="2142" X3="2010" X4="2010" Y1="2914" Y2="2972" Y3="2972" Y4="2914"/>
+    <FrameRect X1="338639" X2="397147" X3="397147" X4="338639" Y1="288918" Y2="288918" Y3="347420" Y4="347420"/>
+    <DefectRect X1="369315" X2="370180" X3="370180" X4="369315" Y1="302333" Y2="302333" Y3="304305" Y4="304305"/>
+    <AngleOffset>0.00</AngleOffset>
+    <Offset X="-10" Y="10"/>
+    <DefectPos X1="2010" X2="2142" X3="2142" X4="2010" Y1="2914" Y2="2914" Y3="2972" Y4="2972"/>
+    <Viewer3DMaxRange>0</Viewer3DMaxRange>
+    <ViewerDirection>17195</ViewerDirection>
+    <WindowAngle>270</WindowAngle>
+    <DefectType>-4</DefectType>
+    <Defect3DType>-4</Defect3DType>
+    <PassDefectType/>
+    <PassDefect3DType/>
+    <DefectPins/>
+    <OverKillPins/>
+  </Defect>
+
+  <Defect>
+    <Overkill>0</Overkill>
+    <DefectTypeString>2D Defect</DefectTypeString>
+    <ModuleId>44</ModuleId>
+    <RefId>USB200</RefId>
+    <FrameId>0</FrameId>
+    <WindowId>22</WindowId>
+    <IsImportantWindow>0</IsImportantWindow>
+    <PartNumber>0401-000006A</PartNumber>
+    <PartID>80123E87-9BCC-435b-84CC-86FE98D56AC6</PartID>
+    <WindowType>4</WindowType>
+    <ViewType>1</ViewType>
+    <PartGrabType>-1</PartGrabType>
+    <Reviewed>0</Reviewed>
+    <GroupDefectInfo>1</GroupDefectInfo>
+    <VirtualRefID>V476B49DB-E521-420c-B596-97C3059E04CE</VirtualRefID>
+    <WindowRefID>_BIN_4_</WindowRefID>
+    <IsZAxisUpPos1>0</IsZAxisUpPos1>
+    <IsZAxisUpPos2>0</IsZAxisUpPos2>
+    <ChangeDefectType>0</ChangeDefectType>
+    <ResultValue>1049.006980</ResultValue>
+    <CameraNo>-1</CameraNo>
+    <IsChipFlyingDefect>0</IsChipFlyingDefect>
+    <_3DChipFlyingResultHeight>0.000000</_3DChipFlyingResultHeight>
+    <ResultMsg>Stripe(Vert/Negative)&#xD;
+Pixel      : 75 &lt; 70.0 &lt;= 95 &#xD;
+</ResultMsg>
+    <PartRect X1="2639" X2="2639" X3="1910" X4="1910" Y1="2291" Y2="3345" Y3="3345" Y4="2291"/>
+    <WindowRect X1="2143" X2="2143" X3="2011" X4="2011" Y1="2657" Y2="2715" Y3="2715" Y4="2657"/>
+    <FrameRect X1="338639" X2="397147" X3="397147" X4="338639" Y1="288918" Y2="288918" Y3="347420" Y4="347420"/>
+    <DefectRect X1="369331" X2="370196" X3="370196" X4="369331" Y1="306185" Y2="306185" Y3="308157" Y4="308157"/>
+    <AngleOffset>0.00</AngleOffset>
+    <Offset X="-10" Y="10"/>
+    <DefectPos X1="2011" X2="2143" X3="2143" X4="2011" Y1="2657" Y2="2657" Y3="2715" Y4="2715"/>
+    <Viewer3DMaxRange>0</Viewer3DMaxRange>
+    <ViewerDirection>17145</ViewerDirection>
+    <WindowAngle>270</WindowAngle>
+    <DefectType>-4</DefectType>
+    <Defect3DType>-4</Defect3DType>
+    <PassDefectType/>
+    <PassDefect3DType/>
+    <DefectPins/>
+    <OverKillPins/>
+  </Defect>
+
+  <Defect>
+    <Overkill>0</Overkill>
+    <DefectTypeString>Missing</DefectTypeString>
+    <ModuleId>45</ModuleId>
+    <RefId>USB200</RefId>
+    <FrameId>0</FrameId>
+    <WindowId>1</WindowId>
+    <IsImportantWindow>0</IsImportantWindow>
+    <PartNumber>0401-000006A</PartNumber>
+    <PartID>80123E87-9BCC-435b-84CC-86FE98D56AC6</PartID>
+    <WindowType>1</WindowType>
+    <ViewType>2</ViewType>
+    <PartGrabType>-1</PartGrabType>
+    <Reviewed>0</Reviewed>
+    <GroupDefectInfo>1</GroupDefectInfo>
+    <VirtualRefID>V5F23BCB4-FD92-4c60-905C-8F4D52D9DC4D</VirtualRefID>
+    <WindowRefID>_MNT_62_</WindowRefID>
+    <IsZAxisUpPos1>0</IsZAxisUpPos1>
+    <IsZAxisUpPos2>0</IsZAxisUpPos2>
+    <ChangeDefectType>0</ChangeDefectType>
+    <ResultValue>0.000000</ResultValue>
+    <CameraNo>-1</CameraNo>
+    <IsChipFlyingDefect>0</IsChipFlyingDefect>
+    <_3DChipFlyingResultHeight>0.000000</_3DChipFlyingResultHeight>
+    <ResultMsg>Insp Type   :  Mounting&#xD;
+&#xD;
+.  No      Score   ChipVerify&#xD;
+[  1]   :   V     X&#xD;
+== Retry ==&#xD;
+[  1]   :   V     X&#xD;
+----------------------------------&#xD;
+Max score:  50.5%[Acceptance score :   60.0%]&#xD;
+Offset(X, Y, Angle)    : -8, -1, 0.00&#xD;
+</ResultMsg>
+    <PartRect X1="2642" X2="2642" X3="1913" X4="1913" Y1="2278" Y2="3332" Y3="3332" Y4="2278"/>
+    <WindowRect X1="2505" X2="2505" X3="2449" X4="2449" Y1="2502" Y2="3111" Y3="3111" Y4="2502"/>
+    <FrameRect X1="363644" X2="422152" X3="422152" X4="363644" Y1="288885" Y2="288885" Y3="347387" Y4="347387"/>
+    <DefectRect X1="396202" X2="405332" X3="405332" X4="396202" Y1="304908" Y2="304908" Y3="305752" Y4="305752"/>
+    <AngleOffset>0.00</AngleOffset>
+    <Offset X="-8" Y="-1"/>
+    <Viewer3DMaxRange>0</Viewer3DMaxRange>
+    <ViewerDirection>17175</ViewerDirection>
+    <WindowAngle>270</WindowAngle>
+    <DefectType>1</DefectType>
+    <Defect3DType>1</Defect3DType>
+    <PassDefectType/>
+    <PassDefect3DType/>
+    <DefectPins/>
+    <OverKillPins/>
+  </Defect>
+
+  <Defect>
+    <Overkill>0</Overkill>
+    <DefectTypeString>Missing</DefectTypeString>
+    <ModuleId>19</ModuleId>
+    <RefId>USB200</RefId>
+    <FrameId>0</FrameId>
+    <WindowId>1</WindowId>
+    <IsImportantWindow>0</IsImportantWindow>
+    <PartNumber>0401-000006A</PartNumber>
+    <PartID>80123E87-9BCC-435b-84CC-86FE98D56AC6</PartID>
+    <WindowType>1</WindowType>
+    <ViewType>2</ViewType>
+    <PartGrabType>-1</PartGrabType>
+    <Reviewed>0</Reviewed>
+    <GroupDefectInfo>1</GroupDefectInfo>
+    <VirtualRefID>V5F23BCB4-FD92-4c60-905C-8F4D52D9DC4D</VirtualRefID>
+    <WindowRefID>_MNT_62_</WindowRefID>
+    <IsZAxisUpPos1>0</IsZAxisUpPos1>
+    <IsZAxisUpPos2>0</IsZAxisUpPos2>
+    <ChangeDefectType>0</ChangeDefectType>
+    <ResultValue>0.000000</ResultValue>
+    <CameraNo>-1</CameraNo>
+    <IsChipFlyingDefect>0</IsChipFlyingDefect>
+    <_3DChipFlyingResultHeight>0.000000</_3DChipFlyingResultHeight>
+    <ResultMsg>Insp Type   :  Mounting&#xD;
+&#xD;
+.  No      Score   ChipVerify&#xD;
+[  1]   :  V       53.8%                    &#xD;
+== Retry ==&#xD;
+[  1]   :  V       53.8%                    &#xD;
+----------------------------------&#xD;
+Max score:  53.8%[Acceptance score :   60.0%]&#xD;
+Offset(X, Y, Angle)    : 11, -3, 0.00&#xD;
+</ResultMsg>
+    <PartRect X1="1272" X2="1272" X3="2000" X4="2000" Y1="1620" Y2="566" Y3="566" Y4="1620"/>
+    <WindowRect X1="1409" X2="1409" X3="1464" X4="1464" Y1="1396" Y2="787" Y3="787" Y4="1396"/>
+    <FrameRect X1="332193" X2="390700" X3="390700" X4="332193" Y1="254607" Y2="254607" Y3="313109" Y4="313109"/>
+    <DefectRect X1="349177" X2="358307" X3="358307" X4="349177" Y1="296311" Y2="296311" Y3="297154" Y4="297154"/>
+    <AngleOffset>0.00</AngleOffset>
+    <Offset X="11" Y="-3"/>
+    <Viewer3DMaxRange>0</Viewer3DMaxRange>
+    <ViewerDirection>17667</ViewerDirection>
+    <WindowAngle>90</WindowAngle>
+    <DefectType>1</DefectType>
+    <Defect3DType>1</Defect3DType>
+    <PassDefectType/>
+    <PassDefect3DType/>
+    <DefectPins/>
+    <OverKillPins/>
+  </Defect>
+
+  <Defect>
+    <Overkill>0</Overkill>
+    <DefectTypeString>2D Defect</DefectTypeString>
+    <ModuleId>18</ModuleId>
+    <RefId>USB200</RefId>
+    <FrameId>0</FrameId>
+    <WindowId>21</WindowId>
+    <IsImportantWindow>0</IsImportantWindow>
+    <PartNumber>0401-000006A</PartNumber>
+    <PartID>80123E87-9BCC-435b-84CC-86FE98D56AC6</PartID>
+    <WindowType>4</WindowType>
+    <ViewType>1</ViewType>
+    <PartGrabType>-1</PartGrabType>
+    <Reviewed>0</Reviewed>
+    <GroupDefectInfo>1</GroupDefectInfo>
+    <VirtualRefID>V4E5A2D58-FEDB-4a59-8D80-C2BE9C826E77</VirtualRefID>
+    <WindowRefID>_BIN_3_</WindowRefID>
+    <IsZAxisUpPos1>0</IsZAxisUpPos1>
+    <IsZAxisUpPos2>0</IsZAxisUpPos2>
+    <ChangeDefectType>0</ChangeDefectType>
+    <ResultValue>1078.978608</ResultValue>
+    <CameraNo>-1</CameraNo>
+    <IsChipFlyingDefect>0</IsChipFlyingDefect>
+    <_3DChipFlyingResultHeight>0.000000</_3DChipFlyingResultHeight>
+    <ResultMsg>Stripe(Vert/Negative)&#xD;
+Pixel      : 75 &lt; 72.0 &lt;= 95 &#xD;
+</ResultMsg>
+    <PartRect X1="1272" X2="1272" X3="2000" X4="2000" Y1="1613" Y2="558" Y3="558" Y4="1613"/>
+    <WindowRect X1="1770" X2="1770" X3="1901" X4="1901" Y1="989" Y2="932" Y3="932" Y4="989"/>
+    <FrameRect X1="307144" X2="365651" X3="365651" X4="307144" Y1="254557" Y2="254557" Y3="313059" Y4="313059"/>
+    <DefectRect X1="334233" X2="335098" X3="335098" X4="334233" Y1="297654" Y2="297654" Y3="299626" Y4="299626"/>
+    <AngleOffset>0.00</AngleOffset>
+    <Offset X="6" Y="-3"/>
+    <DefectPos X1="1770" X2="1901" X3="1901" X4="1770" Y1="932" Y2="932" Y3="989" Y4="989"/>
+    <Viewer3DMaxRange>0</Viewer3DMaxRange>
+    <ViewerDirection>17519</ViewerDirection>
+    <WindowAngle>90</WindowAngle>
+    <DefectType>-4</DefectType>
+    <Defect3DType>-4</Defect3DType>
+    <PassDefectType/>
+    <PassDefect3DType/>
+    <DefectPins/>
+    <OverKillPins/>
+  </Defect>
+
+  <Defect>
+    <Overkill>0</Overkill>
+    <DefectTypeString>2D Defect</DefectTypeString>
+    <ModuleId>18</ModuleId>
+    <RefId>USB200</RefId>
+    <FrameId>0</FrameId>
+    <WindowId>22</WindowId>
+    <IsImportantWindow>0</IsImportantWindow>
+    <PartNumber>0401-000006A</PartNumber>
+    <PartID>80123E87-9BCC-435b-84CC-86FE98D56AC6</PartID>
+    <WindowType>4</WindowType>
+    <ViewType>1</ViewType>
+    <PartGrabType>-1</PartGrabType>
+    <Reviewed>0</Reviewed>
+    <GroupDefectInfo>1</GroupDefectInfo>
+    <VirtualRefID>V476B49DB-E521-420c-B596-97C3059E04CE</VirtualRefID>
+    <WindowRefID>_BIN_4_</WindowRefID>
+    <IsZAxisUpPos1>0</IsZAxisUpPos1>
+    <IsZAxisUpPos2>0</IsZAxisUpPos2>
+    <ChangeDefectType>0</ChangeDefectType>
+    <ResultValue>1049.006980</ResultValue>
+    <CameraNo>-1</CameraNo>
+    <IsChipFlyingDefect>0</IsChipFlyingDefect>
+    <_3DChipFlyingResultHeight>0.000000</_3DChipFlyingResultHeight>
+    <ResultMsg>Stripe(Vert/Negative)&#xD;
+Pixel      : 75 &lt; 70.0 &lt;= 95 &#xD;
+</ResultMsg>
+    <PartRect X1="1272" X2="1272" X3="2000" X4="2000" Y1="1613" Y2="558" Y3="558" Y4="1613"/>
+    <WindowRect X1="1769" X2="1769" X3="1900" X4="1900" Y1="1246" Y2="1189" Y3="1189" Y4="1246"/>
+    <FrameRect X1="307144" X2="365651" X3="365651" X4="307144" Y1="254557" Y2="254557" Y3="313059" Y4="313059"/>
+    <DefectRect X1="334217" X2="335082" X3="335082" X4="334217" Y1="293802" Y2="293802" Y3="295774" Y4="295774"/>
+    <AngleOffset>0.00</AngleOffset>
+    <Offset X="6" Y="-3"/>
+    <DefectPos X1="1769" X2="1900" X3="1900" X4="1769" Y1="1189" Y2="1189" Y3="1246" Y4="1246"/>
+    <Viewer3DMaxRange>0</Viewer3DMaxRange>
+    <ViewerDirection>0</ViewerDirection>
+    <WindowAngle>90</WindowAngle>
+    <DefectType>-4</DefectType>
+    <Defect3DType>-4</Defect3DType>
+    <PassDefectType/>
+    <PassDefect3DType/>
+    <DefectPins/>
+    <OverKillPins/>
+  </Defect>
+
+  <Defect>
+    <Overkill>0</Overkill>
+    <DefectTypeString>Missing</DefectTypeString>
+    <ModuleId>43</ModuleId>
+    <RefId>USB200</RefId>
+    <FrameId>0</FrameId>
+    <WindowId>1</WindowId>
+    <IsImportantWindow>0</IsImportantWindow>
+    <PartNumber>0401-000006A</PartNumber>
+    <PartID>80123E87-9BCC-435b-84CC-86FE98D56AC6</PartID>
+    <WindowType>1</WindowType>
+    <ViewType>2</ViewType>
+    <PartGrabType>-1</PartGrabType>
+    <Reviewed>0</Reviewed>
+    <GroupDefectInfo>1</GroupDefectInfo>
+    <VirtualRefID>V5F23BCB4-FD92-4c60-905C-8F4D52D9DC4D</VirtualRefID>
+    <WindowRefID>_MNT_62_</WindowRefID>
+    <IsZAxisUpPos1>0</IsZAxisUpPos1>
+    <IsZAxisUpPos2>0</IsZAxisUpPos2>
+    <ChangeDefectType>0</ChangeDefectType>
+    <ResultValue>0.000000</ResultValue>
+    <CameraNo>-1</CameraNo>
+    <IsChipFlyingDefect>0</IsChipFlyingDefect>
+    <_3DChipFlyingResultHeight>0.000000</_3DChipFlyingResultHeight>
+    <ResultMsg>Insp Type   :  Mounting&#xD;
+&#xD;
+.  No      Score   ChipVerify&#xD;
+[  1]   :  V       51.2%                    &#xD;
+== Retry ==&#xD;
+[  1]   :  V       51.5%                    &#xD;
+----------------------------------&#xD;
+Max score:  51.5%[Acceptance score :   60.0%]&#xD;
+Offset(X, Y, Angle)    : -9, -16, 0.00&#xD;
+</ResultMsg>
+    <PartRect X1="2639" X2="2639" X3="1910" X4="1910" Y1="2284" Y2="3339" Y3="3339" Y4="2284"/>
+    <WindowRect X1="2503" X2="2503" X3="2447" X4="2447" Y1="2507" Y2="3117" Y3="3117" Y4="2507"/>
+    <FrameRect X1="313555" X2="372062" X3="372062" X4="313555" Y1="288910" Y2="288910" Y3="347412" Y4="347412"/>
+    <DefectRect X1="346079" X2="355208" X3="355208" X4="346079" Y1="304845" Y2="304845" Y3="305688" Y4="305688"/>
+    <AngleOffset>0.00</AngleOffset>
+    <Offset X="-9" Y="-16"/>
+    <Viewer3DMaxRange>0</Viewer3DMaxRange>
+    <ViewerDirection>17169</ViewerDirection>
+    <WindowAngle>270</WindowAngle>
+    <DefectType>1</DefectType>
+    <Defect3DType>1</Defect3DType>
+    <PassDefectType/>
+    <PassDefect3DType/>
+    <DefectPins/>
+    <OverKillPins/>
+  </Defect>
+
+  <Defect>
+    <Overkill>0</Overkill>
+    <DefectTypeString>Missing</DefectTypeString>
+    <ModuleId>43</ModuleId>
+    <RefId>USB200</RefId>
+    <FrameId>0</FrameId>
+    <WindowId>3</WindowId>
+    <IsImportantWindow>0</IsImportantWindow>
+    <PartNumber>0401-000006A</PartNumber>
+    <PartID>80123E87-9BCC-435b-84CC-86FE98D56AC6</PartID>
+    <WindowType>1</WindowType>
+    <ViewType>2</ViewType>
+    <PartGrabType>-1</PartGrabType>
+    <Reviewed>0</Reviewed>
+    <GroupDefectInfo>1</GroupDefectInfo>
+    <VirtualRefID>V4A02AC68-6C0B-4d1e-9792-A6DD06A3A766</VirtualRefID>
+    <WindowRefID>_MNT_64_</WindowRefID>
+    <IsZAxisUpPos1>0</IsZAxisUpPos1>
+    <IsZAxisUpPos2>0</IsZAxisUpPos2>
+    <ChangeDefectType>0</ChangeDefectType>
+    <ResultValue>0.000000</ResultValue>
+    <CameraNo>-1</CameraNo>
+    <IsChipFlyingDefect>0</IsChipFlyingDefect>
+    <_3DChipFlyingResultHeight>0.000000</_3DChipFlyingResultHeight>
+    <ResultMsg>Insp Type   :  Mounting&#xD;
+&#xD;
+.  No      Score   ChipVerify&#xD;
+[  1]   :  V        7.9%                    &#xD;
+== Retry ==&#xD;
+[  1]   :  V       14.3%                    &#xD;
+----------------------------------&#xD;
+Max score:  14.3%[Acceptance score :   60.0%]&#xD;
+Offset(X, Y, Angle)    : 1, -15, 0.00&#xD;
+</ResultMsg>
+    <PartRect X1="2650" X2="2650" X3="1921" X4="1921" Y1="2285" Y2="3340" Y3="3340" Y4="2285"/>
+    <WindowRect X1="2608" X2="2608" X3="2534" X4="2534" Y1="2986" Y2="3007" Y3="3007" Y4="2986"/>
+    <FrameRect X1="313555" X2="372062" X3="372062" X4="313555" Y1="288910" Y2="288910" Y3="347412" Y4="347412"/>
+    <DefectRect X1="351923" X2="352240" X3="352240" X4="351923" Y1="301956" Y2="301956" Y3="303068" Y4="303068"/>
+    <AngleOffset>0.00</AngleOffset>
+    <Offset X="1" Y="-15"/>
+    <Viewer3DMaxRange>0</Viewer3DMaxRange>
+    <ViewerDirection>5</ViewerDirection>
+    <WindowAngle>270</WindowAngle>
+    <DefectType>1</DefectType>
+    <Defect3DType>1</Defect3DType>
+    <PassDefectType/>
+    <PassDefect3DType/>
+    <DefectPins/>
+    <OverKillPins/>
+  </Defect>
+
+  <Defect>
+    <Overkill>0</Overkill>
+    <DefectTypeString>Missing</DefectTypeString>
+    <ModuleId>43</ModuleId>
+    <RefId>USB200</RefId>
+    <FrameId>0</FrameId>
+    <WindowId>14</WindowId>
+    <IsImportantWindow>0</IsImportantWindow>
+    <PartNumber>0401-000006A</PartNumber>
+    <PartID>80123E87-9BCC-435b-84CC-86FE98D56AC6</PartID>
+    <WindowType>1</WindowType>
+    <ViewType>2</ViewType>
+    <PartGrabType>-1</PartGrabType>
+    <Reviewed>0</Reviewed>
+    <GroupDefectInfo>1</GroupDefectInfo>
+    <VirtualRefID>V469B8F1F-B634-4b43-B935-D04A666825E8</VirtualRefID>
+    <WindowRefID>_MNT_75_</WindowRefID>
+    <IsZAxisUpPos1>0</IsZAxisUpPos1>
+    <IsZAxisUpPos2>0</IsZAxisUpPos2>
+    <ChangeDefectType>0</ChangeDefectType>
+    <ResultValue>0.000000</ResultValue>
+    <CameraNo>-1</CameraNo>
+    <IsChipFlyingDefect>0</IsChipFlyingDefect>
+    <_3DChipFlyingResultHeight>0.000000</_3DChipFlyingResultHeight>
+    <ResultMsg>Insp Type   :  Mounting&#xD;
+&#xD;
+.  No      Score   ChipVerify&#xD;
+[  1]   :  V       24.7%                    &#xD;
+== Retry ==&#xD;
+[  1]   :  V       36.0%                    &#xD;
+----------------------------------&#xD;
+Max score:  36.0%[Acceptance score :   60.0%]&#xD;
+Offset(X, Y, Angle)    : -4, -15, 0.00&#xD;
+</ResultMsg>
+    <PartRect X1="2644" X2="2644" X3="1915" X4="1915" Y1="2285" Y2="3340" Y3="3340" Y4="2285"/>
+    <WindowRect X1="2600" X2="2600" X3="2531" X4="2531" Y1="2619" Y2="2639" Y3="2639" Y4="2619"/>
+    <FrameRect X1="313555" X2="372062" X3="372062" X4="313555" Y1="288910" Y2="288910" Y3="347412" Y4="347412"/>
+    <DefectRect X1="351862" X2="352153" X3="352153" X4="351862" Y1="307482" Y2="307482" Y3="308515" Y4="308515"/>
+    <AngleOffset>0.00</AngleOffset>
+    <Offset X="-4" Y="-15"/>
+    <Viewer3DMaxRange>0</Viewer3DMaxRange>
+    <ViewerDirection>49634</ViewerDirection>
+    <WindowAngle>270</WindowAngle>
+    <DefectType>1</DefectType>
+    <Defect3DType>1</Defect3DType>
+    <PassDefectType/>
+    <PassDefect3DType/>
+    <DefectPins/>
+    <OverKillPins/>
+  </Defect>
+
+  <Defect>
+    <Overkill>0</Overkill>
+    <DefectTypeString>Missing</DefectTypeString>
+    <ModuleId>36</ModuleId>
+    <RefId>USB200</RefId>
+    <FrameId>0</FrameId>
+    <WindowId>1</WindowId>
+    <IsImportantWindow>0</IsImportantWindow>
+    <PartNumber>0401-000006A</PartNumber>
+    <PartID>80123E87-9BCC-435b-84CC-86FE98D56AC6</PartID>
+    <WindowType>1</WindowType>
+    <ViewType>2</ViewType>
+    <PartGrabType>-1</PartGrabType>
+    <Reviewed>0</Reviewed>
+    <GroupDefectInfo>1</GroupDefectInfo>
+    <VirtualRefID>V5F23BCB4-FD92-4c60-905C-8F4D52D9DC4D</VirtualRefID>
+    <WindowRefID>_MNT_62_</WindowRefID>
+    <IsZAxisUpPos1>0</IsZAxisUpPos1>
+    <IsZAxisUpPos2>0</IsZAxisUpPos2>
+    <ChangeDefectType>0</ChangeDefectType>
+    <ResultValue>0.000000</ResultValue>
+    <CameraNo>-1</CameraNo>
+    <IsChipFlyingDefect>0</IsChipFlyingDefect>
+    <_3DChipFlyingResultHeight>0.000000</_3DChipFlyingResultHeight>
+    <ResultMsg>Insp Type   :  Mounting&#xD;
+&#xD;
+.  No      Score   ChipVerify&#xD;
+[  1]   :  V       51.2%                    &#xD;
+== Retry ==&#xD;
+[  1]   :  V       51.3%                    &#xD;
+----------------------------------&#xD;
+Max score:  51.3%[Acceptance score :   60.0%]&#xD;
+Offset(X, Y, Angle)    : -10, -16, 0.00&#xD;
+</ResultMsg>
+    <PartRect X1="2637" X2="2637" X3="1908" X4="1908" Y1="2288" Y2="3342" Y3="3342" Y4="2288"/>
+    <WindowRect X1="2500" X2="2500" X3="2444" X4="2444" Y1="2512" Y2="3121" Y3="3121" Y4="2512"/>
+    <FrameRect X1="268674" X2="327181" X3="327181" X4="268674" Y1="367443" Y2="367443" Y3="425945" Y4="425945"/>
+    <DefectRect X1="301157" X2="310286" X3="310286" X4="301157" Y1="383325" Y2="383325" Y3="384168" Y4="384168"/>
+    <AngleOffset>0.00</AngleOffset>
+    <Offset X="-10" Y="-16"/>
+    <Viewer3DMaxRange>0</Viewer3DMaxRange>
+    <ViewerDirection>6094896</ViewerDirection>
+    <WindowAngle>270</WindowAngle>
+    <DefectType>1</DefectType>
+    <Defect3DType>1</Defect3DType>
+    <PassDefectType/>
+    <PassDefect3DType/>
+    <DefectPins/>
+    <OverKillPins/>
+  </Defect>
+
+  <Defect>
+    <Overkill>0</Overkill>
+    <DefectTypeString>Missing</DefectTypeString>
+    <ModuleId>36</ModuleId>
+    <RefId>USB200</RefId>
+    <FrameId>0</FrameId>
+    <WindowId>3</WindowId>
+    <IsImportantWindow>0</IsImportantWindow>
+    <PartNumber>0401-000006A</PartNumber>
+    <PartID>80123E87-9BCC-435b-84CC-86FE98D56AC6</PartID>
+    <WindowType>1</WindowType>
+    <ViewType>2</ViewType>
+    <PartGrabType>-1</PartGrabType>
+    <Reviewed>0</Reviewed>
+    <GroupDefectInfo>1</GroupDefectInfo>
+    <VirtualRefID>V4A02AC68-6C0B-4d1e-9792-A6DD06A3A766</VirtualRefID>
+    <WindowRefID>_MNT_64_</WindowRefID>
+    <IsZAxisUpPos1>0</IsZAxisUpPos1>
+    <IsZAxisUpPos2>0</IsZAxisUpPos2>
+    <ChangeDefectType>0</ChangeDefectType>
+    <ResultValue>0.000000</ResultValue>
+    <CameraNo>-1</CameraNo>
+    <IsChipFlyingDefect>0</IsChipFlyingDefect>
+    <_3DChipFlyingResultHeight>0.000000</_3DChipFlyingResultHeight>
+    <ResultMsg>Insp Type   :  Mounting&#xD;
+&#xD;
+.  No      Score   ChipVerify&#xD;
+[  1]   :  V       15.2%                    &#xD;
+== Retry ==&#xD;
+[  1]   :  V       27.5%                    &#xD;
+----------------------------------&#xD;
+Max score:  27.5%[Acceptance score :   60.0%]&#xD;
+Offset(X, Y, Angle)    : 0, -16, 0.00&#xD;
+</ResultMsg>
+    <PartRect X1="2646" X2="2646" X3="1917" X4="1917" Y1="2288" Y2="3342" Y3="3342" Y4="2288"/>
+    <WindowRect X1="2603" X2="2603" X3="2528" X4="2528" Y1="2988" Y2="3009" Y3="3009" Y4="2988"/>
+    <FrameRect X1="268674" X2="327181" X3="327181" X4="268674" Y1="367443" Y2="367443" Y3="425945" Y4="425945"/>
+    <DefectRect X1="306971" X2="307288" X3="307288" X4="306971" Y1="380451" Y2="380451" Y3="381563" Y4="381563"/>
+    <AngleOffset>0.00</AngleOffset>
+    <Offset X="0" Y="-16"/>
+    <Viewer3DMaxRange>0</Viewer3DMaxRange>
+    <ViewerDirection>17527</ViewerDirection>
+    <WindowAngle>270</WindowAngle>
+    <DefectType>1</DefectType>
+    <Defect3DType>1</Defect3DType>
+    <PassDefectType/>
+    <PassDefect3DType/>
+    <DefectPins/>
+    <OverKillPins/>
+  </Defect>
+
+  <Defect>
+    <Overkill>0</Overkill>
+    <DefectTypeString>Missing</DefectTypeString>
+    <ModuleId>36</ModuleId>
+    <RefId>USB200</RefId>
+    <FrameId>0</FrameId>
+    <WindowId>14</WindowId>
+    <IsImportantWindow>0</IsImportantWindow>
+    <PartNumber>0401-000006A</PartNumber>
+    <PartID>80123E87-9BCC-435b-84CC-86FE98D56AC6</PartID>
+    <WindowType>1</WindowType>
+    <ViewType>2</ViewType>
+    <PartGrabType>-1</PartGrabType>
+    <Reviewed>0</Reviewed>
+    <GroupDefectInfo>1</GroupDefectInfo>
+    <VirtualRefID>V469B8F1F-B634-4b43-B935-D04A666825E8</VirtualRefID>
+    <WindowRefID>_MNT_75_</WindowRefID>
+    <IsZAxisUpPos1>0</IsZAxisUpPos1>
+    <IsZAxisUpPos2>0</IsZAxisUpPos2>
+    <ChangeDefectType>0</ChangeDefectType>
+    <ResultValue>0.000000</ResultValue>
+    <CameraNo>-1</CameraNo>
+    <IsChipFlyingDefect>0</IsChipFlyingDefect>
+    <_3DChipFlyingResultHeight>0.000000</_3DChipFlyingResultHeight>
+    <ResultMsg>Insp Type   :  Mounting&#xD;
+&#xD;
+.  No      Score   ChipVerify&#xD;
+[  1]   :  V       37.9%                    &#xD;
+== Retry ==&#xD;
+[  1]   :  V       50.9%                    &#xD;
+----------------------------------&#xD;
+Max score:  50.9%[Acceptance score :   60.0%]&#xD;
+Offset(X, Y, Angle)    : -4, -16, 0.00&#xD;
+</ResultMsg>
+    <PartRect X1="2642" X2="2642" X3="1913" X4="1913" Y1="2288" Y2="3342" Y3="3342" Y4="2288"/>
+    <WindowRect X1="2597" X2="2597" X3="2528" X4="2528" Y1="2623" Y2="2642" Y3="2642" Y4="2623"/>
+    <FrameRect X1="268674" X2="327181" X3="327181" X4="268674" Y1="367443" Y2="367443" Y3="425945" Y4="425945"/>
+    <DefectRect X1="306940" X2="307231" X3="307231" X4="306940" Y1="385977" Y2="385977" Y3="387010" Y4="387010"/>
+    <AngleOffset>0.00</AngleOffset>
+    <Offset X="-4" Y="-16"/>
+    <Viewer3DMaxRange>0</Viewer3DMaxRange>
+    <ViewerDirection>48</ViewerDirection>
+    <WindowAngle>270</WindowAngle>
+    <DefectType>1</DefectType>
+    <Defect3DType>1</Defect3DType>
+    <PassDefectType/>
+    <PassDefect3DType/>
+    <DefectPins/>
+    <OverKillPins/>
+  </Defect>
+
+  <Defect>
+    <Overkill>0</Overkill>
+    <DefectTypeString>InsufficientSolder</DefectTypeString>
+    <ModuleId>36</ModuleId>
+    <RefId>USB200</RefId>
+    <FrameId>0</FrameId>
+    <WindowId>24</WindowId>
+    <IsImportantWindow>0</IsImportantWindow>
+    <PartNumber>0401-000006A</PartNumber>
+    <PartID>80123E87-9BCC-435b-84CC-86FE98D56AC6</PartID>
+    <WindowType>2</WindowType>
+    <ViewType>1</ViewType>
+    <PartGrabType>-1</PartGrabType>
+    <Reviewed>0</Reviewed>
+    <GroupDefectInfo>1</GroupDefectInfo>
+    <VirtualRefID>V2F54E25A-7D54-48d4-802E-CE366809525D</VirtualRefID>
+    <WindowRefID>_SLD_20_</WindowRefID>
+    <IsZAxisUpPos1>0</IsZAxisUpPos1>
+    <IsZAxisUpPos2>0</IsZAxisUpPos2>
+    <ChangeDefectType>0</ChangeDefectType>
+    <ResultValue>0.000000</ResultValue>
+    <CameraNo>-1</CameraNo>
+    <IsChipFlyingDefect>0</IsChipFlyingDefect>
+    <_3DChipFlyingResultHeight>0.000000</_3DChipFlyingResultHeight>
+    <ResultMsg> Insp type : Solder &#xD;
+ Condition  :  30 &lt;= X &lt;= 255 &#xD;
+ White Rate : 32.6% [40.0% ~ 100.0%] 
+</ResultMsg>
+    <PartRect X1="2647" X2="2647" X3="1918" X4="1918" Y1="2305" Y2="3359" Y3="3359" Y4="2305"/>
+    <WindowRect X1="2405" X2="2405" X3="2289" X4="2289" Y1="3176" Y2="3220" Y3="3220" Y4="3176"/>
+    <FrameRect X1="268674" X2="327181" X3="327181" X4="268674" Y1="367443" Y2="367443" Y3="425945" Y4="425945"/>
+    <DefectRect X1="303509" X2="304171" X3="304171" X4="303509" Y1="377144" Y2="377144" Y3="378882" Y4="378882"/>
+    <AngleOffset>0.00</AngleOffset>
+    <Offset X="2" Y="20"/>
+    <DefectPos X1="2404" X2="2404" X3="2288" X4="2288" Y1="3176" Y2="3221" Y3="3221" Y4="3176"/>
+    <Viewer3DMaxRange>0</Viewer3DMaxRange>
+    <ViewerDirection>17178</ViewerDirection>
+    <WindowAngle>270</WindowAngle>
+    <DefectType>5</DefectType>
+    <Defect3DType>5</Defect3DType>
+    <PassDefectType/>
+    <PassDefect3DType/>
+    <DefectPins/>
+    <OverKillPins/>
+  </Defect>
+
+  <Defect>
+    <Overkill>0</Overkill>
+    <DefectTypeString>Missing</DefectTypeString>
+    <ModuleId>35</ModuleId>
+    <RefId>USB200</RefId>
+    <FrameId>0</FrameId>
+    <WindowId>3</WindowId>
+    <IsImportantWindow>0</IsImportantWindow>
+    <PartNumber>0401-000006A</PartNumber>
+    <PartID>80123E87-9BCC-435b-84CC-86FE98D56AC6</PartID>
+    <WindowType>1</WindowType>
+    <ViewType>2</ViewType>
+    <PartGrabType>-1</PartGrabType>
+    <Reviewed>0</Reviewed>
+    <GroupDefectInfo>1</GroupDefectInfo>
+    <VirtualRefID>V4A02AC68-6C0B-4d1e-9792-A6DD06A3A766</VirtualRefID>
+    <WindowRefID>_MNT_64_</WindowRefID>
+    <IsZAxisUpPos1>0</IsZAxisUpPos1>
+    <IsZAxisUpPos2>0</IsZAxisUpPos2>
+    <ChangeDefectType>0</ChangeDefectType>
+    <ResultValue>0.000000</ResultValue>
+    <CameraNo>-1</CameraNo>
+    <IsChipFlyingDefect>0</IsChipFlyingDefect>
+    <_3DChipFlyingResultHeight>0.000000</_3DChipFlyingResultHeight>
+    <ResultMsg>Insp Type   :  Mounting&#xD;
+&#xD;
+.  No      Score   ChipVerify&#xD;
+[  1]   :  V       10.8%                    &#xD;
+== Retry ==&#xD;
+[  1]   :  V       17.4%                    &#xD;
+----------------------------------&#xD;
+Max score:  17.4%[Acceptance score :   60.0%]&#xD;
+Offset(X, Y, Angle)    : 7, -15, 0.00&#xD;
+</ResultMsg>
+    <PartRect X1="2645" X2="2645" X3="1916" X4="1916" Y1="2286" Y2="3341" Y3="3341" Y4="2286"/>
+    <WindowRect X1="2602" X2="2602" X3="2528" X4="2528" Y1="2987" Y2="3008" Y3="3008" Y4="2987"/>
+    <FrameRect X1="243629" X2="302136" X3="302136" X4="243629" Y1="367388" Y2="367388" Y3="425890" Y4="425890"/>
+    <DefectRect X1="281915" X2="282232" X3="282232" X4="281915" Y1="380418" Y2="380418" Y3="381531" Y4="381531"/>
+    <AngleOffset>0.00</AngleOffset>
+    <Offset X="7" Y="-15"/>
+    <Viewer3DMaxRange>0</Viewer3DMaxRange>
+    <ViewerDirection>17597</ViewerDirection>
+    <WindowAngle>270</WindowAngle>
+    <DefectType>1</DefectType>
+    <Defect3DType>1</Defect3DType>
+    <PassDefectType/>
+    <PassDefect3DType/>
+    <DefectPins/>
+    <OverKillPins/>
+  </Defect>
+
+  <Defect>
+    <Overkill>0</Overkill>
+    <DefectTypeString>Missing</DefectTypeString>
+    <ModuleId>35</ModuleId>
+    <RefId>USB200</RefId>
+    <FrameId>0</FrameId>
+    <WindowId>14</WindowId>
+    <IsImportantWindow>0</IsImportantWindow>
+    <PartNumber>0401-000006A</PartNumber>
+    <PartID>80123E87-9BCC-435b-84CC-86FE98D56AC6</PartID>
+    <WindowType>1</WindowType>
+    <ViewType>2</ViewType>
+    <PartGrabType>-1</PartGrabType>
+    <Reviewed>0</Reviewed>
+    <GroupDefectInfo>1</GroupDefectInfo>
+    <VirtualRefID>V469B8F1F-B634-4b43-B935-D04A666825E8</VirtualRefID>
+    <WindowRefID>_MNT_75_</WindowRefID>
+    <IsZAxisUpPos1>0</IsZAxisUpPos1>
+    <IsZAxisUpPos2>0</IsZAxisUpPos2>
+    <ChangeDefectType>0</ChangeDefectType>
+    <ResultValue>0.000000</ResultValue>
+    <CameraNo>-1</CameraNo>
+    <IsChipFlyingDefect>0</IsChipFlyingDefect>
+    <_3DChipFlyingResultHeight>0.000000</_3DChipFlyingResultHeight>
+    <ResultMsg>Insp Type   :  Mounting&#xD;
+&#xD;
+.  No      Score   ChipVerify&#xD;
+[  1]   :  V       31.9%                    &#xD;
+== Retry ==&#xD;
+[  1]   :  V       40.4%                    &#xD;
+----------------------------------&#xD;
+Max score:  40.4%[Acceptance score :   60.0%]&#xD;
+Offset(X, Y, Angle)    : 5, -15, 0.00&#xD;
+</ResultMsg>
+    <PartRect X1="2642" X2="2642" X3="1913" X4="1913" Y1="2286" Y2="3341" Y3="3341" Y4="2286"/>
+    <WindowRect X1="2597" X2="2597" X3="2528" X4="2528" Y1="2621" Y2="2640" Y3="2640" Y4="2621"/>
+    <FrameRect X1="243629" X2="302136" X3="302136" X4="243629" Y1="367388" Y2="367388" Y3="425890" Y4="425890"/>
+    <DefectRect X1="281899" X2="282190" X3="282190" X4="281899" Y1="385945" Y2="385945" Y3="386977" Y4="386977"/>
+    <AngleOffset>0.00</AngleOffset>
+    <Offset X="5" Y="-15"/>
+    <Viewer3DMaxRange>0</Viewer3DMaxRange>
+    <ViewerDirection>17599</ViewerDirection>
+    <WindowAngle>270</WindowAngle>
+    <DefectType>1</DefectType>
+    <Defect3DType>1</Defect3DType>
+    <PassDefectType/>
+    <PassDefect3DType/>
+    <DefectPins/>
+    <OverKillPins/>
+  </Defect>
+
+  <Defect>
+    <Overkill>0</Overkill>
+    <DefectTypeString>2D Defect</DefectTypeString>
+    <ModuleId>35</ModuleId>
+    <RefId>USB200</RefId>
+    <FrameId>0</FrameId>
+    <WindowId>21</WindowId>
+    <IsImportantWindow>0</IsImportantWindow>
+    <PartNumber>0401-000006A</PartNumber>
+    <PartID>80123E87-9BCC-435b-84CC-86FE98D56AC6</PartID>
+    <WindowType>4</WindowType>
+    <ViewType>1</ViewType>
+    <PartGrabType>-1</PartGrabType>
+    <Reviewed>0</Reviewed>
+    <GroupDefectInfo>1</GroupDefectInfo>
+    <VirtualRefID>V4E5A2D58-FEDB-4a59-8D80-C2BE9C826E77</VirtualRefID>
+    <WindowRefID>_BIN_3_</WindowRefID>
+    <IsZAxisUpPos1>0</IsZAxisUpPos1>
+    <IsZAxisUpPos2>0</IsZAxisUpPos2>
+    <ChangeDefectType>0</ChangeDefectType>
+    <ResultValue>1078.978608</ResultValue>
+    <CameraNo>-1</CameraNo>
+    <IsChipFlyingDefect>0</IsChipFlyingDefect>
+    <_3DChipFlyingResultHeight>0.000000</_3DChipFlyingResultHeight>
+    <ResultMsg>Stripe(Vert/Negative)&#xD;
+Pixel      : 75 &lt; 72.0 &lt;= 95 &#xD;
+</ResultMsg>
+    <PartRect X1="2637" X2="2637" X3="1908" X4="1908" Y1="2302" Y2="3357" Y3="3357" Y4="2302"/>
+    <WindowRect X1="2140" X2="2140" X3="2008" X4="2008" Y1="2925" Y2="2983" Y3="2983" Y4="2925"/>
+    <FrameRect X1="243629" X2="302136" X3="302136" X4="243629" Y1="367388" Y2="367388" Y3="425890" Y4="425890"/>
+    <DefectRect X1="274280" X2="275144" X3="275144" X4="274280" Y1="380638" Y2="380638" Y3="382610" Y4="382610"/>
+    <AngleOffset>0.00</AngleOffset>
+    <Offset X="-9" Y="19"/>
+    <DefectPos X1="2008" X2="2140" X3="2140" X4="2008" Y1="2925" Y2="2925" Y3="2983" Y4="2983"/>
+    <Viewer3DMaxRange>0</Viewer3DMaxRange>
+    <ViewerDirection>17585</ViewerDirection>
+    <WindowAngle>270</WindowAngle>
+    <DefectType>-4</DefectType>
+    <Defect3DType>-4</Defect3DType>
+    <PassDefectType/>
+    <PassDefect3DType/>
+    <DefectPins/>
+    <OverKillPins/>
+  </Defect>
+
+  <Defect>
+    <Overkill>0</Overkill>
+    <DefectTypeString>2D Defect</DefectTypeString>
+    <ModuleId>35</ModuleId>
+    <RefId>USB200</RefId>
+    <FrameId>0</FrameId>
+    <WindowId>22</WindowId>
+    <IsImportantWindow>0</IsImportantWindow>
+    <PartNumber>0401-000006A</PartNumber>
+    <PartID>80123E87-9BCC-435b-84CC-86FE98D56AC6</PartID>
+    <WindowType>4</WindowType>
+    <ViewType>1</ViewType>
+    <PartGrabType>-1</PartGrabType>
+    <Reviewed>0</Reviewed>
+    <GroupDefectInfo>1</GroupDefectInfo>
+    <VirtualRefID>V476B49DB-E521-420c-B596-97C3059E04CE</VirtualRefID>
+    <WindowRefID>_BIN_4_</WindowRefID>
+    <IsZAxisUpPos1>0</IsZAxisUpPos1>
+    <IsZAxisUpPos2>0</IsZAxisUpPos2>
+    <ChangeDefectType>0</ChangeDefectType>
+    <ResultValue>1049.006980</ResultValue>
+    <CameraNo>-1</CameraNo>
+    <IsChipFlyingDefect>0</IsChipFlyingDefect>
+    <_3DChipFlyingResultHeight>0.000000</_3DChipFlyingResultHeight>
+    <ResultMsg>Stripe(Vert/Negative)&#xD;
+Pixel      : 75 &lt; 70.0 &lt;= 95 &#xD;
+</ResultMsg>
+    <PartRect X1="2637" X2="2637" X3="1908" X4="1908" Y1="2302" Y2="3357" Y3="3357" Y4="2302"/>
+    <WindowRect X1="2141" X2="2141" X3="2009" X4="2009" Y1="2668" Y2="2726" Y3="2726" Y4="2668"/>
+    <FrameRect X1="243629" X2="302136" X3="302136" X4="243629" Y1="367388" Y2="367388" Y3="425890" Y4="425890"/>
+    <DefectRect X1="274296" X2="275160" X3="275160" X4="274296" Y1="384490" Y2="384490" Y3="386462" Y4="386462"/>
+    <AngleOffset>0.00</AngleOffset>
+    <Offset X="-9" Y="19"/>
+    <DefectPos X1="2009" X2="2141" X3="2141" X4="2009" Y1="2668" Y2="2668" Y3="2726" Y4="2726"/>
+    <Viewer3DMaxRange>0</Viewer3DMaxRange>
+    <ViewerDirection>2</ViewerDirection>
+    <WindowAngle>270</WindowAngle>
+    <DefectType>-4</DefectType>
+    <Defect3DType>-4</Defect3DType>
+    <PassDefectType/>
+    <PassDefect3DType/>
+    <DefectPins/>
+    <OverKillPins/>
+  </Defect>
+
+  <Defect>
+    <Overkill>0</Overkill>
+    <DefectTypeString>Missing</DefectTypeString>
+    <ModuleId>33</ModuleId>
+    <RefId>USB200</RefId>
+    <FrameId>0</FrameId>
+    <WindowId>1</WindowId>
+    <IsImportantWindow>0</IsImportantWindow>
+    <PartNumber>0401-000006A</PartNumber>
+    <PartID>80123E87-9BCC-435b-84CC-86FE98D56AC6</PartID>
+    <WindowType>1</WindowType>
+    <ViewType>2</ViewType>
+    <PartGrabType>-1</PartGrabType>
+    <Reviewed>0</Reviewed>
+    <GroupDefectInfo>1</GroupDefectInfo>
+    <VirtualRefID>V5F23BCB4-FD92-4c60-905C-8F4D52D9DC4D</VirtualRefID>
+    <WindowRefID>_MNT_62_</WindowRefID>
+    <IsZAxisUpPos1>0</IsZAxisUpPos1>
+    <IsZAxisUpPos2>0</IsZAxisUpPos2>
+    <ChangeDefectType>0</ChangeDefectType>
+    <ResultValue>0.000000</ResultValue>
+    <CameraNo>-1</CameraNo>
+    <IsChipFlyingDefect>0</IsChipFlyingDefect>
+    <_3DChipFlyingResultHeight>0.000000</_3DChipFlyingResultHeight>
+    <ResultMsg>Insp Type   :  Mounting&#xD;
+&#xD;
+.  No      Score   ChipVerify&#xD;
+[  1]   :   V     X&#xD;
+== Retry ==&#xD;
+[  1]   :   V     X&#xD;
+----------------------------------&#xD;
+Max score:  46.1%[Acceptance score :   60.0%]&#xD;
+Offset(X, Y, Angle)    : -11, -16, 0.00&#xD;
+</ResultMsg>
+    <PartRect X1="2645" X2="2645" X3="1916" X4="1916" Y1="2286" Y2="3341" Y3="3341" Y4="2286"/>
+    <WindowRect X1="2509" X2="2509" X3="2453" X4="2453" Y1="2509" Y2="3119" Y3="3119" Y4="2509"/>
+    <FrameRect X1="268552" X2="327059" X3="327059" X4="268552" Y1="288934" Y2="288934" Y3="347436" Y4="347436"/>
+    <DefectRect X1="301164" X2="310294" X3="310294" X4="301164" Y1="304845" Y2="304845" Y3="305688" Y4="305688"/>
+    <AngleOffset>0.00</AngleOffset>
+    <Offset X="-11" Y="-16"/>
+    <Viewer3DMaxRange>0</Viewer3DMaxRange>
+    <ViewerDirection>-850901861</ViewerDirection>
+    <WindowAngle>270</WindowAngle>
+    <DefectType>1</DefectType>
+    <Defect3DType>1</Defect3DType>
+    <PassDefectType/>
+    <PassDefect3DType/>
+    <DefectPins/>
+    <OverKillPins/>
+  </Defect>
+
+  <Defect>
+    <Overkill>0</Overkill>
+    <DefectTypeString>Missing</DefectTypeString>
+    <ModuleId>33</ModuleId>
+    <RefId>USB200</RefId>
+    <FrameId>0</FrameId>
+    <WindowId>3</WindowId>
+    <IsImportantWindow>0</IsImportantWindow>
+    <PartNumber>0401-000006A</PartNumber>
+    <PartID>80123E87-9BCC-435b-84CC-86FE98D56AC6</PartID>
+    <WindowType>1</WindowType>
+    <ViewType>2</ViewType>
+    <PartGrabType>-1</PartGrabType>
+    <Reviewed>0</Reviewed>
+    <GroupDefectInfo>1</GroupDefectInfo>
+    <VirtualRefID>V4A02AC68-6C0B-4d1e-9792-A6DD06A3A766</VirtualRefID>
+    <WindowRefID>_MNT_64_</WindowRefID>
+    <IsZAxisUpPos1>0</IsZAxisUpPos1>
+    <IsZAxisUpPos2>0</IsZAxisUpPos2>
+    <ChangeDefectType>0</ChangeDefectType>
+    <ResultValue>0.000000</ResultValue>
+    <CameraNo>-1</CameraNo>
+    <IsChipFlyingDefect>0</IsChipFlyingDefect>
+    <_3DChipFlyingResultHeight>0.000000</_3DChipFlyingResultHeight>
+    <ResultMsg>Insp Type   :  Mounting&#xD;
+&#xD;
+.  No      Score   ChipVerify&#xD;
+[  1]   :  V        9.5%                    &#xD;
+== Retry ==&#xD;
+[  1]   :  V       13.5%                    &#xD;
+----------------------------------&#xD;
+Max score:  13.5%[Acceptance score :   60.0%]&#xD;
+Offset(X, Y, Angle)    : -2, -16, 0.00&#xD;
+</ResultMsg>
+    <PartRect X1="2654" X2="2654" X3="1925" X4="1925" Y1="2286" Y2="3341" Y3="3341" Y4="2286"/>
+    <WindowRect X1="2612" X2="2612" X3="2538" X4="2538" Y1="2986" Y2="3008" Y3="3008" Y4="2986"/>
+    <FrameRect X1="268552" X2="327059" X3="327059" X4="268552" Y1="288934" Y2="288934" Y3="347436" Y4="347436"/>
+    <DefectRect X1="306978" X2="307296" X3="307296" X4="306978" Y1="301971" Y2="301971" Y3="303083" Y4="303083"/>
+    <AngleOffset>0.00</AngleOffset>
+    <Offset X="-2" Y="-16"/>
+    <Viewer3DMaxRange>0</Viewer3DMaxRange>
+    <ViewerDirection>17007</ViewerDirection>
+    <WindowAngle>270</WindowAngle>
+    <DefectType>1</DefectType>
+    <Defect3DType>1</Defect3DType>
+    <PassDefectType/>
+    <PassDefect3DType/>
+    <DefectPins/>
+    <OverKillPins/>
+  </Defect>
+
+  <Defect>
+    <Overkill>0</Overkill>
+    <DefectTypeString>Missing</DefectTypeString>
+    <ModuleId>33</ModuleId>
+    <RefId>USB200</RefId>
+    <FrameId>0</FrameId>
+    <WindowId>6</WindowId>
+    <IsImportantWindow>0</IsImportantWindow>
+    <PartNumber>0401-000006A</PartNumber>
+    <PartID>80123E87-9BCC-435b-84CC-86FE98D56AC6</PartID>
+    <WindowType>1</WindowType>
+    <ViewType>2</ViewType>
+    <PartGrabType>-1</PartGrabType>
+    <Reviewed>0</Reviewed>
+    <GroupDefectInfo>1</GroupDefectInfo>
+    <VirtualRefID>VED460A87-B937-4f64-871F-D18401E8901A</VirtualRefID>
+    <WindowRefID>_MNT_67_</WindowRefID>
+    <IsZAxisUpPos1>0</IsZAxisUpPos1>
+    <IsZAxisUpPos2>0</IsZAxisUpPos2>
+    <ChangeDefectType>0</ChangeDefectType>
+    <ResultValue>0.000000</ResultValue>
+    <CameraNo>-1</CameraNo>
+    <IsChipFlyingDefect>0</IsChipFlyingDefect>
+    <_3DChipFlyingResultHeight>0.000000</_3DChipFlyingResultHeight>
+    <ResultMsg>Insp Type   :  Mounting&#xD;
+&#xD;
+.  No      Score   ChipVerify&#xD;
+[  1]   :  V       55.1%                    &#xD;
+== Retry ==&#xD;
+[  1]   :  V       54.2%                    &#xD;
+----------------------------------&#xD;
+Max score:  55.1%[Acceptance score :   60.0%]&#xD;
+Offset(X, Y, Angle)    : -6, 13, 0.00&#xD;
+</ResultMsg>
+    <PartRect X1="2649" X2="2649" X3="1920" X4="1920" Y1="2317" Y2="3372" Y3="3372" Y4="2317"/>
+    <WindowRect X1="2581" X2="2581" X3="2534" X4="2534" Y1="2918" Y2="2938" Y3="2938" Y4="2918"/>
+    <FrameRect X1="268552" X2="327059" X3="327059" X4="268552" Y1="288934" Y2="288934" Y3="347436" Y4="347436"/>
+    <DefectRect X1="306732" X2="307037" X3="307037" X4="306732" Y1="303199" Y2="303199" Y3="303901" Y4="303901"/>
+    <AngleOffset>0.00</AngleOffset>
+    <Offset X="-6" Y="13"/>
+    <Viewer3DMaxRange>0</Viewer3DMaxRange>
+    <ViewerDirection>1387610940</ViewerDirection>
+    <WindowAngle>270</WindowAngle>
+    <DefectType>1</DefectType>
+    <Defect3DType>1</Defect3DType>
+    <PassDefectType/>
+    <PassDefect3DType/>
+    <DefectPins/>
+    <OverKillPins/>
+  </Defect>
+
+  <Defect>
+    <Overkill>0</Overkill>
+    <DefectTypeString>Missing</DefectTypeString>
+    <ModuleId>33</ModuleId>
+    <RefId>USB200</RefId>
+    <FrameId>0</FrameId>
+    <WindowId>11</WindowId>
+    <IsImportantWindow>0</IsImportantWindow>
+    <PartNumber>0401-000006A</PartNumber>
+    <PartID>80123E87-9BCC-435b-84CC-86FE98D56AC6</PartID>
+    <WindowType>1</WindowType>
+    <ViewType>2</ViewType>
+    <PartGrabType>-1</PartGrabType>
+    <Reviewed>0</Reviewed>
+    <GroupDefectInfo>1</GroupDefectInfo>
+    <VirtualRefID>VD5CCF38A-1B9B-4f09-BC17-8FA0D87EF06D</VirtualRefID>
+    <WindowRefID>_MNT_72_</WindowRefID>
+    <IsZAxisUpPos1>0</IsZAxisUpPos1>
+    <IsZAxisUpPos2>0</IsZAxisUpPos2>
+    <ChangeDefectType>0</ChangeDefectType>
+    <ResultValue>0.000000</ResultValue>
+    <CameraNo>-1</CameraNo>
+    <IsChipFlyingDefect>0</IsChipFlyingDefect>
+    <_3DChipFlyingResultHeight>0.000000</_3DChipFlyingResultHeight>
+    <ResultMsg>Insp Type   :  Mounting&#xD;
+&#xD;
+.  No      Score   ChipVerify&#xD;
+[  1]   :  V       59.2%                    &#xD;
+== Retry ==&#xD;
+[  1]   :  V       58.2%                    &#xD;
+----------------------------------&#xD;
+Max score:  59.2%[Acceptance score :   60.0%]&#xD;
+Offset(X, Y, Angle)    : -6, 13, 0.00&#xD;
+</ResultMsg>
+    <PartRect X1="2649" X2="2649" X3="1920" X4="1920" Y1="2316" Y2="3371" Y3="3371" Y4="2316"/>
+    <WindowRect X1="2583" X2="2583" X3="2533" X4="2533" Y1="2748" Y2="2770" Y3="2770" Y4="2748"/>
+    <FrameRect X1="268552" X2="327059" X3="327059" X4="268552" Y1="288934" Y2="288934" Y3="347436" Y4="347436"/>
+    <DefectRect X1="306720" X2="307051" X3="307051" X4="306720" Y1="305712" Y2="305712" Y3="306467" Y4="306467"/>
+    <AngleOffset>0.00</AngleOffset>
+    <Offset X="-6" Y="13"/>
+    <Viewer3DMaxRange>0</Viewer3DMaxRange>
+    <ViewerDirection>17217</ViewerDirection>
+    <WindowAngle>270</WindowAngle>
+    <DefectType>1</DefectType>
+    <Defect3DType>1</Defect3DType>
+    <PassDefectType/>
+    <PassDefect3DType/>
+    <DefectPins/>
+    <OverKillPins/>
+  </Defect>
+
+  <Defect>
+    <Overkill>0</Overkill>
+    <DefectTypeString>Missing</DefectTypeString>
+    <ModuleId>33</ModuleId>
+    <RefId>USB200</RefId>
+    <FrameId>0</FrameId>
+    <WindowId>14</WindowId>
+    <IsImportantWindow>0</IsImportantWindow>
+    <PartNumber>0401-000006A</PartNumber>
+    <PartID>80123E87-9BCC-435b-84CC-86FE98D56AC6</PartID>
+    <WindowType>1</WindowType>
+    <ViewType>2</ViewType>
+    <PartGrabType>-1</PartGrabType>
+    <Reviewed>0</Reviewed>
+    <GroupDefectInfo>1</GroupDefectInfo>
+    <VirtualRefID>V469B8F1F-B634-4b43-B935-D04A666825E8</VirtualRefID>
+    <WindowRefID>_MNT_75_</WindowRefID>
+    <IsZAxisUpPos1>0</IsZAxisUpPos1>
+    <IsZAxisUpPos2>0</IsZAxisUpPos2>
+    <ChangeDefectType>0</ChangeDefectType>
+    <ResultValue>0.000000</ResultValue>
+    <CameraNo>-1</CameraNo>
+    <IsChipFlyingDefect>0</IsChipFlyingDefect>
+    <_3DChipFlyingResultHeight>0.000000</_3DChipFlyingResultHeight>
+    <ResultMsg>Insp Type   :  Mounting&#xD;
+&#xD;
+.  No      Score   ChipVerify&#xD;
+[  1]   :  V       11.4%                    &#xD;
+== Retry ==&#xD;
+[  1]   :  V       27.8%                    &#xD;
+----------------------------------&#xD;
+Max score:  27.8%[Acceptance score :   60.0%]&#xD;
+Offset(X, Y, Angle)    : -9, -16, 0.00&#xD;
+</ResultMsg>
+    <PartRect X1="2647" X2="2647" X3="1918" X4="1918" Y1="2286" Y2="3341" Y3="3341" Y4="2286"/>
+    <WindowRect X1="2603" X2="2603" X3="2534" X4="2534" Y1="2620" Y2="2640" Y3="2640" Y4="2620"/>
+    <FrameRect X1="268552" X2="327059" X3="327059" X4="268552" Y1="288934" Y2="288934" Y3="347436" Y4="347436"/>
+    <DefectRect X1="306902" X2="307194" X3="307194" X4="306902" Y1="307497" Y2="307497" Y3="308530" Y4="308530"/>
+    <AngleOffset>0.00</AngleOffset>
+    <Offset X="-9" Y="-16"/>
+    <Viewer3DMaxRange>0</Viewer3DMaxRange>
+    <ViewerDirection>-1228061534</ViewerDirection>
+    <WindowAngle>270</WindowAngle>
+    <DefectType>1</DefectType>
+    <Defect3DType>1</Defect3DType>
+    <PassDefectType/>
+    <PassDefect3DType/>
+    <DefectPins/>
+    <OverKillPins/>
+  </Defect>
+
+  <Defect>
+    <Overkill>0</Overkill>
+    <DefectTypeString>InsufficientSolder</DefectTypeString>
+    <ModuleId>33</ModuleId>
+    <RefId>USB200</RefId>
+    <FrameId>0</FrameId>
+    <WindowId>24</WindowId>
+    <IsImportantWindow>0</IsImportantWindow>
+    <PartNumber>0401-000006A</PartNumber>
+    <PartID>80123E87-9BCC-435b-84CC-86FE98D56AC6</PartID>
+    <WindowType>2</WindowType>
+    <ViewType>1</ViewType>
+    <PartGrabType>-1</PartGrabType>
+    <Reviewed>0</Reviewed>
+    <GroupDefectInfo>1</GroupDefectInfo>
+    <VirtualRefID>V2F54E25A-7D54-48d4-802E-CE366809525D</VirtualRefID>
+    <WindowRefID>_SLD_20_</WindowRefID>
+    <IsZAxisUpPos1>0</IsZAxisUpPos1>
+    <IsZAxisUpPos2>0</IsZAxisUpPos2>
+    <ChangeDefectType>0</ChangeDefectType>
+    <ResultValue>0.000000</ResultValue>
+    <CameraNo>-1</CameraNo>
+    <IsChipFlyingDefect>0</IsChipFlyingDefect>
+    <_3DChipFlyingResultHeight>0.000000</_3DChipFlyingResultHeight>
+    <ResultMsg> Insp type : Solder &#xD;
+ Condition  :  30 &lt;= X &lt;= 255 &#xD;
+ White Rate : 29.0% [40.0% ~ 100.0%] 
+</ResultMsg>
+    <PartRect X1="2656" X2="2656" X3="1927" X4="1927" Y1="2303" Y2="3358" Y3="3358" Y4="2303"/>
+    <WindowRect X1="2414" X2="2414" X3="2298" X4="2298" Y1="3175" Y2="3220" Y3="3220" Y4="3175"/>
+    <FrameRect X1="268552" X2="327059" X3="327059" X4="268552" Y1="288934" Y2="288934" Y3="347436" Y4="347436"/>
+    <DefectRect X1="303532" X2="304194" X3="304194" X4="303532" Y1="298663" Y2="298663" Y3="300402" Y4="300402"/>
+    <AngleOffset>0.00</AngleOffset>
+    <Offset X="6" Y="20"/>
+    <DefectPos X1="2414" X2="2414" X3="2298" X4="2298" Y1="3175" Y2="3219" Y3="3219" Y4="3175"/>
+    <Viewer3DMaxRange>0</Viewer3DMaxRange>
+    <ViewerDirection>52163</ViewerDirection>
+    <WindowAngle>270</WindowAngle>
+    <DefectType>5</DefectType>
+    <Defect3DType>5</Defect3DType>
+    <PassDefectType/>
+    <PassDefect3DType/>
+    <DefectPins/>
+    <OverKillPins/>
+  </Defect>
+
+  <Defect>
+    <Overkill>0</Overkill>
+    <DefectTypeString>Missing</DefectTypeString>
+    <ModuleId>32</ModuleId>
+    <RefId>USB200</RefId>
+    <FrameId>0</FrameId>
+    <WindowId>1</WindowId>
+    <IsImportantWindow>0</IsImportantWindow>
+    <PartNumber>0401-000006A</PartNumber>
+    <PartID>80123E87-9BCC-435b-84CC-86FE98D56AC6</PartID>
+    <WindowType>1</WindowType>
+    <ViewType>2</ViewType>
+    <PartGrabType>-1</PartGrabType>
+    <Reviewed>0</Reviewed>
+    <GroupDefectInfo>1</GroupDefectInfo>
+    <VirtualRefID>V5F23BCB4-FD92-4c60-905C-8F4D52D9DC4D</VirtualRefID>
+    <WindowRefID>_MNT_62_</WindowRefID>
+    <IsZAxisUpPos1>0</IsZAxisUpPos1>
+    <IsZAxisUpPos2>0</IsZAxisUpPos2>
+    <ChangeDefectType>0</ChangeDefectType>
+    <ResultValue>0.000000</ResultValue>
+    <CameraNo>-1</CameraNo>
+    <IsChipFlyingDefect>0</IsChipFlyingDefect>
+    <_3DChipFlyingResultHeight>0.000000</_3DChipFlyingResultHeight>
+    <ResultMsg>Insp Type   :  Mounting&#xD;
+&#xD;
+.  No      Score   ChipVerify&#xD;
+[  1]   :  V       40.9%                    &#xD;
+== Retry ==&#xD;
+[  1]   :  V       40.9%                    &#xD;
+----------------------------------&#xD;
+Max score:  40.9%[Acceptance score :   60.0%]&#xD;
+Offset(X, Y, Angle)    : 2, -14, 0.00&#xD;
+</ResultMsg>
+    <PartRect X1="2639" X2="2639" X3="1910" X4="1910" Y1="2278" Y2="3333" Y3="3333" Y4="2278"/>
+    <WindowRect X1="2503" X2="2503" X3="2447" X4="2447" Y1="2502" Y2="3111" Y3="3111" Y4="2502"/>
+    <FrameRect X1="243569" X2="302076" X3="302076" X4="243569" Y1="288910" Y2="288910" Y3="347412" Y4="347412"/>
+    <DefectRect X1="276095" X2="285225" X3="285225" X4="276095" Y1="304942" Y2="304942" Y3="305785" Y4="305785"/>
+    <AngleOffset>0.00</AngleOffset>
+    <Offset X="2" Y="-14"/>
+    <Viewer3DMaxRange>0</Viewer3DMaxRange>
+    <ViewerDirection>-1941879582</ViewerDirection>
+    <WindowAngle>270</WindowAngle>
+    <DefectType>1</DefectType>
+    <Defect3DType>1</Defect3DType>
+    <PassDefectType/>
+    <PassDefect3DType/>
+    <DefectPins/>
+    <OverKillPins/>
+  </Defect>
+
+  <Defect>
+    <Overkill>0</Overkill>
+    <DefectTypeString>Missing</DefectTypeString>
+    <ModuleId>31</ModuleId>
+    <RefId>USB200</RefId>
+    <FrameId>0</FrameId>
+    <WindowId>1</WindowId>
+    <IsImportantWindow>0</IsImportantWindow>
+    <PartNumber>0401-000006A</PartNumber>
+    <PartID>80123E87-9BCC-435b-84CC-86FE98D56AC6</PartID>
+    <WindowType>1</WindowType>
+    <ViewType>2</ViewType>
+    <PartGrabType>-1</PartGrabType>
+    <Reviewed>0</Reviewed>
+    <GroupDefectInfo>1</GroupDefectInfo>
+    <VirtualRefID>V5F23BCB4-FD92-4c60-905C-8F4D52D9DC4D</VirtualRefID>
+    <WindowRefID>_MNT_62_</WindowRefID>
+    <IsZAxisUpPos1>0</IsZAxisUpPos1>
+    <IsZAxisUpPos2>0</IsZAxisUpPos2>
+    <ChangeDefectType>0</ChangeDefectType>
+    <ResultValue>0.000000</ResultValue>
+    <CameraNo>-1</CameraNo>
+    <IsChipFlyingDefect>0</IsChipFlyingDefect>
+    <_3DChipFlyingResultHeight>0.000000</_3DChipFlyingResultHeight>
+    <ResultMsg>Insp Type   :  Mounting&#xD;
+&#xD;
+.  No      Score   ChipVerify&#xD;
+[  1]   :  V       44.4%                    &#xD;
+== Retry ==&#xD;
+[  1]   :  V       44.2%                    &#xD;
+----------------------------------&#xD;
+Max score:  44.4%[Acceptance score :   60.0%]&#xD;
+Offset(X, Y, Angle)    : -4, -15, 0.00&#xD;
+</ResultMsg>
+    <PartRect X1="2638" X2="2638" X3="1909" X4="1909" Y1="2282" Y2="3337" Y3="3337" Y4="2282"/>
+    <WindowRect X1="2502" X2="2502" X3="2446" X4="2446" Y1="2505" Y2="3115" Y3="3115" Y4="2505"/>
+    <FrameRect X1="218524" X2="277031" X3="277031" X4="218524" Y1="288898" Y2="288898" Y3="347400" Y4="347400"/>
+    <DefectRect X1="251031" X2="260160" X3="260160" X4="251031" Y1="304862" Y2="304862" Y3="305705" Y4="305705"/>
+    <AngleOffset>0.00</AngleOffset>
+    <Offset X="-4" Y="-15"/>
+    <Viewer3DMaxRange>0</Viewer3DMaxRange>
+    <ViewerDirection>17346</ViewerDirection>
+    <WindowAngle>270</WindowAngle>
+    <DefectType>1</DefectType>
+    <Defect3DType>1</Defect3DType>
+    <PassDefectType/>
+    <PassDefect3DType/>
+    <DefectPins/>
+    <OverKillPins/>
+  </Defect>
+
+  <Defect>
+    <Overkill>0</Overkill>
+    <DefectTypeString>Missing</DefectTypeString>
+    <ModuleId>31</ModuleId>
+    <RefId>USB200</RefId>
+    <FrameId>0</FrameId>
+    <WindowId>3</WindowId>
+    <IsImportantWindow>0</IsImportantWindow>
+    <PartNumber>0401-000006A</PartNumber>
+    <PartID>80123E87-9BCC-435b-84CC-86FE98D56AC6</PartID>
+    <WindowType>1</WindowType>
+    <ViewType>2</ViewType>
+    <PartGrabType>-1</PartGrabType>
+    <Reviewed>0</Reviewed>
+    <GroupDefectInfo>1</GroupDefectInfo>
+    <VirtualRefID>V4A02AC68-6C0B-4d1e-9792-A6DD06A3A766</VirtualRefID>
+    <WindowRefID>_MNT_64_</WindowRefID>
+    <IsZAxisUpPos1>0</IsZAxisUpPos1>
+    <IsZAxisUpPos2>0</IsZAxisUpPos2>
+    <ChangeDefectType>0</ChangeDefectType>
+    <ResultValue>0.000000</ResultValue>
+    <CameraNo>-1</CameraNo>
+    <IsChipFlyingDefect>0</IsChipFlyingDefect>
+    <_3DChipFlyingResultHeight>0.000000</_3DChipFlyingResultHeight>
+    <ResultMsg>Insp Type   :  Mounting&#xD;
+&#xD;
+.  No      Score   ChipVerify&#xD;
+[  1]   :  V       34.7%                    &#xD;
+== Retry ==&#xD;
+[  1]   :  V       49.5%                    &#xD;
+----------------------------------&#xD;
+Max score:  49.5%[Acceptance score :   60.0%]&#xD;
+Offset(X, Y, Angle)    : 5, -16, 0.00&#xD;
+</ResultMsg>
+    <PartRect X1="2648" X2="2648" X3="1919" X4="1919" Y1="2281" Y2="3336" Y3="3336" Y4="2281"/>
+    <WindowRect X1="2606" X2="2606" X3="2532" X4="2532" Y1="2981" Y2="3003" Y3="3003" Y4="2981"/>
+    <FrameRect X1="218524" X2="277031" X3="277031" X4="218524" Y1="288898" Y2="288898" Y3="347400" Y4="347400"/>
+    <DefectRect X1="256860" X2="257177" X3="257177" X4="256860" Y1="302002" Y2="302002" Y3="303115" Y4="303115"/>
+    <AngleOffset>0.00</AngleOffset>
+    <Offset X="5" Y="-16"/>
+    <Viewer3DMaxRange>0</Viewer3DMaxRange>
+    <ViewerDirection>17207</ViewerDirection>
+    <WindowAngle>270</WindowAngle>
+    <DefectType>1</DefectType>
+    <Defect3DType>1</Defect3DType>
+    <PassDefectType/>
+    <PassDefect3DType/>
+    <DefectPins/>
+    <OverKillPins/>
+  </Defect>
+
+  <Defect>
+    <Overkill>0</Overkill>
+    <DefectTypeString>2D Defect</DefectTypeString>
+    <ModuleId>31</ModuleId>
+    <RefId>USB200</RefId>
+    <FrameId>0</FrameId>
+    <WindowId>21</WindowId>
+    <IsImportantWindow>0</IsImportantWindow>
+    <PartNumber>0401-000006A</PartNumber>
+    <PartID>80123E87-9BCC-435b-84CC-86FE98D56AC6</PartID>
+    <WindowType>4</WindowType>
+    <ViewType>1</ViewType>
+    <PartGrabType>-1</PartGrabType>
+    <Reviewed>0</Reviewed>
+    <GroupDefectInfo>1</GroupDefectInfo>
+    <VirtualRefID>V4E5A2D58-FEDB-4a59-8D80-C2BE9C826E77</VirtualRefID>
+    <WindowRefID>_BIN_3_</WindowRefID>
+    <IsZAxisUpPos1>0</IsZAxisUpPos1>
+    <IsZAxisUpPos2>0</IsZAxisUpPos2>
+    <ChangeDefectType>0</ChangeDefectType>
+    <ResultValue>1093.964422</ResultValue>
+    <CameraNo>-1</CameraNo>
+    <IsChipFlyingDefect>0</IsChipFlyingDefect>
+    <_3DChipFlyingResultHeight>0.000000</_3DChipFlyingResultHeight>
+    <ResultMsg>Stripe(Vert/Negative)&#xD;
+Pixel      : 75 &lt; 73.0 &lt;= 95 &#xD;
+</ResultMsg>
+    <PartRect X1="2642" X2="2642" X3="1913" X4="1913" Y1="2298" Y2="3353" Y3="3353" Y4="2298"/>
+    <WindowRect X1="2145" X2="2145" X3="2013" X4="2013" Y1="2922" Y2="2979" Y3="2979" Y4="2922"/>
+    <FrameRect X1="218524" X2="277031" X3="277031" X4="218524" Y1="288898" Y2="288898" Y3="347400" Y4="347400"/>
+    <DefectRect X1="249255" X2="250119" X3="250119" X4="249255" Y1="302207" Y2="302207" Y3="304179" Y4="304179"/>
+    <AngleOffset>0.00</AngleOffset>
+    <Offset X="-5" Y="14"/>
+    <DefectPos X1="2013" X2="2144" X3="2144" X4="2013" Y1="2922" Y2="2922" Y3="2980" Y4="2980"/>
+    <Viewer3DMaxRange>0</Viewer3DMaxRange>
+    <ViewerDirection>17203</ViewerDirection>
+    <WindowAngle>270</WindowAngle>
+    <DefectType>-4</DefectType>
+    <Defect3DType>-4</Defect3DType>
+    <PassDefectType/>
+    <PassDefect3DType/>
+    <DefectPins/>
+    <OverKillPins/>
+  </Defect>
+
+  <Defect>
+    <Overkill>0</Overkill>
+    <DefectTypeString>2D Defect</DefectTypeString>
+    <ModuleId>31</ModuleId>
+    <RefId>USB200</RefId>
+    <FrameId>0</FrameId>
+    <WindowId>22</WindowId>
+    <IsImportantWindow>0</IsImportantWindow>
+    <PartNumber>0401-000006A</PartNumber>
+    <PartID>80123E87-9BCC-435b-84CC-86FE98D56AC6</PartID>
+    <WindowType>4</WindowType>
+    <ViewType>1</ViewType>
+    <PartGrabType>-1</PartGrabType>
+    <Reviewed>0</Reviewed>
+    <GroupDefectInfo>1</GroupDefectInfo>
+    <VirtualRefID>V476B49DB-E521-420c-B596-97C3059E04CE</VirtualRefID>
+    <WindowRefID>_BIN_4_</WindowRefID>
+    <IsZAxisUpPos1>0</IsZAxisUpPos1>
+    <IsZAxisUpPos2>0</IsZAxisUpPos2>
+    <ChangeDefectType>0</ChangeDefectType>
+    <ResultValue>1093.964422</ResultValue>
+    <CameraNo>-1</CameraNo>
+    <IsChipFlyingDefect>0</IsChipFlyingDefect>
+    <_3DChipFlyingResultHeight>0.000000</_3DChipFlyingResultHeight>
+    <ResultMsg>Stripe(Vert/Negative)&#xD;
+Pixel      : 75 &lt; 73.0 &lt;= 95 &#xD;
+</ResultMsg>
+    <PartRect X1="2642" X2="2642" X3="1913" X4="1913" Y1="2298" Y2="3353" Y3="3353" Y4="2298"/>
+    <WindowRect X1="2146" X2="2146" X3="2014" X4="2014" Y1="2665" Y2="2722" Y3="2722" Y4="2665"/>
+    <FrameRect X1="218524" X2="277031" X3="277031" X4="218524" Y1="288898" Y2="288898" Y3="347400" Y4="347400"/>
+    <DefectRect X1="249271" X2="250135" X3="250135" X4="249271" Y1="306059" Y2="306059" Y3="308031" Y4="308031"/>
+    <AngleOffset>0.00</AngleOffset>
+    <Offset X="-5" Y="14"/>
+    <DefectPos X1="2014" X2="2145" X3="2145" X4="2014" Y1="2665" Y2="2665" Y3="2723" Y4="2723"/>
+    <Viewer3DMaxRange>0</Viewer3DMaxRange>
+    <ViewerDirection>17035</ViewerDirection>
+    <WindowAngle>270</WindowAngle>
+    <DefectType>-4</DefectType>
+    <Defect3DType>-4</Defect3DType>
+    <PassDefectType/>
+    <PassDefect3DType/>
+    <DefectPins/>
+    <OverKillPins/>
+  </Defect>
+
+  <Defect>
+    <Overkill>0</Overkill>
+    <DefectTypeString>Missing</DefectTypeString>
+    <ModuleId>13</ModuleId>
+    <RefId>USB200</RefId>
+    <FrameId>0</FrameId>
+    <WindowId>1</WindowId>
+    <IsImportantWindow>0</IsImportantWindow>
+    <PartNumber>0401-000006A</PartNumber>
+    <PartID>80123E87-9BCC-435b-84CC-86FE98D56AC6</PartID>
+    <WindowType>1</WindowType>
+    <ViewType>2</ViewType>
+    <PartGrabType>-1</PartGrabType>
+    <Reviewed>0</Reviewed>
+    <GroupDefectInfo>1</GroupDefectInfo>
+    <VirtualRefID>V5F23BCB4-FD92-4c60-905C-8F4D52D9DC4D</VirtualRefID>
+    <WindowRefID>_MNT_62_</WindowRefID>
+    <IsZAxisUpPos1>0</IsZAxisUpPos1>
+    <IsZAxisUpPos2>0</IsZAxisUpPos2>
+    <ChangeDefectType>0</ChangeDefectType>
+    <ResultValue>0.000000</ResultValue>
+    <CameraNo>-1</CameraNo>
+    <IsChipFlyingDefect>0</IsChipFlyingDefect>
+    <_3DChipFlyingResultHeight>0.000000</_3DChipFlyingResultHeight>
+    <ResultMsg>Insp Type   :  Mounting&#xD;
+&#xD;
+.  No      Score   ChipVerify&#xD;
+[  1]   :  V       59.2%                    &#xD;
+== Retry ==&#xD;
+[  1]   :  V       59.2%                    &#xD;
+----------------------------------&#xD;
+Max score:  59.2%[Acceptance score :   60.0%]&#xD;
+Offset(X, Y, Angle)    : 1, 5, 0.00&#xD;
+</ResultMsg>
+    <PartRect X1="1275" X2="1275" X3="2003" X4="2003" Y1="1617" Y2="562" Y3="562" Y4="1617"/>
+    <WindowRect X1="1413" X2="1413" X3="1468" X4="1468" Y1="1393" Y2="784" Y3="784" Y4="1393"/>
+    <FrameRect X1="237096" X2="295603" X3="295603" X4="237096" Y1="254625" Y2="254625" Y3="313127" Y4="313127"/>
+    <DefectRect X1="254132" X2="263262" X3="263262" X4="254132" Y1="296373" Y2="296373" Y3="297216" Y4="297216"/>
+    <AngleOffset>0.00</AngleOffset>
+    <Offset X="1" Y="5"/>
+    <Viewer3DMaxRange>0</Viewer3DMaxRange>
+    <ViewerDirection>17135</ViewerDirection>
+    <WindowAngle>90</WindowAngle>
+    <DefectType>1</DefectType>
+    <Defect3DType>1</Defect3DType>
+    <PassDefectType/>
+    <PassDefect3DType/>
+    <DefectPins/>
+    <OverKillPins/>
+  </Defect>
+
+  <Defect>
+    <Overkill>0</Overkill>
+    <DefectTypeString>2D Defect</DefectTypeString>
+    <ModuleId>13</ModuleId>
+    <RefId>USB200</RefId>
+    <FrameId>0</FrameId>
+    <WindowId>22</WindowId>
+    <IsImportantWindow>0</IsImportantWindow>
+    <PartNumber>0401-000006A</PartNumber>
+    <PartID>80123E87-9BCC-435b-84CC-86FE98D56AC6</PartID>
+    <WindowType>4</WindowType>
+    <ViewType>1</ViewType>
+    <PartGrabType>-1</PartGrabType>
+    <Reviewed>0</Reviewed>
+    <GroupDefectInfo>1</GroupDefectInfo>
+    <VirtualRefID>V476B49DB-E521-420c-B596-97C3059E04CE</VirtualRefID>
+    <WindowRefID>_BIN_4_</WindowRefID>
+    <IsZAxisUpPos1>0</IsZAxisUpPos1>
+    <IsZAxisUpPos2>0</IsZAxisUpPos2>
+    <ChangeDefectType>0</ChangeDefectType>
+    <ResultValue>1049.006980</ResultValue>
+    <CameraNo>-1</CameraNo>
+    <IsChipFlyingDefect>0</IsChipFlyingDefect>
+    <_3DChipFlyingResultHeight>0.000000</_3DChipFlyingResultHeight>
+    <ResultMsg>Stripe(Vert/Negative)&#xD;
+Pixel      : 75 &lt; 70.0 &lt;= 95 &#xD;
+</ResultMsg>
+    <PartRect X1="1274" X2="1274" X3="2002" X4="2002" Y1="1612" Y2="557" Y3="557" Y4="1612"/>
+    <WindowRect X1="1771" X2="1771" X3="1902" X4="1902" Y1="1245" Y2="1188" Y3="1188" Y4="1245"/>
+    <FrameRect X1="237096" X2="295603" X3="295603" X4="237096" Y1="254625" Y2="254625" Y3="313127" Y4="313127"/>
+    <DefectRect X1="264202" X2="265066" X3="265066" X4="264202" Y1="293882" Y2="293882" Y3="295854" Y4="295854"/>
+    <AngleOffset>0.00</AngleOffset>
+    <Offset X="5" Y="-1"/>
+    <DefectPos X1="1771" X2="1902" X3="1902" X4="1771" Y1="1188" Y2="1188" Y3="1245" Y4="1245"/>
+    <Viewer3DMaxRange>0</Viewer3DMaxRange>
+    <ViewerDirection>19611</ViewerDirection>
+    <WindowAngle>90</WindowAngle>
+    <DefectType>-4</DefectType>
+    <Defect3DType>-4</Defect3DType>
+    <PassDefectType/>
+    <PassDefect3DType/>
+    <DefectPins/>
+    <OverKillPins/>
+  </Defect>
+
+  <Defect>
+    <Overkill>0</Overkill>
+    <DefectTypeString>Missing</DefectTypeString>
+    <ModuleId>29</ModuleId>
+    <RefId>USB200</RefId>
+    <FrameId>0</FrameId>
+    <WindowId>1</WindowId>
+    <IsImportantWindow>0</IsImportantWindow>
+    <PartNumber>0401-000006A</PartNumber>
+    <PartID>80123E87-9BCC-435b-84CC-86FE98D56AC6</PartID>
+    <WindowType>1</WindowType>
+    <ViewType>2</ViewType>
+    <PartGrabType>-1</PartGrabType>
+    <Reviewed>0</Reviewed>
+    <GroupDefectInfo>1</GroupDefectInfo>
+    <VirtualRefID>V5F23BCB4-FD92-4c60-905C-8F4D52D9DC4D</VirtualRefID>
+    <WindowRefID>_MNT_62_</WindowRefID>
+    <IsZAxisUpPos1>0</IsZAxisUpPos1>
+    <IsZAxisUpPos2>0</IsZAxisUpPos2>
+    <ChangeDefectType>0</ChangeDefectType>
+    <ResultValue>0.000000</ResultValue>
+    <CameraNo>-1</CameraNo>
+    <IsChipFlyingDefect>0</IsChipFlyingDefect>
+    <_3DChipFlyingResultHeight>0.000000</_3DChipFlyingResultHeight>
+    <ResultMsg>Insp Type   :  Mounting&#xD;
+&#xD;
+.  No      Score   ChipVerify&#xD;
+[  1]   :  V       57.8%                    &#xD;
+== Retry ==&#xD;
+[  1]   :  V       57.8%                    &#xD;
+----------------------------------&#xD;
+Max score:  57.8%[Acceptance score :   60.0%]&#xD;
+Offset(X, Y, Angle)    : -2, -11, 0.00&#xD;
+</ResultMsg>
+    <PartRect X1="2643" X2="2643" X3="1914" X4="1914" Y1="2277" Y2="3332" Y3="3332" Y4="2277"/>
+    <WindowRect X1="2506" X2="2506" X3="2450" X4="2450" Y1="2501" Y2="3110" Y3="3110" Y4="2501"/>
+    <FrameRect X1="268603" X2="327110" X3="327110" X4="268603" Y1="203666" Y2="203666" Y3="262168" Y4="262168"/>
+    <DefectRect X1="301182" X2="310312" X3="310312" X4="301182" Y1="219704" Y2="219704" Y3="220548" Y4="220548"/>
+    <AngleOffset>0.00</AngleOffset>
+    <Offset X="-2" Y="-11"/>
+    <Viewer3DMaxRange>0</Viewer3DMaxRange>
+    <ViewerDirection>0</ViewerDirection>
+    <WindowAngle>270</WindowAngle>
+    <DefectType>1</DefectType>
+    <Defect3DType>1</Defect3DType>
+    <PassDefectType/>
+    <PassDefect3DType/>
+    <DefectPins/>
+    <OverKillPins/>
+  </Defect>
+
+  <Defect>
+    <Overkill>0</Overkill>
+    <DefectTypeString>Missing</DefectTypeString>
+    <ModuleId>28</ModuleId>
+    <RefId>USB200</RefId>
+    <FrameId>0</FrameId>
+    <WindowId>1</WindowId>
+    <IsImportantWindow>0</IsImportantWindow>
+    <PartNumber>0401-000006A</PartNumber>
+    <PartID>80123E87-9BCC-435b-84CC-86FE98D56AC6</PartID>
+    <WindowType>1</WindowType>
+    <ViewType>2</ViewType>
+    <PartGrabType>-1</PartGrabType>
+    <Reviewed>0</Reviewed>
+    <GroupDefectInfo>1</GroupDefectInfo>
+    <VirtualRefID>V5F23BCB4-FD92-4c60-905C-8F4D52D9DC4D</VirtualRefID>
+    <WindowRefID>_MNT_62_</WindowRefID>
+    <IsZAxisUpPos1>0</IsZAxisUpPos1>
+    <IsZAxisUpPos2>0</IsZAxisUpPos2>
+    <ChangeDefectType>0</ChangeDefectType>
+    <ResultValue>0.000000</ResultValue>
+    <CameraNo>-1</CameraNo>
+    <IsChipFlyingDefect>0</IsChipFlyingDefect>
+    <_3DChipFlyingResultHeight>0.000000</_3DChipFlyingResultHeight>
+    <ResultMsg>Insp Type   :  Mounting&#xD;
+&#xD;
+.  No      Score   ChipVerify&#xD;
+[  1]   :  V       46.7%                    &#xD;
+== Retry ==&#xD;
+[  1]   :  V       46.7%                    &#xD;
+----------------------------------&#xD;
+Max score:  46.7%[Acceptance score :   60.0%]&#xD;
+Offset(X, Y, Angle)    : -3, -12, 0.00&#xD;
+</ResultMsg>
+    <PartRect X1="2643" X2="2643" X3="1914" X4="1914" Y1="2278" Y2="3333" Y3="3333" Y4="2278"/>
+    <WindowRect X1="2507" X2="2507" X3="2451" X4="2451" Y1="2501" Y2="3111" Y3="3111" Y4="2501"/>
+    <FrameRect X1="243557" X2="302065" X3="302065" X4="243557" Y1="203681" Y2="203681" Y3="262183" Y4="262183"/>
+    <DefectRect X1="276142" X2="285272" X3="285272" X4="276142" Y1="219712" Y2="219712" Y3="220555" Y4="220555"/>
+    <AngleOffset>0.00</AngleOffset>
+    <Offset X="-3" Y="-12"/>
+    <Viewer3DMaxRange>0</Viewer3DMaxRange>
+    <ViewerDirection>51493</ViewerDirection>
+    <WindowAngle>270</WindowAngle>
+    <DefectType>1</DefectType>
+    <Defect3DType>1</Defect3DType>
+    <PassDefectType/>
+    <PassDefect3DType/>
+    <DefectPins/>
+    <OverKillPins/>
+  </Defect>
+
+  <Defect>
+    <Overkill>0</Overkill>
+    <DefectTypeString>2D Defect</DefectTypeString>
+    <ModuleId>28</ModuleId>
+    <RefId>USB200</RefId>
+    <FrameId>0</FrameId>
+    <WindowId>22</WindowId>
+    <IsImportantWindow>0</IsImportantWindow>
+    <PartNumber>0401-000006A</PartNumber>
+    <PartID>80123E87-9BCC-435b-84CC-86FE98D56AC6</PartID>
+    <WindowType>4</WindowType>
+    <ViewType>1</ViewType>
+    <PartGrabType>-1</PartGrabType>
+    <Reviewed>0</Reviewed>
+    <GroupDefectInfo>1</GroupDefectInfo>
+    <VirtualRefID>V476B49DB-E521-420c-B596-97C3059E04CE</VirtualRefID>
+    <WindowRefID>_BIN_4_</WindowRefID>
+    <IsZAxisUpPos1>0</IsZAxisUpPos1>
+    <IsZAxisUpPos2>0</IsZAxisUpPos2>
+    <ChangeDefectType>0</ChangeDefectType>
+    <ResultValue>1123.936050</ResultValue>
+    <CameraNo>-1</CameraNo>
+    <IsChipFlyingDefect>0</IsChipFlyingDefect>
+    <_3DChipFlyingResultHeight>0.000000</_3DChipFlyingResultHeight>
+    <ResultMsg>Stripe(Vert/Negative)&#xD;
+Pixel      : 75 &lt; 75.0 &lt;= 95 &#xD;
+</ResultMsg>
+    <PartRect X1="2646" X2="2646" X3="1917" X4="1917" Y1="2291" Y2="3346" Y3="3346" Y4="2291"/>
+    <WindowRect X1="2150" X2="2150" X3="2019" X4="2019" Y1="2656" Y2="2714" Y3="2714" Y4="2656"/>
+    <FrameRect X1="243557" X2="302065" X3="302065" X4="243557" Y1="203681" Y2="203681" Y3="262183" Y4="262183"/>
+    <DefectRect X1="274367" X2="275232" X3="275232" X4="274367" Y1="220954" Y2="220954" Y3="222926" Y4="222926"/>
+    <AngleOffset>0.00</AngleOffset>
+    <Offset X="-4" Y="9"/>
+    <DefectPos X1="2019" X2="2151" X3="2151" X4="2019" Y1="2656" Y2="2656" Y3="2713" Y4="2713"/>
+    <Viewer3DMaxRange>0</Viewer3DMaxRange>
+    <ViewerDirection>16682</ViewerDirection>
+    <WindowAngle>270</WindowAngle>
+    <DefectType>-4</DefectType>
+    <Defect3DType>-4</Defect3DType>
+    <PassDefectType/>
+    <PassDefect3DType/>
+    <DefectPins/>
+    <OverKillPins/>
+  </Defect>
+
+  <Defect>
+    <Overkill>0</Overkill>
+    <DefectTypeString>Missing</DefectTypeString>
+    <ModuleId>27</ModuleId>
+    <RefId>USB200</RefId>
+    <FrameId>0</FrameId>
+    <WindowId>1</WindowId>
+    <IsImportantWindow>0</IsImportantWindow>
+    <PartNumber>0401-000006A</PartNumber>
+    <PartID>80123E87-9BCC-435b-84CC-86FE98D56AC6</PartID>
+    <WindowType>1</WindowType>
+    <ViewType>2</ViewType>
+    <PartGrabType>-1</PartGrabType>
+    <Reviewed>0</Reviewed>
+    <GroupDefectInfo>1</GroupDefectInfo>
+    <VirtualRefID>V5F23BCB4-FD92-4c60-905C-8F4D52D9DC4D</VirtualRefID>
+    <WindowRefID>_MNT_62_</WindowRefID>
+    <IsZAxisUpPos1>0</IsZAxisUpPos1>
+    <IsZAxisUpPos2>0</IsZAxisUpPos2>
+    <ChangeDefectType>0</ChangeDefectType>
+    <ResultValue>0.000000</ResultValue>
+    <CameraNo>-1</CameraNo>
+    <IsChipFlyingDefect>0</IsChipFlyingDefect>
+    <_3DChipFlyingResultHeight>0.000000</_3DChipFlyingResultHeight>
+    <ResultMsg>Insp Type   :  Mounting&#xD;
+&#xD;
+.  No      Score   ChipVerify&#xD;
+[  1]   :  V       50.6%                    &#xD;
+== Retry ==&#xD;
+[  1]   :  V       50.6%                    &#xD;
+----------------------------------&#xD;
+Max score:  50.6%[Acceptance score :   60.0%]&#xD;
+Offset(X, Y, Angle)    : -5, -10, 0.00&#xD;
+</ResultMsg>
+    <PartRect X1="2639" X2="2639" X3="1910" X4="1910" Y1="2277" Y2="3331" Y3="3331" Y4="2277"/>
+    <WindowRect X1="2501" X2="2501" X3="2446" X4="2446" Y1="2501" Y2="3110" Y3="3110" Y4="2501"/>
+    <FrameRect X1="218468" X2="276975" X3="276975" X4="218468" Y1="203690" Y2="203690" Y3="262192" Y4="262192"/>
+    <DefectRect X1="250981" X2="260110" X3="260110" X4="250981" Y1="219725" Y2="219725" Y3="220568" Y4="220568"/>
+    <AngleOffset>0.00</AngleOffset>
+    <Offset X="-5" Y="-10"/>
+    <Viewer3DMaxRange>0</Viewer3DMaxRange>
+    <ViewerDirection>390415077</ViewerDirection>
+    <WindowAngle>270</WindowAngle>
+    <DefectType>1</DefectType>
+    <Defect3DType>1</Defect3DType>
+    <PassDefectType/>
+    <PassDefect3DType/>
+    <DefectPins/>
+    <OverKillPins/>
+  </Defect>
+
+  <Defect>
+    <Overkill>0</Overkill>
+    <DefectTypeString>Missing</DefectTypeString>
+    <ModuleId>4</ModuleId>
+    <RefId>D201</RefId>
+    <FrameId>0</FrameId>
+    <WindowId>0</WindowId>
+    <IsImportantWindow>0</IsImportantWindow>
+    <PartNumber>0602-000112A</PartNumber>
+    <PartID>F8E4BA6C-58DA-4ce0-A7FA-465015539F5E</PartID>
+    <WindowType>1</WindowType>
+    <ViewType>2</ViewType>
+    <PartGrabType>-1</PartGrabType>
+    <Reviewed>0</Reviewed>
+    <GroupDefectInfo>1</GroupDefectInfo>
+    <VirtualRefID>VD2E43AEE-4A75-4ca8-9F85-8401F3B698A3</VirtualRefID>
+    <WindowRefID>_MNT_9_</WindowRefID>
+    <IsZAxisUpPos1>0</IsZAxisUpPos1>
+    <IsZAxisUpPos2>0</IsZAxisUpPos2>
+    <ChangeDefectType>0</ChangeDefectType>
+    <ResultValue>0.000000</ResultValue>
+    <CameraNo>-1</CameraNo>
+    <IsChipFlyingDefect>0</IsChipFlyingDefect>
+    <_3DChipFlyingResultHeight>0.000000</_3DChipFlyingResultHeight>
+    <ResultMsg>Insp Type   :  Mounting&#xD;
+&#xD;
+.  No      Score   ChipVerify&#xD;
+[  1]   :  V       24.3%                    &#xD;
+[  2]   :   V     X&#xD;
+[  3]   :  V       12.7%                    &#xD;
+[  4]   :  V       14.7%                    &#xD;
+[  5]   :  V       27.0%                    &#xD;
+[  6]   :  V        7.3%                    &#xD;
+[  7]   :  V       12.3%                    &#xD;
+[  8]   :  V       22.9%                    &#xD;
+[  9]   :   V     X&#xD;
+[ 10]   :   V     X&#xD;
+[ 11]   :  V       11.5%                    &#xD;
+[ 12]   :   V     X&#xD;
+[ 13]   :   V     X&#xD;
+[ 14]   :  V       11.7%                    &#xD;
+[ 15]   :  V       15.2%                    &#xD;
+[ 16]   :  V       20.1%                    &#xD;
+[ 17]   :   V     X&#xD;
+[ 18]   :  V       12.4%                    &#xD;
+[ 19]   :   V     X&#xD;
+[ 20]   :  V       12.2%                    &#xD;
+[ 21]   :  V       19.8%                    &#xD;
+== Retry ==&#xD;
+[  1]   :  V       24.3%                    &#xD;
+[  2]   :   V     X&#xD;
+[  3]   :  V       19.1%                    &#xD;
+[  4]   :  V       16.8%                    &#xD;
+[  5]   :  V       23.1%                    &#xD;
+[  6]   :  V        7.2%                    &#xD;
+[  7]   :  V       12.3%                    &#xD;
+[  8]   :  V       22.9%                    &#xD;
+[  9]   :  V        6.4%                    &#xD;
+[ 10]   :   V     X&#xD;
+[ 11]   :  V       11.5%                    &#xD;
+[ 12]   :   V     X&#xD;
+[ 13]   :   V     X&#xD;
+[ 14]   :  V       11.7%                    &#xD;
+[ 15]   :  V       15.2%                    &#xD;
+[ 16]   :  V       22.3%                    &#xD;
+[ 17]   :  V        6.0%                    &#xD;
+[ 18]   :  V       14.7%                    &#xD;
+[ 19]   :  V       11.3%                    &#xD;
+[ 20]   :  V       12.4%                    &#xD;
+[ 21]   :  V       19.8%                    &#xD;
+----------------------------------&#xD;
+Max score:  27.0%[Acceptance score :   30.0%]&#xD;
+Offset(X, Y, Angle)    : -11, 5, 0.00&#xD;
+</ResultMsg>
+    <PartRect X1="2284" X2="2284" X3="2325" X4="2325" Y1="1736" Y2="1666" Y3="1666" Y4="1736"/>
+    <WindowRect X1="2284" X2="2284" X3="2325" X4="2325" Y1="1736" Y2="1666" Y3="1666" Y4="1736"/>
+    <FrameRect X1="237118" X2="295625" X3="295625" X4="237118" Y1="169559" Y2="169559" Y3="228061" Y4="228061"/>
+    <DefectRect X1="271133" X2="272169" X3="272169" X4="271133" Y1="202237" Y2="202237" Y3="202857" Y4="202857"/>
+    <AngleOffset>0.00</AngleOffset>
+    <Offset X="-11" Y="5"/>
+    <Viewer3DMaxRange>0</Viewer3DMaxRange>
+    <ViewerDirection>17580</ViewerDirection>
+    <WindowAngle>90</WindowAngle>
+    <DefectType>1</DefectType>
+    <Defect3DType>1</Defect3DType>
+    <PassDefectType/>
+    <PassDefect3DType/>
+    <DefectPins/>
+    <OverKillPins/>
+  </Defect>
+
+  <Defect>
+    <Overkill>0</Overkill>
+    <DefectTypeString>Missing</DefectTypeString>
+    <ModuleId>5</ModuleId>
+    <RefId>USB200</RefId>
+    <FrameId>0</FrameId>
+    <WindowId>5</WindowId>
+    <IsImportantWindow>0</IsImportantWindow>
+    <PartNumber>0401-000006A</PartNumber>
+    <PartID>80123E87-9BCC-435b-84CC-86FE98D56AC6</PartID>
+    <WindowType>1</WindowType>
+    <ViewType>2</ViewType>
+    <PartGrabType>-1</PartGrabType>
+    <Reviewed>0</Reviewed>
+    <GroupDefectInfo>1</GroupDefectInfo>
+    <VirtualRefID>V9469CB05-59D8-4103-B9F1-5EBA5954AD36</VirtualRefID>
+    <WindowRefID>_MNT_66_</WindowRefID>
+    <IsZAxisUpPos1>0</IsZAxisUpPos1>
+    <IsZAxisUpPos2>0</IsZAxisUpPos2>
+    <ChangeDefectType>0</ChangeDefectType>
+    <ResultValue>0.000000</ResultValue>
+    <CameraNo>-1</CameraNo>
+    <IsChipFlyingDefect>0</IsChipFlyingDefect>
+    <_3DChipFlyingResultHeight>0.000000</_3DChipFlyingResultHeight>
+    <ResultMsg>Insp Type   :  Mounting&#xD;
+&#xD;
+.  No      Score   ChipVerify&#xD;
+[  1]   :  V       46.7%                    &#xD;
+== Retry ==&#xD;
+[  1]   :  V       48.1%                    &#xD;
+----------------------------------&#xD;
+Max score:  48.1%[Acceptance score :   60.0%]&#xD;
+Offset(X, Y, Angle)    : 15, -7, 0.00&#xD;
+</ResultMsg>
+    <PartRect X1="1307" X2="1307" X3="2035" X4="2035" Y1="1591" Y2="537" Y3="537" Y4="1591"/>
+    <WindowRect X1="1382" X2="1382" X3="1424" X4="1424" Y1="956" Y2="939" Y3="939" Y4="956"/>
+    <FrameRect X1="262199" X2="320706" X3="320706" X4="262199" Y1="169286" Y2="169286" Y3="227788" Y4="227788"/>
+    <DefectRect X1="283119" X2="283370" X3="283370" X4="283119" Y1="213262" Y2="213262" Y3="213884" Y4="213884"/>
+    <AngleOffset>0.00</AngleOffset>
+    <Offset X="15" Y="-7"/>
+    <Viewer3DMaxRange>0</Viewer3DMaxRange>
+    <ViewerDirection>49936</ViewerDirection>
+    <WindowAngle>90</WindowAngle>
+    <DefectType>1</DefectType>
+    <Defect3DType>1</Defect3DType>
+    <PassDefectType/>
+    <PassDefect3DType/>
+    <DefectPins/>
+    <OverKillPins/>
+  </Defect>
+
+  <Defect>
+    <Overkill>0</Overkill>
+    <DefectTypeString>Missing</DefectTypeString>
+    <ModuleId>5</ModuleId>
+    <RefId>USB200</RefId>
+    <FrameId>0</FrameId>
+    <WindowId>9</WindowId>
+    <IsImportantWindow>0</IsImportantWindow>
+    <PartNumber>0401-000006A</PartNumber>
+    <PartID>80123E87-9BCC-435b-84CC-86FE98D56AC6</PartID>
+    <WindowType>1</WindowType>
+    <ViewType>2</ViewType>
+    <PartGrabType>-1</PartGrabType>
+    <Reviewed>0</Reviewed>
+    <GroupDefectInfo>1</GroupDefectInfo>
+    <VirtualRefID>V63EF5BE6-73E5-4ae4-9969-41D97DAEE93A</VirtualRefID>
+    <WindowRefID>_MNT_70_</WindowRefID>
+    <IsZAxisUpPos1>0</IsZAxisUpPos1>
+    <IsZAxisUpPos2>0</IsZAxisUpPos2>
+    <ChangeDefectType>0</ChangeDefectType>
+    <ResultValue>0.000000</ResultValue>
+    <CameraNo>-1</CameraNo>
+    <IsChipFlyingDefect>0</IsChipFlyingDefect>
+    <_3DChipFlyingResultHeight>0.000000</_3DChipFlyingResultHeight>
+    <ResultMsg>Insp Type   :  Mounting&#xD;
+&#xD;
+.  No      Score   ChipVerify&#xD;
+[  1]   :  V       31.3%                    &#xD;
+== Retry ==&#xD;
+[  1]   :  V       34.5%                    &#xD;
+----------------------------------&#xD;
+Max score:  34.5%[Acceptance score :   60.0%]&#xD;
+Offset(X, Y, Angle)    : -15, 10, 0.00&#xD;
+</ResultMsg>
+    <PartRect X1="1275" X2="1275" X3="2003" X4="2003" Y1="1609" Y2="555" Y3="555" Y4="1609"/>
+    <WindowRect X1="1349" X2="1349" X3="1393" X4="1393" Y1="1109" Y2="1090" Y3="1090" Y4="1109"/>
+    <FrameRect X1="262199" X2="320706" X3="320706" X4="262199" Y1="169286" Y2="169286" Y3="227788" Y4="227788"/>
+    <DefectRect X1="282632" X2="282910" X3="282910" X4="282632" Y1="210963" Y2="210963" Y3="211625" Y4="211625"/>
+    <AngleOffset>0.00</AngleOffset>
+    <Offset X="-15" Y="10"/>
+    <Viewer3DMaxRange>0</Viewer3DMaxRange>
+    <ViewerDirection>17316</ViewerDirection>
+    <WindowAngle>90</WindowAngle>
+    <DefectType>1</DefectType>
+    <Defect3DType>1</Defect3DType>
+    <PassDefectType/>
+    <PassDefect3DType/>
+    <DefectPins/>
+    <OverKillPins/>
+  </Defect>
+
+  <Defect>
+    <Overkill>0</Overkill>
+    <DefectTypeString>Missing</DefectTypeString>
+    <ModuleId>5</ModuleId>
+    <RefId>USB200</RefId>
+    <FrameId>0</FrameId>
+    <WindowId>11</WindowId>
+    <IsImportantWindow>0</IsImportantWindow>
+    <PartNumber>0401-000006A</PartNumber>
+    <PartID>80123E87-9BCC-435b-84CC-86FE98D56AC6</PartID>
+    <WindowType>1</WindowType>
+    <ViewType>2</ViewType>
+    <PartGrabType>-1</PartGrabType>
+    <Reviewed>0</Reviewed>
+    <GroupDefectInfo>1</GroupDefectInfo>
+    <VirtualRefID>VD5CCF38A-1B9B-4f09-BC17-8FA0D87EF06D</VirtualRefID>
+    <WindowRefID>_MNT_72_</WindowRefID>
+    <IsZAxisUpPos1>0</IsZAxisUpPos1>
+    <IsZAxisUpPos2>0</IsZAxisUpPos2>
+    <ChangeDefectType>0</ChangeDefectType>
+    <ResultValue>0.000000</ResultValue>
+    <CameraNo>-1</CameraNo>
+    <IsChipFlyingDefect>0</IsChipFlyingDefect>
+    <_3DChipFlyingResultHeight>0.000000</_3DChipFlyingResultHeight>
+    <ResultMsg>Insp Type   :  Mounting&#xD;
+&#xD;
+.  No      Score   ChipVerify&#xD;
+[  1]   :  V       49.6%                    &#xD;
+== Retry ==&#xD;
+[  1]   :  V       47.7%                    &#xD;
+----------------------------------&#xD;
+Max score:  49.6%[Acceptance score :   60.0%]&#xD;
+Offset(X, Y, Angle)    : -14, 10, 0.00&#xD;
+</ResultMsg>
+    <PartRect X1="1276" X2="1276" X3="2004" X4="2004" Y1="1608" Y2="554" Y3="554" Y4="1608"/>
+    <WindowRect X1="1343" X2="1343" X3="1394" X4="1394" Y1="1176" Y2="1154" Y3="1154" Y4="1176"/>
+    <FrameRect X1="262199" X2="320706" X3="320706" X4="262199" Y1="169286" Y2="169286" Y3="227788" Y4="227788"/>
+    <DefectRect X1="282547" X2="282878" X3="282878" X4="282547" Y1="209940" Y2="209940" Y3="210695" Y4="210695"/>
+    <AngleOffset>0.00</AngleOffset>
+    <Offset X="-14" Y="10"/>
+    <Viewer3DMaxRange>0</Viewer3DMaxRange>
+    <ViewerDirection>50099</ViewerDirection>
+    <WindowAngle>90</WindowAngle>
+    <DefectType>1</DefectType>
+    <Defect3DType>1</Defect3DType>
+    <PassDefectType/>
+    <PassDefect3DType/>
+    <DefectPins/>
+    <OverKillPins/>
+  </Defect>
+
+  <Defect>
+    <Overkill>0</Overkill>
+    <DefectTypeString>Missing</DefectTypeString>
+    <ModuleId>5</ModuleId>
+    <RefId>USB200</RefId>
+    <FrameId>0</FrameId>
+    <WindowId>12</WindowId>
+    <IsImportantWindow>0</IsImportantWindow>
+    <PartNumber>0401-000006A</PartNumber>
+    <PartID>80123E87-9BCC-435b-84CC-86FE98D56AC6</PartID>
+    <WindowType>1</WindowType>
+    <ViewType>2</ViewType>
+    <PartGrabType>-1</PartGrabType>
+    <Reviewed>0</Reviewed>
+    <GroupDefectInfo>1</GroupDefectInfo>
+    <VirtualRefID>VBF83FE4D-49F7-4ab2-AD29-374702A506D2</VirtualRefID>
+    <WindowRefID>_MNT_73_</WindowRefID>
+    <IsZAxisUpPos1>0</IsZAxisUpPos1>
+    <IsZAxisUpPos2>0</IsZAxisUpPos2>
+    <ChangeDefectType>0</ChangeDefectType>
+    <ResultValue>0.000000</ResultValue>
+    <CameraNo>-1</CameraNo>
+    <IsChipFlyingDefect>0</IsChipFlyingDefect>
+    <_3DChipFlyingResultHeight>0.000000</_3DChipFlyingResultHeight>
+    <ResultMsg>Insp Type   :  Mounting&#xD;
+&#xD;
+.  No      Score   ChipVerify&#xD;
+[  1]   :  V       45.1%                    &#xD;
+== Retry ==&#xD;
+[  1]   :  V       43.8%                    &#xD;
+----------------------------------&#xD;
+Max score:  45.1%[Acceptance score :   60.0%]&#xD;
+Offset(X, Y, Angle)    : -15, 9, 0.00&#xD;
+</ResultMsg>
+    <PartRect X1="1275" X2="1275" X3="2003" X4="2003" Y1="1608" Y2="554" Y3="554" Y4="1608"/>
+    <WindowRect X1="1351" X2="1351" X3="1390" X4="1390" Y1="1208" Y2="1187" Y3="1187" Y4="1208"/>
+    <FrameRect X1="262199" X2="320706" X3="320706" X4="262199" Y1="169286" Y2="169286" Y3="227788" Y4="227788"/>
+    <DefectRect X1="282598" X2="282916" X3="282916" X4="282598" Y1="209530" Y2="209530" Y3="210113" Y4="210113"/>
+    <AngleOffset>0.00</AngleOffset>
+    <Offset X="-15" Y="9"/>
+    <Viewer3DMaxRange>0</Viewer3DMaxRange>
+    <ViewerDirection>-974830481</ViewerDirection>
+    <WindowAngle>90</WindowAngle>
+    <DefectType>1</DefectType>
+    <Defect3DType>1</Defect3DType>
+    <PassDefectType/>
+    <PassDefect3DType/>
+    <DefectPins/>
+    <OverKillPins/>
+  </Defect>
+
+  <Defect>
+    <Overkill>0</Overkill>
+    <DefectTypeString>Missing</DefectTypeString>
+    <ModuleId>5</ModuleId>
+    <RefId>USB200</RefId>
+    <FrameId>0</FrameId>
+    <WindowId>13</WindowId>
+    <IsImportantWindow>0</IsImportantWindow>
+    <PartNumber>0401-000006A</PartNumber>
+    <PartID>80123E87-9BCC-435b-84CC-86FE98D56AC6</PartID>
+    <WindowType>1</WindowType>
+    <ViewType>2</ViewType>
+    <PartGrabType>-1</PartGrabType>
+    <Reviewed>0</Reviewed>
+    <GroupDefectInfo>1</GroupDefectInfo>
+    <VirtualRefID>V4906036C-83AC-4c39-BD0A-44F8D8012A4D</VirtualRefID>
+    <WindowRefID>_MNT_74_</WindowRefID>
+    <IsZAxisUpPos1>0</IsZAxisUpPos1>
+    <IsZAxisUpPos2>0</IsZAxisUpPos2>
+    <ChangeDefectType>0</ChangeDefectType>
+    <ResultValue>0.000000</ResultValue>
+    <CameraNo>-1</CameraNo>
+    <IsChipFlyingDefect>0</IsChipFlyingDefect>
+    <_3DChipFlyingResultHeight>0.000000</_3DChipFlyingResultHeight>
+    <ResultMsg>Insp Type   :  Mounting&#xD;
+&#xD;
+.  No      Score   ChipVerify&#xD;
+[  1]   :  V       36.1%                    &#xD;
+== Retry ==&#xD;
+[  1]   :  V       35.7%                    &#xD;
+----------------------------------&#xD;
+Max score:  36.1%[Acceptance score :   60.0%]&#xD;
+Offset(X, Y, Angle)    : -15, 10, 0.00&#xD;
+</ResultMsg>
+    <PartRect X1="1275" X2="1275" X3="2003" X4="2003" Y1="1609" Y2="555" Y3="555" Y4="1609"/>
+    <WindowRect X1="1351" X2="1351" X3="1389" X4="1389" Y1="1242" Y2="1221" Y3="1221" Y4="1242"/>
+    <FrameRect X1="262199" X2="320706" X3="320706" X4="262199" Y1="169286" Y2="169286" Y3="227788" Y4="227788"/>
+    <DefectRect X1="282597" X2="282915" X3="282915" X4="282597" Y1="209026" Y2="209026" Y3="209609" Y4="209609"/>
+    <AngleOffset>0.00</AngleOffset>
+    <Offset X="-15" Y="10"/>
+    <Viewer3DMaxRange>0</Viewer3DMaxRange>
+    <ViewerDirection>50157</ViewerDirection>
+    <WindowAngle>90</WindowAngle>
+    <DefectType>1</DefectType>
+    <Defect3DType>1</Defect3DType>
+    <PassDefectType/>
+    <PassDefect3DType/>
+    <DefectPins/>
+    <OverKillPins/>
+  </Defect>
+
+  <Defect>
+    <Overkill>0</Overkill>
+    <DefectTypeString>2D Defect</DefectTypeString>
+    <ModuleId>5</ModuleId>
+    <RefId>USB200</RefId>
+    <FrameId>0</FrameId>
+    <WindowId>21</WindowId>
+    <IsImportantWindow>0</IsImportantWindow>
+    <PartNumber>0401-000006A</PartNumber>
+    <PartID>80123E87-9BCC-435b-84CC-86FE98D56AC6</PartID>
+    <WindowType>4</WindowType>
+    <ViewType>1</ViewType>
+    <PartGrabType>-1</PartGrabType>
+    <Reviewed>0</Reviewed>
+    <GroupDefectInfo>1</GroupDefectInfo>
+    <VirtualRefID>V4E5A2D58-FEDB-4a59-8D80-C2BE9C826E77</VirtualRefID>
+    <WindowRefID>_BIN_3_</WindowRefID>
+    <IsZAxisUpPos1>0</IsZAxisUpPos1>
+    <IsZAxisUpPos2>0</IsZAxisUpPos2>
+    <ChangeDefectType>0</ChangeDefectType>
+    <ResultValue>929.120468</ResultValue>
+    <CameraNo>-1</CameraNo>
+    <IsChipFlyingDefect>0</IsChipFlyingDefect>
+    <_3DChipFlyingResultHeight>0.000000</_3DChipFlyingResultHeight>
+    <ResultMsg>Stripe(Vert/Negative)&#xD;
+Pixel      : 75 &lt; 62.0 &lt;= 95 &#xD;
+</ResultMsg>
+    <PartRect X1="1291" X2="1291" X3="2019" X4="2019" Y1="1598" Y2="544" Y3="544" Y4="1598"/>
+    <WindowRect X1="1789" X2="1789" X3="1920" X4="1920" Y1="975" Y2="917" Y3="917" Y4="975"/>
+    <FrameRect X1="262199" X2="320706" X3="320706" X4="262199" Y1="169286" Y2="169286" Y3="227788" Y4="227788"/>
+    <DefectRect X1="289570" X2="290434" X3="290434" X4="289570" Y1="212605" Y2="212605" Y3="214577" Y4="214577"/>
+    <AngleOffset>0.00</AngleOffset>
+    <Offset X="19" Y="-14"/>
+    <DefectPos X1="1789" X2="1921" X3="1921" X4="1789" Y1="917" Y2="917" Y3="974" Y4="974"/>
+    <Viewer3DMaxRange>0</Viewer3DMaxRange>
+    <ViewerDirection>49969</ViewerDirection>
+    <WindowAngle>90</WindowAngle>
+    <DefectType>-4</DefectType>
+    <Defect3DType>-4</Defect3DType>
+    <PassDefectType/>
+    <PassDefect3DType/>
+    <DefectPins/>
+    <OverKillPins/>
+  </Defect>
+
+  <Defect>
+    <Overkill>0</Overkill>
+    <DefectTypeString>2D Defect</DefectTypeString>
+    <ModuleId>5</ModuleId>
+    <RefId>USB200</RefId>
+    <FrameId>0</FrameId>
+    <WindowId>22</WindowId>
+    <IsImportantWindow>0</IsImportantWindow>
+    <PartNumber>0401-000006A</PartNumber>
+    <PartID>80123E87-9BCC-435b-84CC-86FE98D56AC6</PartID>
+    <WindowType>4</WindowType>
+    <ViewType>1</ViewType>
+    <PartGrabType>-1</PartGrabType>
+    <Reviewed>0</Reviewed>
+    <GroupDefectInfo>1</GroupDefectInfo>
+    <VirtualRefID>V476B49DB-E521-420c-B596-97C3059E04CE</VirtualRefID>
+    <WindowRefID>_BIN_4_</WindowRefID>
+    <IsZAxisUpPos1>0</IsZAxisUpPos1>
+    <IsZAxisUpPos2>0</IsZAxisUpPos2>
+    <ChangeDefectType>0</ChangeDefectType>
+    <ResultValue>749.290700</ResultValue>
+    <CameraNo>-1</CameraNo>
+    <IsChipFlyingDefect>0</IsChipFlyingDefect>
+    <_3DChipFlyingResultHeight>0.000000</_3DChipFlyingResultHeight>
+    <ResultMsg>Stripe(Vert/Negative)&#xD;
+Pixel      : 75 &lt; 50.0 &lt;= 95 &#xD;
+</ResultMsg>
+    <PartRect X1="1291" X2="1291" X3="2019" X4="2019" Y1="1598" Y2="544" Y3="544" Y4="1598"/>
+    <WindowRect X1="1788" X2="1788" X3="1919" X4="1919" Y1="1232" Y2="1174" Y3="1174" Y4="1232"/>
+    <FrameRect X1="262199" X2="320706" X3="320706" X4="262199" Y1="169286" Y2="169286" Y3="227788" Y4="227788"/>
+    <DefectRect X1="289554" X2="290418" X3="290418" X4="289554" Y1="208753" Y2="208753" Y3="210725" Y4="210725"/>
+    <AngleOffset>0.00</AngleOffset>
+    <Offset X="19" Y="-14"/>
+    <DefectPos X1="1788" X2="1920" X3="1920" X4="1788" Y1="1174" Y2="1174" Y3="1231" Y4="1231"/>
+    <Viewer3DMaxRange>0</Viewer3DMaxRange>
+    <ViewerDirection>16</ViewerDirection>
+    <WindowAngle>90</WindowAngle>
+    <DefectType>-4</DefectType>
+    <Defect3DType>-4</Defect3DType>
+    <PassDefectType/>
+    <PassDefect3DType/>
+    <DefectPins/>
+    <OverKillPins/>
+  </Defect>
+
+  <Defect>
+    <Overkill>0</Overkill>
+    <DefectTypeString>InsufficientSolder</DefectTypeString>
+    <ModuleId>5</ModuleId>
+    <RefId>USB200</RefId>
+    <FrameId>0</FrameId>
+    <WindowId>25</WindowId>
+    <IsImportantWindow>0</IsImportantWindow>
+    <PartNumber>0401-000006A</PartNumber>
+    <PartID>80123E87-9BCC-435b-84CC-86FE98D56AC6</PartID>
+    <WindowType>2</WindowType>
+    <ViewType>1</ViewType>
+    <PartGrabType>-1</PartGrabType>
+    <Reviewed>0</Reviewed>
+    <GroupDefectInfo>1</GroupDefectInfo>
+    <VirtualRefID>VFF754234-EB98-4c54-95CC-138EB4741D7D</VirtualRefID>
+    <WindowRefID>_SLD_21_</WindowRefID>
+    <IsZAxisUpPos1>0</IsZAxisUpPos1>
+    <IsZAxisUpPos2>0</IsZAxisUpPos2>
+    <ChangeDefectType>0</ChangeDefectType>
+    <ResultValue>0.000000</ResultValue>
+    <CameraNo>-1</CameraNo>
+    <IsChipFlyingDefect>0</IsChipFlyingDefect>
+    <_3DChipFlyingResultHeight>0.000000</_3DChipFlyingResultHeight>
+    <ResultMsg> Insp type : Solder &#xD;
+ Condition  :  30 &lt;= X &lt;= 255 &#xD;
+ White Rate : 20.0% [40.0% ~ 100.0%] 
+</ResultMsg>
+    <PartRect X1="1291" X2="1291" X3="2019" X4="2019" Y1="1598" Y2="544" Y3="544" Y4="1598"/>
+    <WindowRect X1="1908" X2="1908" X3="1942" X4="1942" Y1="1314" Y2="830" Y3="830" Y4="1314"/>
+    <FrameRect X1="262199" X2="320706" X3="320706" X4="262199" Y1="169286" Y2="169286" Y3="227788" Y4="227788"/>
+    <DefectRect X1="287436" X2="294691" X3="294691" X4="287436" Y1="211449" Y2="211449" Y3="211973" Y4="211973"/>
+    <AngleOffset>0.00</AngleOffset>
+    <Offset X="19" Y="-14"/>
+    <DefectPos X1="1908" X2="1908" X3="1943" X4="1943" Y1="1313" Y2="829" Y3="829" Y4="1313"/>
+    <Viewer3DMaxRange>0</Viewer3DMaxRange>
+    <ViewerDirection>0</ViewerDirection>
+    <WindowAngle>90</WindowAngle>
+    <DefectType>5</DefectType>
+    <Defect3DType>5</Defect3DType>
+    <PassDefectType/>
+    <PassDefect3DType/>
+    <DefectPins/>
+    <OverKillPins/>
+  </Defect>
+
+  <Defect>
+    <Overkill>0</Overkill>
+    <DefectTypeString>2D Defect</DefectTypeString>
+    <ModuleId>26</ModuleId>
+    <RefId>USB200</RefId>
+    <FrameId>0</FrameId>
+    <WindowId>21</WindowId>
+    <IsImportantWindow>0</IsImportantWindow>
+    <PartNumber>0401-000006A</PartNumber>
+    <PartID>80123E87-9BCC-435b-84CC-86FE98D56AC6</PartID>
+    <WindowType>4</WindowType>
+    <ViewType>1</ViewType>
+    <PartGrabType>-1</PartGrabType>
+    <Reviewed>0</Reviewed>
+    <GroupDefectInfo>1</GroupDefectInfo>
+    <VirtualRefID>V4E5A2D58-FEDB-4a59-8D80-C2BE9C826E77</VirtualRefID>
+    <WindowRefID>_BIN_3_</WindowRefID>
+    <IsZAxisUpPos1>0</IsZAxisUpPos1>
+    <IsZAxisUpPos2>0</IsZAxisUpPos2>
+    <ChangeDefectType>0</ChangeDefectType>
+    <ResultValue>989.063724</ResultValue>
+    <CameraNo>-1</CameraNo>
+    <IsChipFlyingDefect>0</IsChipFlyingDefect>
+    <_3DChipFlyingResultHeight>0.000000</_3DChipFlyingResultHeight>
+    <ResultMsg>Stripe(Vert/Negative)&#xD;
+Pixel      : 75 &lt; 66.0 &lt;= 95 &#xD;
+</ResultMsg>
+    <PartRect X1="2635" X2="2635" X3="1906" X4="1906" Y1="2288" Y2="3342" Y3="3342" Y4="2288"/>
+    <WindowRect X1="2138" X2="2138" X3="2006" X4="2006" Y1="2911" Y2="2969" Y3="2969" Y4="2911"/>
+    <FrameRect X1="268609" X2="327116" X3="327116" X4="268609" Y1="125209" Y2="125209" Y3="183711" Y4="183711"/>
+    <DefectRect X1="299228" X2="300092" X3="300092" X4="299228" Y1="138670" Y2="138670" Y3="140642" Y4="140642"/>
+    <AngleOffset>0.00</AngleOffset>
+    <Offset X="-14" Y="5"/>
+    <DefectPos X1="2006" X2="2138" X3="2138" X4="2006" Y1="2911" Y2="2911" Y3="2969" Y4="2969"/>
+    <Viewer3DMaxRange>0</Viewer3DMaxRange>
+    <ViewerDirection>-1492827127</ViewerDirection>
+    <WindowAngle>270</WindowAngle>
+    <DefectType>-4</DefectType>
+    <Defect3DType>-4</Defect3DType>
+    <PassDefectType/>
+    <PassDefect3DType/>
+    <DefectPins/>
+    <OverKillPins/>
+  </Defect>
+
+  <Defect>
+    <Overkill>0</Overkill>
+    <DefectTypeString>2D Defect</DefectTypeString>
+    <ModuleId>26</ModuleId>
+    <RefId>USB200</RefId>
+    <FrameId>0</FrameId>
+    <WindowId>22</WindowId>
+    <IsImportantWindow>0</IsImportantWindow>
+    <PartNumber>0401-000006A</PartNumber>
+    <PartID>80123E87-9BCC-435b-84CC-86FE98D56AC6</PartID>
+    <WindowType>4</WindowType>
+    <ViewType>1</ViewType>
+    <PartGrabType>-1</PartGrabType>
+    <Reviewed>0</Reviewed>
+    <GroupDefectInfo>1</GroupDefectInfo>
+    <VirtualRefID>V476B49DB-E521-420c-B596-97C3059E04CE</VirtualRefID>
+    <WindowRefID>_BIN_4_</WindowRefID>
+    <IsZAxisUpPos1>0</IsZAxisUpPos1>
+    <IsZAxisUpPos2>0</IsZAxisUpPos2>
+    <ChangeDefectType>0</ChangeDefectType>
+    <ResultValue>974.077910</ResultValue>
+    <CameraNo>-1</CameraNo>
+    <IsChipFlyingDefect>0</IsChipFlyingDefect>
+    <_3DChipFlyingResultHeight>0.000000</_3DChipFlyingResultHeight>
+    <ResultMsg>Stripe(Vert/Negative)&#xD;
+Pixel      : 75 &lt; 65.0 &lt;= 95 &#xD;
+</ResultMsg>
+    <PartRect X1="2635" X2="2635" X3="1906" X4="1906" Y1="2288" Y2="3342" Y3="3342" Y4="2288"/>
+    <WindowRect X1="2139" X2="2139" X3="2007" X4="2007" Y1="2654" Y2="2712" Y3="2712" Y4="2654"/>
+    <FrameRect X1="268609" X2="327116" X3="327116" X4="268609" Y1="125209" Y2="125209" Y3="183711" Y4="183711"/>
+    <DefectRect X1="299244" X2="300108" X3="300108" X4="299244" Y1="142522" Y2="142522" Y3="144494" Y4="144494"/>
+    <AngleOffset>0.00</AngleOffset>
+    <Offset X="-14" Y="5"/>
+    <DefectPos X1="2007" X2="2139" X3="2139" X4="2007" Y1="2654" Y2="2654" Y3="2712" Y4="2712"/>
+    <Viewer3DMaxRange>0</Viewer3DMaxRange>
+    <ViewerDirection>-1313388322</ViewerDirection>
+    <WindowAngle>270</WindowAngle>
+    <DefectType>-4</DefectType>
+    <Defect3DType>-4</Defect3DType>
+    <PassDefectType/>
+    <PassDefect3DType/>
+    <DefectPins/>
+    <OverKillPins/>
+  </Defect>
+
+  <Defect>
+    <Overkill>0</Overkill>
+    <DefectTypeString>InsufficientSolder</DefectTypeString>
+    <ModuleId>26</ModuleId>
+    <RefId>USB200</RefId>
+    <FrameId>0</FrameId>
+    <WindowId>25</WindowId>
+    <IsImportantWindow>0</IsImportantWindow>
+    <PartNumber>0401-000006A</PartNumber>
+    <PartID>80123E87-9BCC-435b-84CC-86FE98D56AC6</PartID>
+    <WindowType>2</WindowType>
+    <ViewType>1</ViewType>
+    <PartGrabType>-1</PartGrabType>
+    <Reviewed>0</Reviewed>
+    <GroupDefectInfo>1</GroupDefectInfo>
+    <VirtualRefID>VFF754234-EB98-4c54-95CC-138EB4741D7D</VirtualRefID>
+    <WindowRefID>_SLD_21_</WindowRefID>
+    <IsZAxisUpPos1>0</IsZAxisUpPos1>
+    <IsZAxisUpPos2>0</IsZAxisUpPos2>
+    <ChangeDefectType>0</ChangeDefectType>
+    <ResultValue>0.000000</ResultValue>
+    <CameraNo>-1</CameraNo>
+    <IsChipFlyingDefect>0</IsChipFlyingDefect>
+    <_3DChipFlyingResultHeight>0.000000</_3DChipFlyingResultHeight>
+    <ResultMsg> Insp type : Solder &#xD;
+ Condition  :  30 &lt;= X &lt;= 255 &#xD;
+ White Rate : 31.8% [40.0% ~ 100.0%] 
+</ResultMsg>
+    <PartRect X1="2635" X2="2635" X3="1906" X4="1906" Y1="2288" Y2="3342" Y3="3342" Y4="2288"/>
+    <WindowRect X1="2018" X2="2018" X3="1983" X4="1983" Y1="2572" Y2="3056" Y3="3056" Y4="2572"/>
+    <FrameRect X1="268609" X2="327116" X3="327116" X4="268609" Y1="125209" Y2="125209" Y3="183711" Y4="183711"/>
+    <DefectRect X1="294970" X2="302225" X3="302225" X4="294970" Y1="141275" Y2="141275" Y3="141799" Y4="141799"/>
+    <AngleOffset>0.00</AngleOffset>
+    <Offset X="-14" Y="5"/>
+    <DefectPos X1="2018" X2="2018" X3="1982" X4="1982" Y1="2572" Y2="3057" Y3="3057" Y4="2572"/>
+    <Viewer3DMaxRange>0</Viewer3DMaxRange>
+    <ViewerDirection>17184</ViewerDirection>
+    <WindowAngle>270</WindowAngle>
+    <DefectType>5</DefectType>
+    <Defect3DType>5</Defect3DType>
+    <PassDefectType/>
+    <PassDefect3DType/>
+    <DefectPins/>
+    <OverKillPins/>
+  </Defect>
+
+  <Defect>
+    <Overkill>0</Overkill>
+    <DefectTypeString>2D Defect</DefectTypeString>
+    <ModuleId>24</ModuleId>
+    <RefId>USB200</RefId>
+    <FrameId>0</FrameId>
+    <WindowId>21</WindowId>
+    <IsImportantWindow>0</IsImportantWindow>
+    <PartNumber>0401-000006A</PartNumber>
+    <PartID>80123E87-9BCC-435b-84CC-86FE98D56AC6</PartID>
+    <WindowType>4</WindowType>
+    <ViewType>1</ViewType>
+    <PartGrabType>-1</PartGrabType>
+    <Reviewed>0</Reviewed>
+    <GroupDefectInfo>1</GroupDefectInfo>
+    <VirtualRefID>V4E5A2D58-FEDB-4a59-8D80-C2BE9C826E77</VirtualRefID>
+    <WindowRefID>_BIN_3_</WindowRefID>
+    <IsZAxisUpPos1>0</IsZAxisUpPos1>
+    <IsZAxisUpPos2>0</IsZAxisUpPos2>
+    <ChangeDefectType>0</ChangeDefectType>
+    <ResultValue>1004.049538</ResultValue>
+    <CameraNo>-1</CameraNo>
+    <IsChipFlyingDefect>0</IsChipFlyingDefect>
+    <_3DChipFlyingResultHeight>0.000000</_3DChipFlyingResultHeight>
+    <ResultMsg>Stripe(Vert/Negative)&#xD;
+Pixel      : 75 &lt; 67.0 &lt;= 95 &#xD;
+</ResultMsg>
+    <PartRect X1="2633" X2="2633" X3="1904" X4="1904" Y1="2289" Y2="3343" Y3="3343" Y4="2289"/>
+    <WindowRect X1="2135" X2="2135" X3="2004" X4="2004" Y1="2912" Y2="2970" Y3="2970" Y4="2912"/>
+    <FrameRect X1="218520" X2="277027" X3="277027" X4="218520" Y1="125203" Y2="125203" Y3="183705" Y4="183705"/>
+    <DefectRect X1="249107" X2="249972" X3="249972" X4="249107" Y1="138643" Y2="138643" Y3="140615" Y4="140615"/>
+    <AngleOffset>0.00</AngleOffset>
+    <Offset X="-15" Y="6"/>
+    <DefectPos X1="2004" X2="2136" X3="2136" X4="2004" Y1="2912" Y2="2912" Y3="2969" Y4="2969"/>
+    <Viewer3DMaxRange>0</Viewer3DMaxRange>
+    <ViewerDirection>49812</ViewerDirection>
+    <WindowAngle>270</WindowAngle>
+    <DefectType>-4</DefectType>
+    <Defect3DType>-4</Defect3DType>
+    <PassDefectType/>
+    <PassDefect3DType/>
+    <DefectPins/>
+    <OverKillPins/>
+  </Defect>
+
+  <Defect>
+    <Overkill>0</Overkill>
+    <DefectTypeString>2D Defect</DefectTypeString>
+    <ModuleId>24</ModuleId>
+    <RefId>USB200</RefId>
+    <FrameId>0</FrameId>
+    <WindowId>22</WindowId>
+    <IsImportantWindow>0</IsImportantWindow>
+    <PartNumber>0401-000006A</PartNumber>
+    <PartID>80123E87-9BCC-435b-84CC-86FE98D56AC6</PartID>
+    <WindowType>4</WindowType>
+    <ViewType>1</ViewType>
+    <PartGrabType>-1</PartGrabType>
+    <Reviewed>0</Reviewed>
+    <GroupDefectInfo>1</GroupDefectInfo>
+    <VirtualRefID>V476B49DB-E521-420c-B596-97C3059E04CE</VirtualRefID>
+    <WindowRefID>_BIN_4_</WindowRefID>
+    <IsZAxisUpPos1>0</IsZAxisUpPos1>
+    <IsZAxisUpPos2>0</IsZAxisUpPos2>
+    <ChangeDefectType>0</ChangeDefectType>
+    <ResultValue>974.077910</ResultValue>
+    <CameraNo>-1</CameraNo>
+    <IsChipFlyingDefect>0</IsChipFlyingDefect>
+    <_3DChipFlyingResultHeight>0.000000</_3DChipFlyingResultHeight>
+    <ResultMsg>Stripe(Vert/Negative)&#xD;
+Pixel      : 75 &lt; 65.0 &lt;= 95 &#xD;
+</ResultMsg>
+    <PartRect X1="2633" X2="2633" X3="1904" X4="1904" Y1="2289" Y2="3343" Y3="3343" Y4="2289"/>
+    <WindowRect X1="2136" X2="2136" X3="2005" X4="2005" Y1="2655" Y2="2713" Y3="2713" Y4="2655"/>
+    <FrameRect X1="218520" X2="277027" X3="277027" X4="218520" Y1="125203" Y2="125203" Y3="183705" Y4="183705"/>
+    <DefectRect X1="249123" X2="249988" X3="249988" X4="249123" Y1="142495" Y2="142495" Y3="144467" Y4="144467"/>
+    <AngleOffset>0.00</AngleOffset>
+    <Offset X="-15" Y="6"/>
+    <DefectPos X1="2005" X2="2137" X3="2137" X4="2005" Y1="2655" Y2="2655" Y3="2712" Y4="2712"/>
+    <Viewer3DMaxRange>0</Viewer3DMaxRange>
+    <ViewerDirection>17203</ViewerDirection>
+    <WindowAngle>270</WindowAngle>
+    <DefectType>-4</DefectType>
+    <Defect3DType>-4</Defect3DType>
+    <PassDefectType/>
+    <PassDefect3DType/>
+    <DefectPins/>
+    <OverKillPins/>
+  </Defect>
+
+  <Defect>
+    <Overkill>0</Overkill>
+    <DefectTypeString>InsufficientSolder</DefectTypeString>
+    <ModuleId>24</ModuleId>
+    <RefId>USB200</RefId>
+    <FrameId>0</FrameId>
+    <WindowId>25</WindowId>
+    <IsImportantWindow>0</IsImportantWindow>
+    <PartNumber>0401-000006A</PartNumber>
+    <PartID>80123E87-9BCC-435b-84CC-86FE98D56AC6</PartID>
+    <WindowType>2</WindowType>
+    <ViewType>1</ViewType>
+    <PartGrabType>-1</PartGrabType>
+    <Reviewed>0</Reviewed>
+    <GroupDefectInfo>1</GroupDefectInfo>
+    <VirtualRefID>VFF754234-EB98-4c54-95CC-138EB4741D7D</VirtualRefID>
+    <WindowRefID>_SLD_21_</WindowRefID>
+    <IsZAxisUpPos1>0</IsZAxisUpPos1>
+    <IsZAxisUpPos2>0</IsZAxisUpPos2>
+    <ChangeDefectType>0</ChangeDefectType>
+    <ResultValue>0.000000</ResultValue>
+    <CameraNo>-1</CameraNo>
+    <IsChipFlyingDefect>0</IsChipFlyingDefect>
+    <_3DChipFlyingResultHeight>0.000000</_3DChipFlyingResultHeight>
+    <ResultMsg> Insp type : Solder &#xD;
+ Condition  :  30 &lt;= X &lt;= 255 &#xD;
+ White Rate : 30.8% [40.0% ~ 100.0%] 
+</ResultMsg>
+    <PartRect X1="2633" X2="2633" X3="1904" X4="1904" Y1="2289" Y2="3343" Y3="3343" Y4="2289"/>
+    <WindowRect X1="2016" X2="2016" X3="1982" X4="1982" Y1="2574" Y2="3058" Y3="3058" Y4="2574"/>
+    <FrameRect X1="218520" X2="277027" X3="277027" X4="218520" Y1="125203" Y2="125203" Y3="183705" Y4="183705"/>
+    <DefectRect X1="244850" X2="252105" X3="252105" X4="244850" Y1="141247" Y2="141247" Y3="141771" Y4="141771"/>
+    <AngleOffset>0.00</AngleOffset>
+    <Offset X="-15" Y="6"/>
+    <DefectPos X1="2017" X2="2017" X3="1981" X4="1981" Y1="2575" Y2="3059" Y3="3059" Y4="2575"/>
+    <Viewer3DMaxRange>0</Viewer3DMaxRange>
+    <ViewerDirection>17468</ViewerDirection>
+    <WindowAngle>270</WindowAngle>
+    <DefectType>5</DefectType>
+    <Defect3DType>5</Defect3DType>
+    <PassDefectType/>
+    <PassDefect3DType/>
+    <DefectPins/>
+    <OverKillPins/>
+  </Defect>
+
+  <Defect>
+    <Overkill>0</Overkill>
+    <DefectTypeString>WrongPart</DefectTypeString>
+    <ModuleId>7</ModuleId>
+    <RefId>SIM201</RefId>
+    <FrameId>0</FrameId>
+    <WindowId>7</WindowId>
+    <IsImportantWindow>0</IsImportantWindow>
+    <PartNumber>0401-000103A</PartNumber>
+    <PartID>8C29C368-38A3-45ef-B751-445AAF4645D8</PartID>
+    <WindowType>8</WindowType>
+    <ViewType>2</ViewType>
+    <PartGrabType>-1</PartGrabType>
+    <Reviewed>0</Reviewed>
+    <GroupDefectInfo>1</GroupDefectInfo>
+    <VirtualRefID>V92762191-013B-4b30-B4EB-AC3B66B7E2AA</VirtualRefID>
+    <WindowRefID>_CLR_30_</WindowRefID>
+    <IsZAxisUpPos1>0</IsZAxisUpPos1>
+    <IsZAxisUpPos2>0</IsZAxisUpPos2>
+    <ChangeDefectType>0</ChangeDefectType>
+    <ResultValue>0.000000</ResultValue>
+    <CameraNo>-1</CameraNo>
+    <IsChipFlyingDefect>0</IsChipFlyingDefect>
+    <_3DChipFlyingResultHeight>0.000000</_3DChipFlyingResultHeight>
+    <ResultMsg>Target Color - R : 115.00, G : 106.00, B : 121.00&#xD;
+Target Color - R : 98.00, G : 89.00, B : 99.00&#xD;
+Target Color - R : 68.00, G : 59.00, B : 65.00&#xD;
+.                     Color                                  Difference&#xD;
+Num.      R         G         B         R         G         B        Radius&#xD;
+001    159.33    149.91    150.96     44.33     43.91     29.96     69.22(X)&#xD;
+002    159.31    149.89    150.96     61.31     60.89     51.96    100.82(X)&#xD;
+003    159.29    149.87    150.96     91.29     90.87     85.96    154.86(X)&#xD;
+</ResultMsg>
+    <PartRect X1="2648" X2="1570" X3="1570" X4="2648" Y1="2693" Y2="2693" Y3="1831" Y4="1831"/>
+    <WindowRect X1="2441" X2="2391" X3="2391" X4="2441" Y1="2561" Y2="2561" Y3="2519" Y4="2519"/>
+    <FrameRect X1="332181" X2="390688" X3="390688" X4="332181" Y1="90864" Y2="90864" Y3="149366" Y4="149366"/>
+    <DefectRect X1="368016" X2="368754" X3="368754" X4="368016" Y1="110980" Y2="110980" Y3="111616" Y4="111616"/>
+    <AngleOffset>0.00</AngleOffset>
+    <Offset X="-1" Y="-5"/>
+    <Viewer3DMaxRange>0</Viewer3DMaxRange>
+    <ViewerDirection>0</ViewerDirection>
+    <WindowAngle>180</WindowAngle>
+    <DefectType>13</DefectType>
+    <Defect3DType>13</Defect3DType>
+    <PassDefectType/>
+    <PassDefect3DType/>
+    <DefectPins/>
+    <OverKillPins/>
+  </Defect>
+
+  <Defect>
+    <Overkill>0</Overkill>
+    <DefectTypeString>Bridge</DefectTypeString>
+    <ModuleId>7</ModuleId>
+    <RefId>SIM201</RefId>
+    <FrameId>0</FrameId>
+    <WindowId>16</WindowId>
+    <IsImportantWindow>0</IsImportantWindow>
+    <PartNumber>0401-000103A</PartNumber>
+    <PartID>8C29C368-38A3-45ef-B751-445AAF4645D8</PartID>
+    <WindowType>5</WindowType>
+    <ViewType>2</ViewType>
+    <PartGrabType>-1</PartGrabType>
+    <Reviewed>0</Reviewed>
+    <GroupDefectInfo>1</GroupDefectInfo>
+    <VirtualRefID>V6EF163C9-1274-478b-A9C1-F5769125C272</VirtualRefID>
+    <WindowRefID>_BRG_5_</WindowRefID>
+    <IsZAxisUpPos1>0</IsZAxisUpPos1>
+    <IsZAxisUpPos2>0</IsZAxisUpPos2>
+    <ChangeDefectType>0</ChangeDefectType>
+    <ResultValue>0.000000</ResultValue>
+    <CameraNo>-1</CameraNo>
+    <IsChipFlyingDefect>0</IsChipFlyingDefect>
+    <_3DChipFlyingResultHeight>0.000000</_3DChipFlyingResultHeight>
+    <ResultMsg>Error : Lead Seperation!&#xD;
+ Number Of Lead    =   4&#xD;
+ Number Of Gap     =   3&#xD;
+ AverageLead Width =  16 [pixel]&#xD;
+ AverageGap Width   =  26 [pixel]&#xD;
+ AveragePitch       =  43 [pixel]&#xD;
+ === Lead Separation Information === &#xD;
+ [ Lead Count Direction : Down &gt;&gt;&gt; Up ], [Unit : pixel] &#xD;
+  4 : Lead Width=  9, Gap= 50, Pitch= 64&#xD;
+  3 : Lead Width= 18, Gap= 25, Pitch= 42&#xD;
+  2 : Lead Width= 16, Gap= 29, Pitch= 44&#xD;
+  1 : Lead Width= 14&#xD;
+</ResultMsg>
+    <PartRect X1="2648" X2="1570" X3="1570" X4="2648" Y1="2693" Y2="2693" Y3="1831" Y4="1831"/>
+    <WindowRect X1="2645" X2="2605" X3="2605" X4="2645" Y1="2269" Y2="2269" Y3="2092" Y4="2092"/>
+    <FrameRect X1="332181" X2="390688" X3="390688" X4="332181" Y1="90864" Y2="90864" Y3="149366" Y4="149366"/>
+    <DefectRect X1="371221" X2="371813" X3="371813" X4="371221" Y1="115346" Y2="115346" Y3="117987" Y4="117987"/>
+    <AngleOffset>0.00</AngleOffset>
+    <Offset X="-1" Y="-5"/>
+    <DefectPos X1="2605" X2="2645" X3="2645" X4="2605" Y1="2094" Y2="2094" Y3="2103" Y4="2103"/>
+    <Viewer3DMaxRange>0</Viewer3DMaxRange>
+    <ViewerDirection>0</ViewerDirection>
+    <WindowAngle>180</WindowAngle>
+    <BridgeDirection>4</BridgeDirection>
+    <DefectType>7</DefectType>
+    <Defect3DType>7</Defect3DType>
+    <PassDefectType/>
+    <PassDefect3DType/>
+    <DefectPins/>
+    <OverKillPins/>
+  </Defect>
+
+  <Defect>
+    <Overkill>0</Overkill>
+    <DefectTypeString>Missing</DefectTypeString>
+    <ModuleId>7</ModuleId>
+    <RefId>TAPE</RefId>
+    <FrameId>0</FrameId>
+    <WindowId>0</WindowId>
+    <IsImportantWindow>0</IsImportantWindow>
+    <PartNumber>TAPE1</PartNumber>
+    <PartID>93B5D1CA-0ED4-4b99-B306-2C508756FD39</PartID>
+    <WindowType>1</WindowType>
+    <ViewType>2</ViewType>
+    <PartGrabType>-1</PartGrabType>
+    <Reviewed>0</Reviewed>
+    <GroupDefectInfo>1</GroupDefectInfo>
+    <VirtualRefID>VE0AD665B-719C-44c9-8272-C21FB1A718FE</VirtualRefID>
+    <WindowRefID>_MNT_120_</WindowRefID>
+    <IsZAxisUpPos1>0</IsZAxisUpPos1>
+    <IsZAxisUpPos2>0</IsZAxisUpPos2>
+    <ChangeDefectType>0</ChangeDefectType>
+    <ResultValue>0.000000</ResultValue>
+    <CameraNo>-1</CameraNo>
+    <IsChipFlyingDefect>0</IsChipFlyingDefect>
+    <_3DChipFlyingResultHeight>0.000000</_3DChipFlyingResultHeight>
+    <ResultMsg>Insp Type   :  Mounting&#xD;
+&#xD;
+.  No      Score   ChipVerify&#xD;
+[  1]   :  V       16.6%                    &#xD;
+[  2]   :  V       29.1%                    &#xD;
+[  3]   :  V       33.2%                    &#xD;
+== Retry ==&#xD;
+[  1]   :  V       16.6%                    &#xD;
+[  2]   :  V       29.7%                    &#xD;
+[  3]   :  V       33.7%                    &#xD;
+----------------------------------&#xD;
+Max score:  33.7%[Acceptance score :   78.0%]&#xD;
+Offset(X, Y, Angle)    : -21, 20, 0.00&#xD;
+</ResultMsg>
+    <PartRect X1="1115" X2="1708" X3="1708" X4="1115" Y1="1518" Y2="1518" Y3="1741" Y4="1741"/>
+    <WindowRect X1="1453" X2="1708" X3="1708" X4="1453" Y1="1519" Y2="1519" Y3="1732" Y4="1732"/>
+    <FrameRect X1="332181" X2="390688" X3="390688" X4="332181" Y1="90864" Y2="90864" Y3="149366" Y4="149366"/>
+    <DefectRect X1="353976" X2="357796" X3="357796" X4="353976" Y1="123403" Y2="123403" Y3="126595" Y4="126595"/>
+    <AngleOffset>0.00</AngleOffset>
+    <Offset X="-21" Y="20"/>
+    <Viewer3DMaxRange>0</Viewer3DMaxRange>
+    <ViewerDirection>0</ViewerDirection>
+    <WindowAngle>0</WindowAngle>
+    <DefectType>1</DefectType>
+    <Defect3DType>1</Defect3DType>
+    <PassDefectType/>
+    <PassDefect3DType/>
+    <DefectPins/>
+    <OverKillPins/>
+  </Defect>
+
+  <Defect>
+    <Overkill>0</Overkill>
+    <DefectTypeString>WrongPart</DefectTypeString>
+    <ModuleId>7</ModuleId>
+    <RefId>TAPE</RefId>
+    <FrameId>0</FrameId>
+    <WindowId>3</WindowId>
+    <IsImportantWindow>0</IsImportantWindow>
+    <PartNumber>TAPE1</PartNumber>
+    <PartID>93B5D1CA-0ED4-4b99-B306-2C508756FD39</PartID>
+    <WindowType>8</WindowType>
+    <ViewType>1</ViewType>
+    <PartGrabType>-1</PartGrabType>
+    <Reviewed>0</Reviewed>
+    <GroupDefectInfo>1</GroupDefectInfo>
+    <VirtualRefID>V99B7A529-BDCE-4068-8C44-F23375E25609</VirtualRefID>
+    <WindowRefID>_CLR_45_</WindowRefID>
+    <IsZAxisUpPos1>0</IsZAxisUpPos1>
+    <IsZAxisUpPos2>0</IsZAxisUpPos2>
+    <ChangeDefectType>0</ChangeDefectType>
+    <ResultValue>0.000000</ResultValue>
+    <CameraNo>-1</CameraNo>
+    <IsChipFlyingDefect>0</IsChipFlyingDefect>
+    <_3DChipFlyingResultHeight>0.000000</_3DChipFlyingResultHeight>
+    <ResultMsg>Target Color - R : 10.00, G : 12.00, B : 19.00&#xD;
+.                     Color                                  Difference&#xD;
+Num.      R         G         B         R         G         B        Radius&#xD;
+001     14.90     27.52     42.40      4.90     15.52     23.40     28.50(X)&#xD;
+</ResultMsg>
+    <PartRect X1="1137" X2="1730" X3="1730" X4="1137" Y1="1497" Y2="1497" Y3="1720" Y4="1720"/>
+    <WindowRect X1="1559" X2="1644" X3="1644" X4="1559" Y1="1577" Y2="1577" Y3="1635" Y4="1635"/>
+    <FrameRect X1="332181" X2="390688" X3="390688" X4="332181" Y1="90864" Y2="90864" Y3="149366" Y4="149366"/>
+    <DefectRect X1="355562" X2="356830" X3="356830" X4="355562" Y1="124849" Y2="124849" Y3="125730" Y4="125730"/>
+    <AngleOffset>0.00</AngleOffset>
+    <Offset X="3" Y="-1"/>
+    <Viewer3DMaxRange>0</Viewer3DMaxRange>
+    <ViewerDirection>17596</ViewerDirection>
+    <WindowAngle>0</WindowAngle>
+    <DefectType>13</DefectType>
+    <Defect3DType>13</Defect3DType>
+    <PassDefectType/>
+    <PassDefect3DType/>
+    <DefectPins/>
+    <OverKillPins/>
+  </Defect>
+
+  <Defect>
+    <Overkill>0</Overkill>
+    <DefectTypeString>Missing</DefectTypeString>
+    <ModuleId>39</ModuleId>
+    <RefId>USB200</RefId>
+    <FrameId>0</FrameId>
+    <WindowId>0</WindowId>
+    <IsImportantWindow>0</IsImportantWindow>
+    <PartNumber>0401-000006A</PartNumber>
+    <PartID>80123E87-9BCC-435b-84CC-86FE98D56AC6</PartID>
+    <WindowType>1</WindowType>
+    <ViewType>2</ViewType>
+    <PartGrabType>-1</PartGrabType>
+    <Reviewed>0</Reviewed>
+    <GroupDefectInfo>1</GroupDefectInfo>
+    <VirtualRefID>VA1AFEC9A-A102-45aa-9590-8CCED13ADB1C</VirtualRefID>
+    <WindowRefID>_MNT_61_</WindowRefID>
+    <IsZAxisUpPos1>0</IsZAxisUpPos1>
+    <IsZAxisUpPos2>0</IsZAxisUpPos2>
+    <ChangeDefectType>0</ChangeDefectType>
+    <ResultValue>0.000000</ResultValue>
+    <CameraNo>-1</CameraNo>
+    <IsChipFlyingDefect>0</IsChipFlyingDefect>
+    <_3DChipFlyingResultHeight>0.000000</_3DChipFlyingResultHeight>
+    <ResultMsg>Insp Type   :  Mounting&#xD;
+&#xD;
+.  No      Score   ChipVerify&#xD;
+[  1]   :  V       46.5%                    &#xD;
+[  2]   :   V     X&#xD;
+[  3]   :  V       49.6%                    &#xD;
+[  4]   :  V       41.1%                    &#xD;
+== Retry ==&#xD;
+[  1]   :  V       46.5%                    &#xD;
+[  2]   :   V     X&#xD;
+[  3]   :  V       49.6%                    &#xD;
+[  4]   :  V       41.1%                    &#xD;
+----------------------------------&#xD;
+Max score:  49.6%[Acceptance score :   60.0%]&#xD;
+Offset(X, Y, Angle)    : -5, 7, 0.00&#xD;
+</ResultMsg>
+    <PartRect X1="2644" X2="2644" X3="1915" X4="1915" Y1="2291" Y2="3346" Y3="3346" Y4="2291"/>
+    <WindowRect X1="2445" X2="2445" X3="2123" X4="2123" Y1="2492" Y2="3142" Y3="3142" Y4="2492"/>
+    <FrameRect X1="363654" X2="422161" X3="422161" X4="363654" Y1="125138" Y2="125138" Y3="183640" Y4="183640"/>
+    <DefectRect X1="393015" X2="402755" X3="402755" X4="393015" Y1="139009" Y2="139009" Y3="143836" Y4="143836"/>
+    <AngleOffset>0.00</AngleOffset>
+    <Offset X="-5" Y="7"/>
+    <Viewer3DMaxRange>0</Viewer3DMaxRange>
+    <ViewerDirection>50049</ViewerDirection>
+    <WindowAngle>270</WindowAngle>
+    <DefectType>1</DefectType>
+    <Defect3DType>1</Defect3DType>
+    <PassDefectType/>
+    <PassDefect3DType/>
+    <DefectPins/>
+    <OverKillPins/>
+  </Defect>
+
+  <Defect>
+    <Overkill>0</Overkill>
+    <DefectTypeString>2D Defect</DefectTypeString>
+    <ModuleId>39</ModuleId>
+    <RefId>USB200</RefId>
+    <FrameId>0</FrameId>
+    <WindowId>22</WindowId>
+    <IsImportantWindow>0</IsImportantWindow>
+    <PartNumber>0401-000006A</PartNumber>
+    <PartID>80123E87-9BCC-435b-84CC-86FE98D56AC6</PartID>
+    <WindowType>4</WindowType>
+    <ViewType>1</ViewType>
+    <PartGrabType>-1</PartGrabType>
+    <Reviewed>0</Reviewed>
+    <GroupDefectInfo>1</GroupDefectInfo>
+    <VirtualRefID>V476B49DB-E521-420c-B596-97C3059E04CE</VirtualRefID>
+    <WindowRefID>_BIN_4_</WindowRefID>
+    <IsZAxisUpPos1>0</IsZAxisUpPos1>
+    <IsZAxisUpPos2>0</IsZAxisUpPos2>
+    <ChangeDefectType>0</ChangeDefectType>
+    <ResultValue>974.077910</ResultValue>
+    <CameraNo>-1</CameraNo>
+    <IsChipFlyingDefect>0</IsChipFlyingDefect>
+    <_3DChipFlyingResultHeight>0.000000</_3DChipFlyingResultHeight>
+    <ResultMsg>Stripe(Vert/Negative)&#xD;
+Pixel      : 75 &lt; 65.0 &lt;= 95 &#xD;
+</ResultMsg>
+    <PartRect X1="2650" X2="2650" X3="1921" X4="1921" Y1="2283" Y2="3338" Y3="3338" Y4="2283"/>
+    <WindowRect X1="2154" X2="2154" X3="2022" X4="2022" Y1="2649" Y2="2707" Y3="2707" Y4="2649"/>
+    <FrameRect X1="363654" X2="422161" X3="422161" X4="363654" Y1="125138" Y2="125138" Y3="183640" Y4="183640"/>
+    <DefectRect X1="394515" X2="395380" X3="395380" X4="394515" Y1="142528" Y2="142528" Y3="144500" Y4="144500"/>
+    <AngleOffset>0.00</AngleOffset>
+    <Offset X="0" Y="0"/>
+    <DefectPos X1="2022" X2="2154" X3="2154" X4="2022" Y1="2649" Y2="2649" Y3="2707" Y4="2707"/>
+    <Viewer3DMaxRange>0</Viewer3DMaxRange>
+    <ViewerDirection>17677</ViewerDirection>
+    <WindowAngle>270</WindowAngle>
+    <DefectType>-4</DefectType>
+    <Defect3DType>-4</Defect3DType>
+    <PassDefectType/>
+    <PassDefect3DType/>
+    <DefectPins/>
+    <OverKillPins/>
+  </Defect>
+
+  <Defect>
+    <Overkill>0</Overkill>
+    <DefectTypeString>Missing</DefectTypeString>
+    <ModuleId>10</ModuleId>
+    <RefId>USB200</RefId>
+    <FrameId>0</FrameId>
+    <WindowId>1</WindowId>
+    <IsImportantWindow>0</IsImportantWindow>
+    <PartNumber>0401-000006A</PartNumber>
+    <PartID>80123E87-9BCC-435b-84CC-86FE98D56AC6</PartID>
+    <WindowType>1</WindowType>
+    <ViewType>2</ViewType>
+    <PartGrabType>-1</PartGrabType>
+    <Reviewed>0</Reviewed>
+    <GroupDefectInfo>1</GroupDefectInfo>
+    <VirtualRefID>V5F23BCB4-FD92-4c60-905C-8F4D52D9DC4D</VirtualRefID>
+    <WindowRefID>_MNT_62_</WindowRefID>
+    <IsZAxisUpPos1>0</IsZAxisUpPos1>
+    <IsZAxisUpPos2>0</IsZAxisUpPos2>
+    <ChangeDefectType>0</ChangeDefectType>
+    <ResultValue>0.000000</ResultValue>
+    <CameraNo>-1</CameraNo>
+    <IsChipFlyingDefect>0</IsChipFlyingDefect>
+    <_3DChipFlyingResultHeight>0.000000</_3DChipFlyingResultHeight>
+    <ResultMsg>Insp Type   :  Mounting&#xD;
+&#xD;
+.  No      Score   ChipVerify&#xD;
+[  1]   :  V       54.9%                    &#xD;
+== Retry ==&#xD;
+[  1]   :  V       54.9%                    &#xD;
+----------------------------------&#xD;
+Max score:  54.9%[Acceptance score :   60.0%]&#xD;
+Offset(X, Y, Angle)    : 7, 1, 0.00&#xD;
+</ResultMsg>
+    <PartRect X1="1276" X2="1276" X3="2005" X4="2005" Y1="1614" Y2="559" Y3="559" Y4="1614"/>
+    <WindowRect X1="1413" X2="1413" X3="1469" X4="1469" Y1="1392" Y2="782" Y3="782" Y4="1392"/>
+    <FrameRect X1="332197" X2="390704" X3="390704" X4="332197" Y1="169483" Y2="169483" Y3="227985" Y4="227985"/>
+    <DefectRect X1="349244" X2="358374" X3="358374" X4="349244" Y1="211267" Y2="211267" Y3="212111" Y4="212111"/>
+    <AngleOffset>0.00</AngleOffset>
+    <Offset X="7" Y="1"/>
+    <Viewer3DMaxRange>0</Viewer3DMaxRange>
+    <ViewerDirection>48</ViewerDirection>
+    <WindowAngle>90</WindowAngle>
+    <DefectType>1</DefectType>
+    <Defect3DType>1</Defect3DType>
+    <PassDefectType/>
+    <PassDefect3DType/>
+    <DefectPins/>
+    <OverKillPins/>
+  </Defect>
+
+  <Defect>
+    <Overkill>0</Overkill>
+    <DefectTypeString>2D Defect</DefectTypeString>
+    <ModuleId>41</ModuleId>
+    <RefId>USB200</RefId>
+    <FrameId>0</FrameId>
+    <WindowId>21</WindowId>
+    <IsImportantWindow>0</IsImportantWindow>
+    <PartNumber>0401-000006A</PartNumber>
+    <PartID>80123E87-9BCC-435b-84CC-86FE98D56AC6</PartID>
+    <WindowType>4</WindowType>
+    <ViewType>1</ViewType>
+    <PartGrabType>-1</PartGrabType>
+    <Reviewed>0</Reviewed>
+    <GroupDefectInfo>1</GroupDefectInfo>
+    <VirtualRefID>V4E5A2D58-FEDB-4a59-8D80-C2BE9C826E77</VirtualRefID>
+    <WindowRefID>_BIN_3_</WindowRefID>
+    <IsZAxisUpPos1>0</IsZAxisUpPos1>
+    <IsZAxisUpPos2>0</IsZAxisUpPos2>
+    <ChangeDefectType>0</ChangeDefectType>
+    <ResultValue>1034.021166</ResultValue>
+    <CameraNo>-1</CameraNo>
+    <IsChipFlyingDefect>0</IsChipFlyingDefect>
+    <_3DChipFlyingResultHeight>0.000000</_3DChipFlyingResultHeight>
+    <ResultMsg>Stripe(Vert/Negative)&#xD;
+Pixel      : 75 &lt; 69.0 &lt;= 95 &#xD;
+</ResultMsg>
+    <PartRect X1="2632" X2="2632" X3="1903" X4="1903" Y1="2292" Y2="3347" Y3="3347" Y4="2292"/>
+    <WindowRect X1="2134" X2="2134" X3="2003" X4="2003" Y1="2916" Y2="2973" Y3="2973" Y4="2916"/>
+    <FrameRect X1="338698" X2="397205" X3="397205" X4="338698" Y1="203769" Y2="203769" Y3="262271" Y4="262271"/>
+    <DefectRect X1="369277" X2="370142" X3="370142" X4="369277" Y1="217165" Y2="217165" Y3="219137" Y4="219137"/>
+    <AngleOffset>0.00</AngleOffset>
+    <Offset X="-13" Y="9"/>
+    <DefectPos X1="2003" X2="2134" X3="2134" X4="2003" Y1="2916" Y2="2916" Y3="2973" Y4="2973"/>
+    <Viewer3DMaxRange>0</Viewer3DMaxRange>
+    <ViewerDirection>5</ViewerDirection>
+    <WindowAngle>270</WindowAngle>
+    <DefectType>-4</DefectType>
+    <Defect3DType>-4</Defect3DType>
+    <PassDefectType/>
+    <PassDefect3DType/>
+    <DefectPins/>
+    <OverKillPins/>
+  </Defect>
+
+  <Defect>
+    <Overkill>0</Overkill>
+    <DefectTypeString>2D Defect</DefectTypeString>
+    <ModuleId>41</ModuleId>
+    <RefId>USB200</RefId>
+    <FrameId>0</FrameId>
+    <WindowId>22</WindowId>
+    <IsImportantWindow>0</IsImportantWindow>
+    <PartNumber>0401-000006A</PartNumber>
+    <PartID>80123E87-9BCC-435b-84CC-86FE98D56AC6</PartID>
+    <WindowType>4</WindowType>
+    <ViewType>1</ViewType>
+    <PartGrabType>-1</PartGrabType>
+    <Reviewed>0</Reviewed>
+    <GroupDefectInfo>1</GroupDefectInfo>
+    <VirtualRefID>V476B49DB-E521-420c-B596-97C3059E04CE</VirtualRefID>
+    <WindowRefID>_BIN_4_</WindowRefID>
+    <IsZAxisUpPos1>0</IsZAxisUpPos1>
+    <IsZAxisUpPos2>0</IsZAxisUpPos2>
+    <ChangeDefectType>0</ChangeDefectType>
+    <ResultValue>1034.021166</ResultValue>
+    <CameraNo>-1</CameraNo>
+    <IsChipFlyingDefect>0</IsChipFlyingDefect>
+    <_3DChipFlyingResultHeight>0.000000</_3DChipFlyingResultHeight>
+    <ResultMsg>Stripe(Vert/Negative)&#xD;
+Pixel      : 75 &lt; 69.0 &lt;= 95 &#xD;
+</ResultMsg>
+    <PartRect X1="2632" X2="2632" X3="1903" X4="1903" Y1="2292" Y2="3347" Y3="3347" Y4="2292"/>
+    <WindowRect X1="2135" X2="2135" X3="2004" X4="2004" Y1="2659" Y2="2716" Y3="2716" Y4="2659"/>
+    <FrameRect X1="338698" X2="397205" X3="397205" X4="338698" Y1="203769" Y2="203769" Y3="262271" Y4="262271"/>
+    <DefectRect X1="369293" X2="370158" X3="370158" X4="369293" Y1="221017" Y2="221017" Y3="222989" Y4="222989"/>
+    <AngleOffset>0.00</AngleOffset>
+    <Offset X="-13" Y="9"/>
+    <DefectPos X1="2004" X2="2135" X3="2135" X4="2004" Y1="2659" Y2="2659" Y3="2716" Y4="2716"/>
+    <Viewer3DMaxRange>0</Viewer3DMaxRange>
+    <ViewerDirection>0</ViewerDirection>
+    <WindowAngle>270</WindowAngle>
+    <DefectType>-4</DefectType>
+    <Defect3DType>-4</Defect3DType>
+    <PassDefectType/>
+    <PassDefect3DType/>
+    <DefectPins/>
+    <OverKillPins/>
+  </Defect>
+
+  <Defect>
+    <Overkill>0</Overkill>
+    <DefectTypeString>InsufficientSolder</DefectTypeString>
+    <ModuleId>41</ModuleId>
+    <RefId>USB200</RefId>
+    <FrameId>0</FrameId>
+    <WindowId>25</WindowId>
+    <IsImportantWindow>0</IsImportantWindow>
+    <PartNumber>0401-000006A</PartNumber>
+    <PartID>80123E87-9BCC-435b-84CC-86FE98D56AC6</PartID>
+    <WindowType>2</WindowType>
+    <ViewType>1</ViewType>
+    <PartGrabType>-1</PartGrabType>
+    <Reviewed>0</Reviewed>
+    <GroupDefectInfo>1</GroupDefectInfo>
+    <VirtualRefID>VFF754234-EB98-4c54-95CC-138EB4741D7D</VirtualRefID>
+    <WindowRefID>_SLD_21_</WindowRefID>
+    <IsZAxisUpPos1>0</IsZAxisUpPos1>
+    <IsZAxisUpPos2>0</IsZAxisUpPos2>
+    <ChangeDefectType>0</ChangeDefectType>
+    <ResultValue>0.000000</ResultValue>
+    <CameraNo>-1</CameraNo>
+    <IsChipFlyingDefect>0</IsChipFlyingDefect>
+    <_3DChipFlyingResultHeight>0.000000</_3DChipFlyingResultHeight>
+    <ResultMsg> Insp type : Solder &#xD;
+ Condition  :  30 &lt;= X &lt;= 255 &#xD;
+ White Rate : 34.6% [40.0% ~ 100.0%] 
+</ResultMsg>
+    <PartRect X1="2632" X2="2632" X3="1903" X4="1903" Y1="2292" Y2="3347" Y3="3347" Y4="2292"/>
+    <WindowRect X1="2015" X2="2015" X3="1981" X4="1981" Y1="2577" Y2="3062" Y3="3062" Y4="2577"/>
+    <FrameRect X1="338698" X2="397205" X3="397205" X4="338698" Y1="203769" Y2="203769" Y3="262271" Y4="262271"/>
+    <DefectRect X1="365020" X2="372275" X3="372275" X4="365020" Y1="219769" Y2="219769" Y3="220293" Y4="220293"/>
+    <AngleOffset>0.00</AngleOffset>
+    <Offset X="-13" Y="9"/>
+    <DefectPos X1="2015" X2="2015" X3="1980" X4="1980" Y1="2577" Y2="3061" Y3="3061" Y4="2577"/>
+    <Viewer3DMaxRange>0</Viewer3DMaxRange>
+    <ViewerDirection>890981792</ViewerDirection>
+    <WindowAngle>270</WindowAngle>
+    <DefectType>5</DefectType>
+    <Defect3DType>5</Defect3DType>
+    <PassDefectType/>
+    <PassDefect3DType/>
+    <DefectPins/>
+    <OverKillPins/>
+  </Defect>
+
+  <Defect>
+    <Overkill>0</Overkill>
+    <DefectTypeString>Missing</DefectTypeString>
+    <ModuleId>42</ModuleId>
+    <RefId>USB200</RefId>
+    <FrameId>0</FrameId>
+    <WindowId>1</WindowId>
+    <IsImportantWindow>0</IsImportantWindow>
+    <PartNumber>0401-000006A</PartNumber>
+    <PartID>80123E87-9BCC-435b-84CC-86FE98D56AC6</PartID>
+    <WindowType>1</WindowType>
+    <ViewType>2</ViewType>
+    <PartGrabType>-1</PartGrabType>
+    <Reviewed>0</Reviewed>
+    <GroupDefectInfo>1</GroupDefectInfo>
+    <VirtualRefID>V5F23BCB4-FD92-4c60-905C-8F4D52D9DC4D</VirtualRefID>
+    <WindowRefID>_MNT_62_</WindowRefID>
+    <IsZAxisUpPos1>0</IsZAxisUpPos1>
+    <IsZAxisUpPos2>0</IsZAxisUpPos2>
+    <ChangeDefectType>0</ChangeDefectType>
+    <ResultValue>0.000000</ResultValue>
+    <CameraNo>-1</CameraNo>
+    <IsChipFlyingDefect>0</IsChipFlyingDefect>
+    <_3DChipFlyingResultHeight>0.000000</_3DChipFlyingResultHeight>
+    <ResultMsg>Insp Type   :  Mounting&#xD;
+&#xD;
+.  No      Score   ChipVerify&#xD;
+[  1]   :  V       46.5%                    &#xD;
+== Retry ==&#xD;
+[  1]   :  V       46.5%                    &#xD;
+----------------------------------&#xD;
+Max score:  46.5%[Acceptance score :   60.0%]&#xD;
+Offset(X, Y, Angle)    : 4, -12, 0.00&#xD;
+</ResultMsg>
+    <PartRect X1="2640" X2="2640" X3="1911" X4="1911" Y1="2274" Y2="3329" Y3="3329" Y4="2274"/>
+    <WindowRect X1="2504" X2="2504" X3="2448" X4="2448" Y1="2497" Y2="3107" Y3="3107" Y4="2497"/>
+    <FrameRect X1="363647" X2="422154" X3="422154" X4="363647" Y1="203569" Y2="203569" Y3="262071" Y4="262071"/>
+    <DefectRect X1="396183" X2="405313" X3="405313" X4="396183" Y1="219652" Y2="219652" Y3="220495" Y4="220495"/>
+    <AngleOffset>0.00</AngleOffset>
+    <Offset X="4" Y="-12"/>
+    <Viewer3DMaxRange>0</Viewer3DMaxRange>
+    <ViewerDirection>32</ViewerDirection>
+    <WindowAngle>270</WindowAngle>
+    <DefectType>1</DefectType>
+    <Defect3DType>1</Defect3DType>
+    <PassDefectType/>
+    <PassDefect3DType/>
+    <DefectPins/>
+    <OverKillPins/>
+  </Defect>
+
+  <Defect>
+    <Overkill>0</Overkill>
+    <DefectTypeString>2D Defect</DefectTypeString>
+    <ModuleId>42</ModuleId>
+    <RefId>USB200</RefId>
+    <FrameId>0</FrameId>
+    <WindowId>21</WindowId>
+    <IsImportantWindow>0</IsImportantWindow>
+    <PartNumber>0401-000006A</PartNumber>
+    <PartID>80123E87-9BCC-435b-84CC-86FE98D56AC6</PartID>
+    <WindowType>4</WindowType>
+    <ViewType>1</ViewType>
+    <PartGrabType>-1</PartGrabType>
+    <Reviewed>0</Reviewed>
+    <GroupDefectInfo>1</GroupDefectInfo>
+    <VirtualRefID>V4E5A2D58-FEDB-4a59-8D80-C2BE9C826E77</VirtualRefID>
+    <WindowRefID>_BIN_3_</WindowRefID>
+    <IsZAxisUpPos1>0</IsZAxisUpPos1>
+    <IsZAxisUpPos2>0</IsZAxisUpPos2>
+    <ChangeDefectType>0</ChangeDefectType>
+    <ResultValue>1019.035352</ResultValue>
+    <CameraNo>-1</CameraNo>
+    <IsChipFlyingDefect>0</IsChipFlyingDefect>
+    <_3DChipFlyingResultHeight>0.000000</_3DChipFlyingResultHeight>
+    <ResultMsg>Stripe(Vert/Negative)&#xD;
+Pixel      : 75 &lt; 68.0 &lt;= 95 &#xD;
+</ResultMsg>
+    <PartRect X1="2636" X2="2636" X3="1907" X4="1907" Y1="2286" Y2="3341" Y3="3341" Y4="2286"/>
+    <WindowRect X1="2139" X2="2139" X3="2007" X4="2007" Y1="2910" Y2="2967" Y3="2967" Y4="2910"/>
+    <FrameRect X1="363647" X2="422154" X3="422154" X4="363647" Y1="203569" Y2="203569" Y3="262071" Y4="262071"/>
+    <DefectRect X1="394287" X2="395151" X3="395151" X4="394287" Y1="217057" Y2="217057" Y3="219029" Y4="219029"/>
+    <AngleOffset>0.00</AngleOffset>
+    <Offset X="-12" Y="4"/>
+    <DefectPos X1="2007" X2="2138" X3="2138" X4="2007" Y1="2910" Y2="2910" Y3="2968" Y4="2968"/>
+    <Viewer3DMaxRange>0</Viewer3DMaxRange>
+    <ViewerDirection>16569</ViewerDirection>
+    <WindowAngle>270</WindowAngle>
+    <DefectType>-4</DefectType>
+    <Defect3DType>-4</Defect3DType>
+    <PassDefectType/>
+    <PassDefect3DType/>
+    <DefectPins/>
+    <OverKillPins/>
+  </Defect>
+
+  <Defect>
+    <Overkill>0</Overkill>
+    <DefectTypeString>2D Defect</DefectTypeString>
+    <ModuleId>42</ModuleId>
+    <RefId>USB200</RefId>
+    <FrameId>0</FrameId>
+    <WindowId>22</WindowId>
+    <IsImportantWindow>0</IsImportantWindow>
+    <PartNumber>0401-000006A</PartNumber>
+    <PartID>80123E87-9BCC-435b-84CC-86FE98D56AC6</PartID>
+    <WindowType>4</WindowType>
+    <ViewType>1</ViewType>
+    <PartGrabType>-1</PartGrabType>
+    <Reviewed>0</Reviewed>
+    <GroupDefectInfo>1</GroupDefectInfo>
+    <VirtualRefID>V476B49DB-E521-420c-B596-97C3059E04CE</VirtualRefID>
+    <WindowRefID>_BIN_4_</WindowRefID>
+    <IsZAxisUpPos1>0</IsZAxisUpPos1>
+    <IsZAxisUpPos2>0</IsZAxisUpPos2>
+    <ChangeDefectType>0</ChangeDefectType>
+    <ResultValue>1034.021166</ResultValue>
+    <CameraNo>-1</CameraNo>
+    <IsChipFlyingDefect>0</IsChipFlyingDefect>
+    <_3DChipFlyingResultHeight>0.000000</_3DChipFlyingResultHeight>
+    <ResultMsg>Stripe(Vert/Negative)&#xD;
+Pixel      : 75 &lt; 69.0 &lt;= 95 &#xD;
+</ResultMsg>
+    <PartRect X1="2636" X2="2636" X3="1907" X4="1907" Y1="2286" Y2="3341" Y3="3341" Y4="2286"/>
+    <WindowRect X1="2140" X2="2140" X3="2008" X4="2008" Y1="2653" Y2="2710" Y3="2710" Y4="2653"/>
+    <FrameRect X1="363647" X2="422154" X3="422154" X4="363647" Y1="203569" Y2="203569" Y3="262071" Y4="262071"/>
+    <DefectRect X1="394303" X2="395167" X3="395167" X4="394303" Y1="220909" Y2="220909" Y3="222881" Y4="222881"/>
+    <AngleOffset>0.00</AngleOffset>
+    <Offset X="-12" Y="4"/>
+    <DefectPos X1="2008" X2="2139" X3="2139" X4="2008" Y1="2653" Y2="2653" Y3="2711" Y4="2711"/>
+    <Viewer3DMaxRange>0</Viewer3DMaxRange>
+    <ViewerDirection>49492</ViewerDirection>
+    <WindowAngle>270</WindowAngle>
+    <DefectType>-4</DefectType>
+    <Defect3DType>-4</Defect3DType>
+    <PassDefectType/>
+    <PassDefect3DType/>
+    <DefectPins/>
+    <OverKillPins/>
+  </Defect>
+
+  <Defect>
+    <Overkill>0</Overkill>
+    <DefectTypeString>InsufficientSolder</DefectTypeString>
+    <ModuleId>42</ModuleId>
+    <RefId>USB200</RefId>
+    <FrameId>0</FrameId>
+    <WindowId>25</WindowId>
+    <IsImportantWindow>0</IsImportantWindow>
+    <PartNumber>0401-000006A</PartNumber>
+    <PartID>80123E87-9BCC-435b-84CC-86FE98D56AC6</PartID>
+    <WindowType>2</WindowType>
+    <ViewType>1</ViewType>
+    <PartGrabType>-1</PartGrabType>
+    <Reviewed>0</Reviewed>
+    <GroupDefectInfo>1</GroupDefectInfo>
+    <VirtualRefID>VFF754234-EB98-4c54-95CC-138EB4741D7D</VirtualRefID>
+    <WindowRefID>_SLD_21_</WindowRefID>
+    <IsZAxisUpPos1>0</IsZAxisUpPos1>
+    <IsZAxisUpPos2>0</IsZAxisUpPos2>
+    <ChangeDefectType>0</ChangeDefectType>
+    <ResultValue>0.000000</ResultValue>
+    <CameraNo>-1</CameraNo>
+    <IsChipFlyingDefect>0</IsChipFlyingDefect>
+    <_3DChipFlyingResultHeight>0.000000</_3DChipFlyingResultHeight>
+    <ResultMsg> Insp type : Solder &#xD;
+ Condition  :  30 &lt;= X &lt;= 255 &#xD;
+ White Rate : 35.3% [40.0% ~ 100.0%] 
+</ResultMsg>
+    <PartRect X1="2636" X2="2636" X3="1907" X4="1907" Y1="2286" Y2="3341" Y3="3341" Y4="2286"/>
+    <WindowRect X1="2019" X2="2019" X3="1984" X4="1984" Y1="2570" Y2="3055" Y3="3055" Y4="2570"/>
+    <FrameRect X1="363647" X2="422154" X3="422154" X4="363647" Y1="203569" Y2="203569" Y3="262071" Y4="262071"/>
+    <DefectRect X1="390030" X2="397285" X3="397285" X4="390030" Y1="219661" Y2="219661" Y3="220185" Y4="220185"/>
+    <AngleOffset>0.00</AngleOffset>
+    <Offset X="-12" Y="4"/>
+    <DefectPos X1="2018" X2="2018" X3="1983" X4="1983" Y1="2570" Y2="3054" Y3="3054" Y4="2570"/>
+    <Viewer3DMaxRange>0</Viewer3DMaxRange>
+    <ViewerDirection>17499</ViewerDirection>
+    <WindowAngle>270</WindowAngle>
+    <DefectType>5</DefectType>
+    <Defect3DType>5</Defect3DType>
+    <PassDefectType/>
+    <PassDefect3DType/>
+    <DefectPins/>
+    <OverKillPins/>
+  </Defect>
+
+  <Defect3D>
+    <Overkill>0</Overkill>
+    <DefectTypeString>LiftedPackage</DefectTypeString>
+    <ModuleId>47</ModuleId>
+    <RefId>USB200</RefId>
+    <FrameId>0</FrameId>
+    <WindowId>20</WindowId>
+    <IsImportantWindow>0</IsImportantWindow>
+    <PartNumber>0401-000006A</PartNumber>
+    <PartID>80123E87-9BCC-435b-84CC-86FE98D56AC6</PartID>
+    <WindowType>9</WindowType>
+    <ViewType>1</ViewType>
+    <PartGrabType>67108867</PartGrabType>
+    <Reviewed>0</Reviewed>
+    <GroupDefectInfo>1</GroupDefectInfo>
+    <VirtualRefID>V323EB014-1A30-48ea-AC68-AF5BF62094D5</VirtualRefID>
+    <WindowRefID>_HCA_42_</WindowRefID>
+    <IsZAxisUpPos1>0</IsZAxisUpPos1>
+    <IsZAxisUpPos2>0</IsZAxisUpPos2>
+    <ChangeDefectType>0</ChangeDefectType>
+    <ResultValue>0.000000</ResultValue>
+    <CameraNo>-1</CameraNo>
+    <IsChipFlyingDefect>0</IsChipFlyingDefect>
+    <_3DChipFlyingResultHeight>0.000000</_3DChipFlyingResultHeight>
+    <ResultMsg>3340   &lt;   3328.86   &lt;   3740 (um)
+#&#xD;
+</ResultMsg>
+    <DefectResultMsg>
+3340   &lt;   3328.86   &lt;   3740 (um)</DefectResultMsg>
+    <PartRect X1="2642" X2="2642" X3="1913" X4="1913" Y1="2301" Y2="3356" Y3="3356" Y4="2301"/>
+    <WindowRect X1="2169" X2="2169" X3="2146" X4="2146" Y1="2688" Y2="3031" Y3="3031" Y4="2688"/>
+    <FrameRect X1="338668" X2="397175" X3="397175" X4="338668" Y1="367432" Y2="367432" Y3="425934" Y4="425934"/>
+    <DefectRect X1="368442" X2="373575" X3="373575" X4="368442" Y1="382908" Y2="382908" Y3="383259" Y4="383259"/>
+    <AngleOffset>0.00</AngleOffset>
+    <Offset X="-4" Y="19"/>
+    <Viewer3DMaxRange>3740</Viewer3DMaxRange>
+    <ViewerDirection>5</ViewerDirection>
+    <WindowAngle>270</WindowAngle>
+    <DefectType>9</DefectType>
+    <Defect3DType>9</Defect3DType>
+    <PassDefectType/>
+    <PassDefect3DType/>
+    <DefectPins/>
+    <OverKillPins/>
+  </Defect3D>
+
+  <Defect3D>
+    <Overkill>0</Overkill>
+    <DefectTypeString>LiftedPackage</DefectTypeString>
+    <ModuleId>47</ModuleId>
+    <RefId>R201</RefId>
+    <FrameId>0</FrameId>
+    <WindowId>0</WindowId>
+    <IsImportantWindow>0</IsImportantWindow>
+    <PartNumber>0301-000244B</PartNumber>
+    <PartID>B21F8F79-0BFB-4c1d-9D1B-C197AEC40068</PartID>
+    <WindowType>24</WindowType>
+    <ViewType>1</ViewType>
+    <PartGrabType>-1</PartGrabType>
+    <Reviewed>0</Reviewed>
+    <GroupDefectInfo>1</GroupDefectInfo>
+    <VirtualRefID>V152AB72D-686A-4ad7-BD3E-A0D800D68624</VirtualRefID>
+    <WindowRefID>_MNT_113_</WindowRefID>
+    <IsZAxisUpPos1>0</IsZAxisUpPos1>
+    <IsZAxisUpPos2>0</IsZAxisUpPos2>
+    <ChangeDefectType>0</ChangeDefectType>
+    <ResultValue>0.000000</ResultValue>
+    <CameraNo>-1</CameraNo>
+    <IsChipFlyingDefect>0</IsChipFlyingDefect>
+    <_3DChipFlyingResultHeight>0.000000</_3DChipFlyingResultHeight>
+    <ResultMsg>1 Pos  : ( 90 &lt; ) 85um ( &lt; 280 ) 
+#&#xD;
+2 Pos  : ( 90 &lt; ) 126um ( &lt; 280 ) &#xD;
+
+&#xD;
+Length Diff  : 40.53um ( &lt; 80 )&#xD;
+
+&#xD;
+Shift X : ( -250 &lt; ) -19.42um ( &lt; 250 )&#xD;
+Shift Y : ( -250 &lt; ) 11.40um ( &lt; 250 )&#xD;
+</ResultMsg>
+    <DefectResultMsg>
+1 Pos  : ( 90 &lt; ) 85um ( &lt; 280 ) </DefectResultMsg>
+    <PartRect X1="1660" X2="1660" X3="1682" X4="1682" Y1="2209" Y2="2169" Y3="2169" Y4="2209"/>
+    <WindowRect X1="1660" X2="1660" X3="1682" X4="1682" Y1="2209" Y2="2169" Y3="2169" Y4="2209"/>
+    <FrameRect X1="338668" X2="397175" X3="397175" X4="338668" Y1="367432" Y2="367432" Y3="425934" Y4="425934"/>
+    <DefectRect X1="363427" X2="364025" X3="364025" X4="363427" Y1="392964" Y2="392964" Y3="393296" Y4="393296"/>
+    <AngleOffset>0.00</AngleOffset>
+    <Offset X="-6" Y="0"/>
+    <Viewer3DMaxRange>280</Viewer3DMaxRange>
+    <ViewerDirection>2</ViewerDirection>
+    <WindowAngle>90</WindowAngle>
+    <DefectType>9</DefectType>
+    <Defect3DType>9</Defect3DType>
+    <PassDefectType/>
+    <PassDefect3DType/>
+    <DefectPins/>
+    <OverKillPins/>
+  </Defect3D>
+
+  <Defect3D>
+    <Overkill>0</Overkill>
+    <DefectTypeString>LiftedPackage</DefectTypeString>
+    <ModuleId>22</ModuleId>
+    <RefId>R202</RefId>
+    <FrameId>0</FrameId>
+    <WindowId>0</WindowId>
+    <IsImportantWindow>0</IsImportantWindow>
+    <PartNumber>0301-000244B</PartNumber>
+    <PartID>B21F8F79-0BFB-4c1d-9D1B-C197AEC40068</PartID>
+    <WindowType>24</WindowType>
+    <ViewType>1</ViewType>
+    <PartGrabType>-1</PartGrabType>
+    <Reviewed>0</Reviewed>
+    <GroupDefectInfo>1</GroupDefectInfo>
+    <VirtualRefID>V0435BCD0-43DD-469b-AFBD-7BBD105CFA3C</VirtualRefID>
+    <WindowRefID>_MNT_112_</WindowRefID>
+    <IsZAxisUpPos1>0</IsZAxisUpPos1>
+    <IsZAxisUpPos2>0</IsZAxisUpPos2>
+    <ChangeDefectType>0</ChangeDefectType>
+    <ResultValue>0.000000</ResultValue>
+    <CameraNo>-1</CameraNo>
+    <IsChipFlyingDefect>0</IsChipFlyingDefect>
+    <_3DChipFlyingResultHeight>0.000000</_3DChipFlyingResultHeight>
+    <ResultMsg>1 Pos  : ( 90 &lt; ) 85um ( &lt; 280 ) 
+#&#xD;
+2 Pos  : ( 90 &lt; ) 94um ( &lt; 280 ) &#xD;
+
+&#xD;
+Length Diff  : 8.85um ( &lt; 80 )&#xD;
+
+&#xD;
+Shift X : ( -250 &lt; ) -177.31um ( &lt; 250 )&#xD;
+Shift Y : ( -250 &lt; ) -65.59um ( &lt; 250 )&#xD;
+</ResultMsg>
+    <DefectResultMsg>
+1 Pos  : ( 90 &lt; ) 85um ( &lt; 280 ) </DefectResultMsg>
+    <PartRect X1="2268" X2="2268" X3="2246" X4="2246" Y1="1709" Y2="1749" Y3="1749" Y4="1709"/>
+    <WindowRect X1="2268" X2="2268" X3="2246" X4="2246" Y1="1709" Y2="1749" Y3="1749" Y4="1709"/>
+    <FrameRect X1="332233" X2="390740" X3="390740" X4="332233" Y1="333018" Y2="333018" Y3="391520" Y4="391520"/>
+    <DefectRect X1="365759" X2="366357" X3="366357" X4="365759" Y1="365433" Y2="365433" Y3="365765" Y4="365765"/>
+    <AngleOffset>0.00</AngleOffset>
+    <Offset X="-7" Y="3"/>
+    <Viewer3DMaxRange>280</Viewer3DMaxRange>
+    <ViewerDirection>2</ViewerDirection>
+    <WindowAngle>270</WindowAngle>
+    <DefectType>9</DefectType>
+    <Defect3DType>9</Defect3DType>
+    <PassDefectType/>
+    <PassDefect3DType/>
+    <DefectPins/>
+    <OverKillPins/>
+  </Defect3D>
+
+  <Defect3D>
+    <Overkill>0</Overkill>
+    <DefectTypeString>LiftedPackage</DefectTypeString>
+    <ModuleId>19</ModuleId>
+    <RefId>R202</RefId>
+    <FrameId>0</FrameId>
+    <WindowId>0</WindowId>
+    <IsImportantWindow>0</IsImportantWindow>
+    <PartNumber>0301-000244B</PartNumber>
+    <PartID>B21F8F79-0BFB-4c1d-9D1B-C197AEC40068</PartID>
+    <WindowType>24</WindowType>
+    <ViewType>1</ViewType>
+    <PartGrabType>-1</PartGrabType>
+    <Reviewed>0</Reviewed>
+    <GroupDefectInfo>1</GroupDefectInfo>
+    <VirtualRefID>V0435BCD0-43DD-469b-AFBD-7BBD105CFA3C</VirtualRefID>
+    <WindowRefID>_MNT_112_</WindowRefID>
+    <IsZAxisUpPos1>0</IsZAxisUpPos1>
+    <IsZAxisUpPos2>0</IsZAxisUpPos2>
+    <ChangeDefectType>0</ChangeDefectType>
+    <ResultValue>0.000000</ResultValue>
+    <CameraNo>-1</CameraNo>
+    <IsChipFlyingDefect>0</IsChipFlyingDefect>
+    <_3DChipFlyingResultHeight>0.000000</_3DChipFlyingResultHeight>
+    <ResultMsg>1 Pos  : ( 90 &lt; ) 82um ( &lt; 280 ) 
+#&#xD;
+2 Pos  : ( 90 &lt; ) 141um ( &lt; 280 ) &#xD;
+
+&#xD;
+Length Diff  : 58.89um ( &lt; 80 )&#xD;
+
+&#xD;
+Shift X : ( -250 &lt; ) -27.61um ( &lt; 250 )&#xD;
+Shift Y : ( -250 &lt; ) -73.84um ( &lt; 250 )&#xD;
+</ResultMsg>
+    <DefectResultMsg>
+1 Pos  : ( 90 &lt; ) 82um ( &lt; 280 ) </DefectResultMsg>
+    <PartRect X1="2267" X2="2267" X3="2244" X4="2244" Y1="1703" Y2="1743" Y3="1743" Y4="1703"/>
+    <WindowRect X1="2267" X2="2267" X3="2244" X4="2244" Y1="1703" Y2="1743" Y3="1743" Y4="1703"/>
+    <FrameRect X1="332193" X2="390700" X3="390700" X4="332193" Y1="254607" Y2="254607" Y3="313109" Y4="313109"/>
+    <DefectRect X1="365708" X2="366305" X3="366305" X4="365708" Y1="287102" Y2="287102" Y3="287434" Y4="287434"/>
+    <AngleOffset>0.00</AngleOffset>
+    <Offset X="-7" Y="2"/>
+    <Viewer3DMaxRange>280</Viewer3DMaxRange>
+    <ViewerDirection>2</ViewerDirection>
+    <WindowAngle>270</WindowAngle>
+    <DefectType>9</DefectType>
+    <Defect3DType>9</Defect3DType>
+    <PassDefectType/>
+    <PassDefect3DType/>
+    <DefectPins/>
+    <OverKillPins/>
+  </Defect3D>
+
+  <Defect3D>
+    <Overkill>0</Overkill>
+    <DefectTypeString>LiftedPackage</DefectTypeString>
+    <ModuleId>18</ModuleId>
+    <RefId>R202</RefId>
+    <FrameId>0</FrameId>
+    <WindowId>0</WindowId>
+    <IsImportantWindow>0</IsImportantWindow>
+    <PartNumber>0301-000244B</PartNumber>
+    <PartID>B21F8F79-0BFB-4c1d-9D1B-C197AEC40068</PartID>
+    <WindowType>24</WindowType>
+    <ViewType>1</ViewType>
+    <PartGrabType>-1</PartGrabType>
+    <Reviewed>0</Reviewed>
+    <GroupDefectInfo>1</GroupDefectInfo>
+    <VirtualRefID>V0435BCD0-43DD-469b-AFBD-7BBD105CFA3C</VirtualRefID>
+    <WindowRefID>_MNT_112_</WindowRefID>
+    <IsZAxisUpPos1>0</IsZAxisUpPos1>
+    <IsZAxisUpPos2>0</IsZAxisUpPos2>
+    <ChangeDefectType>0</ChangeDefectType>
+    <ResultValue>0.000000</ResultValue>
+    <CameraNo>-1</CameraNo>
+    <IsChipFlyingDefect>0</IsChipFlyingDefect>
+    <_3DChipFlyingResultHeight>0.000000</_3DChipFlyingResultHeight>
+    <ResultMsg>1 Pos  : ( 90 &lt; ) 83um ( &lt; 280 ) 
+#&#xD;
+2 Pos  : ( 90 &lt; ) 122um ( &lt; 280 ) &#xD;
+
+&#xD;
+Length Diff  : 38.60um ( &lt; 80 )&#xD;
+
+&#xD;
+Shift X : ( -250 &lt; ) -157.46um ( &lt; 250 )&#xD;
+Shift Y : ( -250 &lt; ) -61.68um ( &lt; 250 )&#xD;
+</ResultMsg>
+    <DefectResultMsg>
+1 Pos  : ( 90 &lt; ) 83um ( &lt; 280 ) </DefectResultMsg>
+    <PartRect X1="2265" X2="2265" X3="2243" X4="2243" Y1="1704" Y2="1744" Y3="1744" Y4="1704"/>
+    <WindowRect X1="2265" X2="2265" X3="2243" X4="2243" Y1="1704" Y2="1744" Y3="1744" Y4="1704"/>
+    <FrameRect X1="307144" X2="365651" X3="365651" X4="307144" Y1="254557" Y2="254557" Y3="313059" Y4="313059"/>
+    <DefectRect X1="340630" X2="341227" X3="341227" X4="340630" Y1="287050" Y2="287050" Y3="287382" Y4="287382"/>
+    <AngleOffset>0.00</AngleOffset>
+    <Offset X="-8" Y="2"/>
+    <Viewer3DMaxRange>280</Viewer3DMaxRange>
+    <ViewerDirection>2</ViewerDirection>
+    <WindowAngle>270</WindowAngle>
+    <DefectType>9</DefectType>
+    <Defect3DType>9</Defect3DType>
+    <PassDefectType/>
+    <PassDefect3DType/>
+    <DefectPins/>
+    <OverKillPins/>
+  </Defect3D>
+
+  <Defect3D>
+    <Overkill>0</Overkill>
+    <DefectTypeString>LiftedPackage</DefectTypeString>
+    <ModuleId>15</ModuleId>
+    <RefId>R202</RefId>
+    <FrameId>0</FrameId>
+    <WindowId>0</WindowId>
+    <IsImportantWindow>0</IsImportantWindow>
+    <PartNumber>0301-000244B</PartNumber>
+    <PartID>B21F8F79-0BFB-4c1d-9D1B-C197AEC40068</PartID>
+    <WindowType>24</WindowType>
+    <ViewType>1</ViewType>
+    <PartGrabType>-1</PartGrabType>
+    <Reviewed>0</Reviewed>
+    <GroupDefectInfo>1</GroupDefectInfo>
+    <VirtualRefID>V0435BCD0-43DD-469b-AFBD-7BBD105CFA3C</VirtualRefID>
+    <WindowRefID>_MNT_112_</WindowRefID>
+    <IsZAxisUpPos1>0</IsZAxisUpPos1>
+    <IsZAxisUpPos2>0</IsZAxisUpPos2>
+    <ChangeDefectType>0</ChangeDefectType>
+    <ResultValue>0.000000</ResultValue>
+    <CameraNo>-1</CameraNo>
+    <IsChipFlyingDefect>0</IsChipFlyingDefect>
+    <_3DChipFlyingResultHeight>0.000000</_3DChipFlyingResultHeight>
+    <ResultMsg>1 Pos  : ( 90 &lt; ) 89um ( &lt; 280 ) 
+#&#xD;
+2 Pos  : ( 90 &lt; ) 134um ( &lt; 280 ) &#xD;
+
+&#xD;
+Length Diff  : 44.45um ( &lt; 80 )&#xD;
+
+&#xD;
+Shift X : ( -250 &lt; ) -16.97um ( &lt; 250 )&#xD;
+Shift Y : ( -250 &lt; ) -61.53um ( &lt; 250 )&#xD;
+</ResultMsg>
+    <DefectResultMsg>
+1 Pos  : ( 90 &lt; ) 89um ( &lt; 280 ) </DefectResultMsg>
+    <PartRect X1="2269" X2="2269" X3="2247" X4="2247" Y1="1705" Y2="1745" Y3="1745" Y4="1705"/>
+    <WindowRect X1="2269" X2="2269" X3="2247" X4="2247" Y1="1705" Y2="1745" Y3="1745" Y4="1705"/>
+    <FrameRect X1="212114" X2="270621" X3="270621" X4="212114" Y1="333034" Y2="333034" Y3="391536" Y4="391536"/>
+    <DefectRect X1="245653" X2="246250" X3="246250" X4="245653" Y1="365513" Y2="365513" Y3="365845" Y4="365845"/>
+    <AngleOffset>0.00</AngleOffset>
+    <Offset X="-7" Y="3"/>
+    <Viewer3DMaxRange>280</Viewer3DMaxRange>
+    <ViewerDirection>2</ViewerDirection>
+    <WindowAngle>270</WindowAngle>
+    <DefectType>9</DefectType>
+    <Defect3DType>9</Defect3DType>
+    <PassDefectType/>
+    <PassDefect3DType/>
+    <DefectPins/>
+    <OverKillPins/>
+  </Defect3D>
+
+  <Defect3D>
+    <Overkill>0</Overkill>
+    <DefectTypeString>Tilt</DefectTypeString>
+    <ModuleId>29</ModuleId>
+    <RefId>C203</RefId>
+    <FrameId>0</FrameId>
+    <WindowId>0</WindowId>
+    <IsImportantWindow>0</IsImportantWindow>
+    <PartNumber>0302-000148A</PartNumber>
+    <PartID>A364043C-7F10-4d63-BA3F-21A99E0DD5E0</PartID>
+    <WindowType>24</WindowType>
+    <ViewType>2</ViewType>
+    <PartGrabType>-1</PartGrabType>
+    <Reviewed>0</Reviewed>
+    <GroupDefectInfo>1</GroupDefectInfo>
+    <VirtualRefID>V0A803835-3F06-4952-8A16-169F5FE48E6F</VirtualRefID>
+    <WindowRefID>_MNT_5_</WindowRefID>
+    <IsZAxisUpPos1>0</IsZAxisUpPos1>
+    <IsZAxisUpPos2>0</IsZAxisUpPos2>
+    <ChangeDefectType>0</ChangeDefectType>
+    <ResultValue>0.000000</ResultValue>
+    <CameraNo>-1</CameraNo>
+    <IsChipFlyingDefect>0</IsChipFlyingDefect>
+    <_3DChipFlyingResultHeight>0.000000</_3DChipFlyingResultHeight>
+    <ResultMsg>1 Pos  : ( 90 &lt; ) 133um ( &lt; 280 ) &#xD;
+2 Pos  : ( 90 &lt; ) 203um ( &lt; 280 ) &#xD;
+
+&#xD;
+Length Diff  : 69.16um ( &lt; 50 )
+#&#xD;
+
+&#xD;
+Shift X : ( -250 &lt; ) 73.17um ( &lt; 250 )&#xD;
+Shift Y : ( -250 &lt; ) 35.02um ( &lt; 250 )&#xD;
+</ResultMsg>
+    <DefectResultMsg>
+Length Diff  : 69.16um ( &lt; 50 )</DefectResultMsg>
+    <PartRect X1="1462" X2="1462" X3="1480" X4="1480" Y1="2214" Y2="2177" Y3="2177" Y4="2214"/>
+    <WindowRect X1="1462" X2="1462" X3="1480" X4="1480" Y1="2214" Y2="2177" Y3="2177" Y4="2214"/>
+    <FrameRect X1="268603" X2="327110" X3="327110" X4="268603" Y1="203666" Y2="203666" Y3="262168" Y4="262168"/>
+    <DefectRect X1="290399" X2="290942" X3="290942" X4="290399" Y1="229126" Y2="229126" Y3="229391" Y4="229391"/>
+    <AngleOffset>0.00</AngleOffset>
+    <Offset X="3" Y="-3"/>
+    <Viewer3DMaxRange>280</Viewer3DMaxRange>
+    <ViewerDirection>2</ViewerDirection>
+    <WindowAngle>90</WindowAngle>
+    <DefectType>12</DefectType>
+    <Defect3DType>12</Defect3DType>
+    <PassDefectType/>
+    <PassDefect3DType/>
+    <DefectPins/>
+    <OverKillPins/>
+  </Defect3D>
+
+  <Defect3D>
+    <Overkill>0</Overkill>
+    <DefectTypeString>LiftedPackage</DefectTypeString>
+    <ModuleId>3</ModuleId>
+    <RefId>R202</RefId>
+    <FrameId>0</FrameId>
+    <WindowId>0</WindowId>
+    <IsImportantWindow>0</IsImportantWindow>
+    <PartNumber>0301-000244B</PartNumber>
+    <PartID>B21F8F79-0BFB-4c1d-9D1B-C197AEC40068</PartID>
+    <WindowType>24</WindowType>
+    <ViewType>1</ViewType>
+    <PartGrabType>-1</PartGrabType>
+    <Reviewed>0</Reviewed>
+    <GroupDefectInfo>1</GroupDefectInfo>
+    <VirtualRefID>V0435BCD0-43DD-469b-AFBD-7BBD105CFA3C</VirtualRefID>
+    <WindowRefID>_MNT_112_</WindowRefID>
+    <IsZAxisUpPos1>0</IsZAxisUpPos1>
+    <IsZAxisUpPos2>0</IsZAxisUpPos2>
+    <ChangeDefectType>0</ChangeDefectType>
+    <ResultValue>0.000000</ResultValue>
+    <CameraNo>-1</CameraNo>
+    <IsChipFlyingDefect>0</IsChipFlyingDefect>
+    <_3DChipFlyingResultHeight>0.000000</_3DChipFlyingResultHeight>
+    <ResultMsg>1 Pos  : ( 90 &lt; ) 89um ( &lt; 280 ) 
+#&#xD;
+2 Pos  : ( 90 &lt; ) 124um ( &lt; 280 ) &#xD;
+
+&#xD;
+Length Diff  : 35.22um ( &lt; 80 )&#xD;
+
+&#xD;
+Shift X : ( -250 &lt; ) -26.39um ( &lt; 250 )&#xD;
+Shift Y : ( -250 &lt; ) -40.88um ( &lt; 250 )&#xD;
+</ResultMsg>
+    <DefectResultMsg>
+1 Pos  : ( 90 &lt; ) 89um ( &lt; 280 ) </DefectResultMsg>
+    <PartRect X1="2268" X2="2268" X3="2246" X4="2246" Y1="1704" Y2="1744" Y3="1744" Y4="1704"/>
+    <WindowRect X1="2268" X2="2268" X3="2246" X4="2246" Y1="1704" Y2="1744" Y3="1744" Y4="1704"/>
+    <FrameRect X1="212032" X2="270539" X3="270539" X4="212032" Y1="169438" Y2="169438" Y3="227940" Y4="227940"/>
+    <DefectRect X1="245564" X2="246162" X3="246162" X4="245564" Y1="201924" Y2="201924" Y3="202256" Y4="202256"/>
+    <AngleOffset>0.00</AngleOffset>
+    <Offset X="-6" Y="2"/>
+    <Viewer3DMaxRange>280</Viewer3DMaxRange>
+    <ViewerDirection>2</ViewerDirection>
+    <WindowAngle>270</WindowAngle>
+    <DefectType>9</DefectType>
+    <Defect3DType>9</Defect3DType>
+    <PassDefectType/>
+    <PassDefect3DType/>
+    <DefectPins/>
+    <OverKillPins/>
+  </Defect3D>
+
+  <Defect3D>
+    <Overkill>0</Overkill>
+    <DefectTypeString>LiftedPackage</DefectTypeString>
+    <ModuleId>5</ModuleId>
+    <RefId>USB200</RefId>
+    <FrameId>0</FrameId>
+    <WindowId>19</WindowId>
+    <IsImportantWindow>0</IsImportantWindow>
+    <PartNumber>0401-000006A</PartNumber>
+    <PartID>80123E87-9BCC-435b-84CC-86FE98D56AC6</PartID>
+    <WindowType>9</WindowType>
+    <ViewType>1</ViewType>
+    <PartGrabType>67108867</PartGrabType>
+    <Reviewed>0</Reviewed>
+    <GroupDefectInfo>1</GroupDefectInfo>
+    <VirtualRefID>V4295A251-B933-4b99-AB76-A98A5B2B4BB4</VirtualRefID>
+    <WindowRefID>_HCA_41_</WindowRefID>
+    <IsZAxisUpPos1>0</IsZAxisUpPos1>
+    <IsZAxisUpPos2>0</IsZAxisUpPos2>
+    <ChangeDefectType>0</ChangeDefectType>
+    <ResultValue>0.000000</ResultValue>
+    <CameraNo>-1</CameraNo>
+    <IsChipFlyingDefect>0</IsChipFlyingDefect>
+    <_3DChipFlyingResultHeight>0.000000</_3DChipFlyingResultHeight>
+    <ResultMsg>3190   &lt;   3186.54   &lt;   3690 (um)
+#&#xD;
+</ResultMsg>
+    <DefectResultMsg>
+3190   &lt;   3186.54   &lt;   3690 (um)</DefectResultMsg>
+    <PartRect X1="1291" X2="1291" X3="2019" X4="2019" Y1="1598" Y2="544" Y3="544" Y4="1598"/>
+    <WindowRect X1="1508" X2="1508" X3="1531" X4="1531" Y1="1240" Y2="897" Y3="897" Y4="1240"/>
+    <FrameRect X1="262199" X2="320706" X3="320706" X4="262199" Y1="169286" Y2="169286" Y3="227788" Y4="227788"/>
+    <DefectRect X1="282419" X2="287551" X3="287551" X4="282419" Y1="211577" Y2="211577" Y3="211928" Y4="211928"/>
+    <AngleOffset>0.00</AngleOffset>
+    <Offset X="19" Y="-14"/>
+    <Viewer3DMaxRange>3690</Viewer3DMaxRange>
+    <ViewerDirection>5</ViewerDirection>
+    <WindowAngle>90</WindowAngle>
+    <DefectType>9</DefectType>
+    <Defect3DType>9</Defect3DType>
+    <PassDefectType/>
+    <PassDefect3DType/>
+    <DefectPins/>
+    <OverKillPins/>
+  </Defect3D>
+
+  <Defect3D>
+    <Overkill>0</Overkill>
+    <DefectTypeString>LiftedPackage</DefectTypeString>
+    <ModuleId>1</ModuleId>
+    <RefId>USB200</RefId>
+    <FrameId>0</FrameId>
+    <WindowId>19</WindowId>
+    <IsImportantWindow>0</IsImportantWindow>
+    <PartNumber>0401-000006A</PartNumber>
+    <PartID>80123E87-9BCC-435b-84CC-86FE98D56AC6</PartID>
+    <WindowType>9</WindowType>
+    <ViewType>1</ViewType>
+    <PartGrabType>67108867</PartGrabType>
+    <Reviewed>0</Reviewed>
+    <GroupDefectInfo>1</GroupDefectInfo>
+    <VirtualRefID>V4295A251-B933-4b99-AB76-A98A5B2B4BB4</VirtualRefID>
+    <WindowRefID>_HCA_41_</WindowRefID>
+    <IsZAxisUpPos1>0</IsZAxisUpPos1>
+    <IsZAxisUpPos2>0</IsZAxisUpPos2>
+    <ChangeDefectType>0</ChangeDefectType>
+    <ResultValue>0.000000</ResultValue>
+    <CameraNo>-1</CameraNo>
+    <IsChipFlyingDefect>0</IsChipFlyingDefect>
+    <_3DChipFlyingResultHeight>0.000000</_3DChipFlyingResultHeight>
+    <ResultMsg>3190   &lt;   3174.55   &lt;   3690 (um)
+#&#xD;
+</ResultMsg>
+    <DefectResultMsg>
+3190   &lt;   3174.55   &lt;   3690 (um)</DefectResultMsg>
+    <PartRect X1="1268" X2="1268" X3="1997" X4="1997" Y1="1616" Y2="561" Y3="561" Y4="1616"/>
+    <WindowRect X1="1485" X2="1485" X3="1508" X4="1508" Y1="1258" Y2="915" Y3="915" Y4="1258"/>
+    <FrameRect X1="237091" X2="295598" X3="295598" X4="237091" Y1="91017" Y2="91017" Y3="149519" Y4="149519"/>
+    <DefectRect X1="256972" X2="262104" X3="262104" X4="256972" Y1="133032" Y2="133032" Y3="133383" Y4="133383"/>
+    <AngleOffset>0.00</AngleOffset>
+    <Offset X="1" Y="2"/>
+    <Viewer3DMaxRange>3690</Viewer3DMaxRange>
+    <ViewerDirection>5</ViewerDirection>
+    <WindowAngle>90</WindowAngle>
+    <DefectType>9</DefectType>
+    <Defect3DType>9</Defect3DType>
+    <PassDefectType/>
+    <PassDefect3DType/>
+    <DefectPins/>
+    <OverKillPins/>
+  </Defect3D>
+
+  <Defect3D>
+    <Overkill>0</Overkill>
+    <DefectTypeString>LiftedPackage</DefectTypeString>
+    <ModuleId>1</ModuleId>
+    <RefId>USB200</RefId>
+    <FrameId>0</FrameId>
+    <WindowId>20</WindowId>
+    <IsImportantWindow>0</IsImportantWindow>
+    <PartNumber>0401-000006A</PartNumber>
+    <PartID>80123E87-9BCC-435b-84CC-86FE98D56AC6</PartID>
+    <WindowType>9</WindowType>
+    <ViewType>1</ViewType>
+    <PartGrabType>67108867</PartGrabType>
+    <Reviewed>0</Reviewed>
+    <GroupDefectInfo>1</GroupDefectInfo>
+    <VirtualRefID>V323EB014-1A30-48ea-AC68-AF5BF62094D5</VirtualRefID>
+    <WindowRefID>_HCA_42_</WindowRefID>
+    <IsZAxisUpPos1>0</IsZAxisUpPos1>
+    <IsZAxisUpPos2>0</IsZAxisUpPos2>
+    <ChangeDefectType>0</ChangeDefectType>
+    <ResultValue>0.000000</ResultValue>
+    <CameraNo>-1</CameraNo>
+    <IsChipFlyingDefect>0</IsChipFlyingDefect>
+    <_3DChipFlyingResultHeight>0.000000</_3DChipFlyingResultHeight>
+    <ResultMsg>3340   &lt;   3320.57   &lt;   3740 (um)
+#&#xD;
+</ResultMsg>
+    <DefectResultMsg>
+3340   &lt;   3320.57   &lt;   3740 (um)</DefectResultMsg>
+    <PartRect X1="1268" X2="1268" X3="1997" X4="1997" Y1="1616" Y2="561" Y3="561" Y4="1616"/>
+    <WindowRect X1="1741" X2="1741" X3="1764" X4="1764" Y1="1229" Y2="886" Y3="886" Y4="1229"/>
+    <FrameRect X1="237091" X2="295598" X3="295598" X4="237091" Y1="91017" Y2="91017" Y3="149519" Y4="149519"/>
+    <DefectRect X1="260808" X2="265940" X3="265940" X4="260808" Y1="133464" Y2="133464" Y3="133815" Y4="133815"/>
+    <AngleOffset>0.00</AngleOffset>
+    <Offset X="1" Y="2"/>
+    <Viewer3DMaxRange>3740</Viewer3DMaxRange>
+    <ViewerDirection>5</ViewerDirection>
+    <WindowAngle>90</WindowAngle>
+    <DefectType>9</DefectType>
+    <Defect3DType>9</Defect3DType>
+    <PassDefectType/>
+    <PassDefect3DType/>
+    <DefectPins/>
+    <OverKillPins/>
+  </Defect3D>
+
+  <Defect3D>
+    <Overkill>0</Overkill>
+    <DefectTypeString>LiftedPackage</DefectTypeString>
+    <ModuleId>2</ModuleId>
+    <RefId>USB200</RefId>
+    <FrameId>0</FrameId>
+    <WindowId>17</WindowId>
+    <IsImportantWindow>0</IsImportantWindow>
+    <PartNumber>0401-000006A</PartNumber>
+    <PartID>80123E87-9BCC-435b-84CC-86FE98D56AC6</PartID>
+    <WindowType>9</WindowType>
+    <ViewType>1</ViewType>
+    <PartGrabType>67108867</PartGrabType>
+    <Reviewed>0</Reviewed>
+    <GroupDefectInfo>1</GroupDefectInfo>
+    <VirtualRefID>V26D03041-C6C3-4864-8C48-26100AE161A0</VirtualRefID>
+    <WindowRefID>_HCA_39_</WindowRefID>
+    <IsZAxisUpPos1>0</IsZAxisUpPos1>
+    <IsZAxisUpPos2>0</IsZAxisUpPos2>
+    <ChangeDefectType>0</ChangeDefectType>
+    <ResultValue>0.000000</ResultValue>
+    <CameraNo>-1</CameraNo>
+    <IsChipFlyingDefect>0</IsChipFlyingDefect>
+    <_3DChipFlyingResultHeight>0.000000</_3DChipFlyingResultHeight>
+    <ResultMsg>3160   &lt;   3157.01   &lt;   3960 (um)
+#&#xD;
+</ResultMsg>
+    <DefectResultMsg>
+3160   &lt;   3157.01   &lt;   3960 (um)</DefectResultMsg>
+    <PartRect X1="1266" X2="1266" X3="1995" X4="1995" Y1="1603" Y2="549" Y3="549" Y4="1603"/>
+    <WindowRect X1="1552" X2="1552" X3="1687" X4="1687" Y1="814" Y2="780" Y3="780" Y4="814"/>
+    <FrameRect X1="262198" X2="320705" X3="320705" X4="262198" Y1="90961" Y2="90961" Y3="149463" Y4="149463"/>
+    <DefectRect X1="286221" X2="286734" X3="286734" X4="286221" Y1="136487" Y2="136487" Y3="138513" Y4="138513"/>
+    <AngleOffset>0.00</AngleOffset>
+    <Offset X="-5" Y="-10"/>
+    <Viewer3DMaxRange>3960</Viewer3DMaxRange>
+    <ViewerDirection>5</ViewerDirection>
+    <WindowAngle>90</WindowAngle>
+    <DefectType>9</DefectType>
+    <Defect3DType>9</Defect3DType>
+    <PassDefectType/>
+    <PassDefect3DType/>
+    <DefectPins/>
+    <OverKillPins/>
+  </Defect3D>
+
+  <Defect3D>
+    <Overkill>0</Overkill>
+    <DefectTypeString>LiftedPackage</DefectTypeString>
+    <ModuleId>2</ModuleId>
+    <RefId>USB200</RefId>
+    <FrameId>0</FrameId>
+    <WindowId>19</WindowId>
+    <IsImportantWindow>0</IsImportantWindow>
+    <PartNumber>0401-000006A</PartNumber>
+    <PartID>80123E87-9BCC-435b-84CC-86FE98D56AC6</PartID>
+    <WindowType>9</WindowType>
+    <ViewType>1</ViewType>
+    <PartGrabType>67108867</PartGrabType>
+    <Reviewed>0</Reviewed>
+    <GroupDefectInfo>1</GroupDefectInfo>
+    <VirtualRefID>V4295A251-B933-4b99-AB76-A98A5B2B4BB4</VirtualRefID>
+    <WindowRefID>_HCA_41_</WindowRefID>
+    <IsZAxisUpPos1>0</IsZAxisUpPos1>
+    <IsZAxisUpPos2>0</IsZAxisUpPos2>
+    <ChangeDefectType>0</ChangeDefectType>
+    <ResultValue>0.000000</ResultValue>
+    <CameraNo>-1</CameraNo>
+    <IsChipFlyingDefect>0</IsChipFlyingDefect>
+    <_3DChipFlyingResultHeight>0.000000</_3DChipFlyingResultHeight>
+    <ResultMsg>3190   &lt;   3138.27   &lt;   3690 (um)
+#&#xD;
+</ResultMsg>
+    <DefectResultMsg>
+3190   &lt;   3138.27   &lt;   3690 (um)</DefectResultMsg>
+    <PartRect X1="1266" X2="1266" X3="1995" X4="1995" Y1="1603" Y2="549" Y3="549" Y4="1603"/>
+    <WindowRect X1="1483" X2="1483" X3="1506" X4="1506" Y1="1245" Y2="903" Y3="903" Y4="1245"/>
+    <FrameRect X1="262198" X2="320705" X3="320705" X4="262198" Y1="90961" Y2="90961" Y3="149463" Y4="149463"/>
+    <DefectRect X1="282036" X2="287168" X3="287168" X4="282036" Y1="133174" Y2="133174" Y3="133525" Y4="133525"/>
+    <AngleOffset>0.00</AngleOffset>
+    <Offset X="-5" Y="-10"/>
+    <Viewer3DMaxRange>3690</Viewer3DMaxRange>
+    <ViewerDirection>5</ViewerDirection>
+    <WindowAngle>90</WindowAngle>
+    <DefectType>9</DefectType>
+    <Defect3DType>9</Defect3DType>
+    <PassDefectType/>
+    <PassDefect3DType/>
+    <DefectPins/>
+    <OverKillPins/>
+  </Defect3D>
+
+  <Defect3D>
+    <Overkill>0</Overkill>
+    <DefectTypeString>LiftedPackage</DefectTypeString>
+    <ModuleId>8</ModuleId>
+    <RefId>USB200</RefId>
+    <FrameId>0</FrameId>
+    <WindowId>19</WindowId>
+    <IsImportantWindow>0</IsImportantWindow>
+    <PartNumber>0401-000006A</PartNumber>
+    <PartID>80123E87-9BCC-435b-84CC-86FE98D56AC6</PartID>
+    <WindowType>9</WindowType>
+    <ViewType>1</ViewType>
+    <PartGrabType>67108867</PartGrabType>
+    <Reviewed>0</Reviewed>
+    <GroupDefectInfo>1</GroupDefectInfo>
+    <VirtualRefID>V4295A251-B933-4b99-AB76-A98A5B2B4BB4</VirtualRefID>
+    <WindowRefID>_HCA_41_</WindowRefID>
+    <IsZAxisUpPos1>0</IsZAxisUpPos1>
+    <IsZAxisUpPos2>0</IsZAxisUpPos2>
+    <ChangeDefectType>0</ChangeDefectType>
+    <ResultValue>0.000000</ResultValue>
+    <CameraNo>-1</CameraNo>
+    <IsChipFlyingDefect>0</IsChipFlyingDefect>
+    <_3DChipFlyingResultHeight>0.000000</_3DChipFlyingResultHeight>
+    <ResultMsg>3190   &lt;   3181.17   &lt;   3690 (um)
+#&#xD;
+</ResultMsg>
+    <DefectResultMsg>
+3190   &lt;   3181.17   &lt;   3690 (um)</DefectResultMsg>
+    <PartRect X1="1268" X2="1268" X3="1996" X4="1996" Y1="1615" Y2="561" Y3="561" Y4="1615"/>
+    <WindowRect X1="1485" X2="1485" X3="1508" X4="1508" Y1="1257" Y2="915" Y3="915" Y4="1257"/>
+    <FrameRect X1="357298" X2="415806" X3="415806" X4="357298" Y1="90857" Y2="90857" Y3="149359" Y4="149359"/>
+    <DefectRect X1="377170" X2="382302" X3="382302" X4="377170" Y1="132895" Y2="132895" Y3="133246" Y4="133246"/>
+    <AngleOffset>0.00</AngleOffset>
+    <Offset X="-1" Y="-1"/>
+    <Viewer3DMaxRange>3690</Viewer3DMaxRange>
+    <ViewerDirection>5</ViewerDirection>
+    <WindowAngle>90</WindowAngle>
+    <DefectType>9</DefectType>
+    <Defect3DType>9</Defect3DType>
+    <PassDefectType/>
+    <PassDefect3DType/>
+    <DefectPins/>
+    <OverKillPins/>
+  </Defect3D>
+
+  <Defect3D>
+    <Overkill>0</Overkill>
+    <DefectTypeString>LiftedPackage</DefectTypeString>
+    <ModuleId>11</ModuleId>
+    <RefId>USB200</RefId>
+    <FrameId>0</FrameId>
+    <WindowId>19</WindowId>
+    <IsImportantWindow>0</IsImportantWindow>
+    <PartNumber>0401-000006A</PartNumber>
+    <PartID>80123E87-9BCC-435b-84CC-86FE98D56AC6</PartID>
+    <WindowType>9</WindowType>
+    <ViewType>1</ViewType>
+    <PartGrabType>67108867</PartGrabType>
+    <Reviewed>0</Reviewed>
+    <GroupDefectInfo>1</GroupDefectInfo>
+    <VirtualRefID>V4295A251-B933-4b99-AB76-A98A5B2B4BB4</VirtualRefID>
+    <WindowRefID>_HCA_41_</WindowRefID>
+    <IsZAxisUpPos1>0</IsZAxisUpPos1>
+    <IsZAxisUpPos2>0</IsZAxisUpPos2>
+    <ChangeDefectType>0</ChangeDefectType>
+    <ResultValue>0.000000</ResultValue>
+    <CameraNo>-1</CameraNo>
+    <IsChipFlyingDefect>0</IsChipFlyingDefect>
+    <_3DChipFlyingResultHeight>0.000000</_3DChipFlyingResultHeight>
+    <ResultMsg>3190   &lt;   3188.46   &lt;   3690 (um)
+#&#xD;
+</ResultMsg>
+    <DefectResultMsg>
+3190   &lt;   3188.46   &lt;   3690 (um)</DefectResultMsg>
+    <PartRect X1="1266" X2="1266" X3="1995" X4="1995" Y1="1608" Y2="553" Y3="553" Y4="1608"/>
+    <WindowRect X1="1483" X2="1483" X3="1506" X4="1506" Y1="1250" Y2="907" Y3="907" Y4="1250"/>
+    <FrameRect X1="357286" X2="415793" X3="415793" X4="357286" Y1="169307" Y2="169307" Y3="227809" Y4="227809"/>
+    <DefectRect X1="377133" X2="382265" X3="382265" X4="377133" Y1="211443" Y2="211443" Y3="211794" Y4="211794"/>
+    <AngleOffset>0.00</AngleOffset>
+    <Offset X="-4" Y="-4"/>
+    <Viewer3DMaxRange>3690</Viewer3DMaxRange>
+    <ViewerDirection>5</ViewerDirection>
+    <WindowAngle>90</WindowAngle>
+    <DefectType>9</DefectType>
+    <Defect3DType>9</Defect3DType>
+    <PassDefectType/>
+    <PassDefect3DType/>
+    <DefectPins/>
+    <OverKillPins/>
+  </Defect3D>
+
+  <Defect3D>
+    <Overkill>0</Overkill>
+    <DefectTypeString>LiftedPackage</DefectTypeString>
+    <ModuleId>0</ModuleId>
+    <RefId>USB200</RefId>
+    <FrameId>0</FrameId>
+    <WindowId>19</WindowId>
+    <IsImportantWindow>0</IsImportantWindow>
+    <PartNumber>0401-000006A</PartNumber>
+    <PartID>80123E87-9BCC-435b-84CC-86FE98D56AC6</PartID>
+    <WindowType>9</WindowType>
+    <ViewType>1</ViewType>
+    <PartGrabType>67108867</PartGrabType>
+    <Reviewed>0</Reviewed>
+    <GroupDefectInfo>1</GroupDefectInfo>
+    <VirtualRefID>V4295A251-B933-4b99-AB76-A98A5B2B4BB4</VirtualRefID>
+    <WindowRefID>_HCA_41_</WindowRefID>
+    <IsZAxisUpPos1>0</IsZAxisUpPos1>
+    <IsZAxisUpPos2>0</IsZAxisUpPos2>
+    <ChangeDefectType>0</ChangeDefectType>
+    <ResultValue>0.000000</ResultValue>
+    <CameraNo>-1</CameraNo>
+    <IsChipFlyingDefect>0</IsChipFlyingDefect>
+    <_3DChipFlyingResultHeight>0.000000</_3DChipFlyingResultHeight>
+    <ResultMsg>3190   &lt;   3185.27   &lt;   3690 (um)
+#&#xD;
+</ResultMsg>
+    <DefectResultMsg>
+3190   &lt;   3185.27   &lt;   3690 (um)</DefectResultMsg>
+    <PartRect X1="1259" X2="1259" X3="1987" X4="1987" Y1="1617" Y2="563" Y3="563" Y4="1617"/>
+    <WindowRect X1="1476" X2="1476" X3="1499" X4="1499" Y1="1259" Y2="916" Y3="916" Y4="1259"/>
+    <FrameRect X1="212025" X2="270532" X3="270532" X4="212025" Y1="90882" Y2="90882" Y3="149384" Y4="149384"/>
+    <DefectRect X1="231765" X2="236897" X3="236897" X4="231765" Y1="132888" Y2="132888" Y3="133239" Y4="133239"/>
+    <AngleOffset>0.00</AngleOffset>
+    <Offset X="-5" Y="2"/>
+    <Viewer3DMaxRange>3690</Viewer3DMaxRange>
+    <ViewerDirection>5</ViewerDirection>
+    <WindowAngle>90</WindowAngle>
+    <DefectType>9</DefectType>
+    <Defect3DType>9</Defect3DType>
+    <PassDefectType/>
+    <PassDefect3DType/>
+    <DefectPins/>
+    <OverKillPins/>
+  </Defect3D>
+
+</InspData>

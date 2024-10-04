@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\240001. TKP240001-SLEEVE INSPECTION DEMO\\Vision Software\\ReadFileXML\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{161105DC-AE96-4D49-823E-D5217AACB127}|ReadFileXML\\ReadFileXML.csproj|d:\\240001. tkp240001-sleeve inspection demo\\vision software\\readfilexml\\readfilexml\\redo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{161105DC-AE96-4D49-823E-D5217AACB127}|ReadFileXML\\ReadFileXML.csproj|solutionrelative:readfilexml\\redo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{161105DC-AE96-4D49-823E-D5217AACB127}|ReadFileXML\\ReadFileXML.csproj|D:\\240001. TKP240001-SLEEVE INSPECTION DEMO\\Vision Software\\ReadFileXML\\readfilexml\\readfilexml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{161105DC-AE96-4D49-823E-D5217AACB127}|ReadFileXML\\ReadFileXML.csproj|solutionrelative:readfilexml\\readfilexml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{161105DC-AE96-4D49-823E-D5217AACB127}|ReadFileXML\\ReadFileXML.csproj|d:\\240001. tkp240001-sleeve inspection demo\\vision software\\readfilexml\\readfilexml\\readfilexml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{161105DC-AE96-4D49-823E-D5217AACB127}|ReadFileXML\\ReadFileXML.csproj|solutionrelative:readfilexml\\readfilexml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{161105DC-AE96-4D49-823E-D5217AACB127}|ReadFileXML\\ReadFileXML.csproj|D:\\240001. TKP240001-SLEEVE INSPECTION DEMO\\Vision Software\\ReadFileXML\\readfilexml\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{161105DC-AE96-4D49-823E-D5217AACB127}|ReadFileXML\\ReadFileXML.csproj|solutionrelative:readfilexml\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{161105DC-AE96-4D49-823E-D5217AACB127}|ReadFileXML\\ReadFileXML.csproj|D:\\240001. TKP240001-SLEEVE INSPECTION DEMO\\Vision Software\\ReadFileXML\\readfilexml\\redo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{161105DC-AE96-4D49-823E-D5217AACB127}|ReadFileXML\\ReadFileXML.csproj|solutionrelative:readfilexml\\redo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\240001. TKP240001-SLEEVE INSPECTION DEMO\\Vision Software\\ReadFileXML\\ReadFileXML\\Program.cs",
+              "RelativeDocumentMoniker": "ReadFileXML\\Program.cs",
+              "ToolTip": "D:\\240001. TKP240001-SLEEVE INSPECTION DEMO\\Vision Software\\ReadFileXML\\ReadFileXML\\Program.cs",
+              "RelativeToolTip": "ReadFileXML\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T03:30:29.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReDo.cs",
+              "DocumentMoniker": "D:\\240001. TKP240001-SLEEVE INSPECTION DEMO\\Vision Software\\ReadFileXML\\ReadFileXML\\ReDo.cs",
+              "RelativeDocumentMoniker": "ReadFileXML\\ReDo.cs",
+              "ToolTip": "D:\\240001. TKP240001-SLEEVE INSPECTION DEMO\\Vision Software\\ReadFileXML\\ReadFileXML\\ReDo.cs",
+              "RelativeToolTip": "ReadFileXML\\ReDo.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAwwDoAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T02:31:56.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReadFileXML.cs",
+              "DocumentMoniker": "D:\\240001. TKP240001-SLEEVE INSPECTION DEMO\\Vision Software\\ReadFileXML\\ReadFileXML\\ReadFileXML.cs",
+              "RelativeDocumentMoniker": "ReadFileXML\\ReadFileXML.cs",
+              "ToolTip": "D:\\240001. TKP240001-SLEEVE INSPECTION DEMO\\Vision Software\\ReadFileXML\\ReadFileXML\\ReadFileXML.cs",
+              "RelativeToolTip": "ReadFileXML\\ReadFileXML.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAIwEsAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T01:55:11.004Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "98543727-b45e-4843-a1dd-3346df68f0db",
+        "Display": 0,
+        "X": -5,
+        "Y": 124,
+        "Width": 1553,
+        "Height": 770,
+        "WindowState": 2
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ReDo.cs [Design]",
+              "DocumentMoniker": "D:\\240001. TKP240001-SLEEVE INSPECTION DEMO\\Vision Software\\ReadFileXML\\ReadFileXML\\ReDo.cs",
+              "RelativeDocumentMoniker": "ReadFileXML\\ReDo.cs",
+              "ToolTip": "D:\\240001. TKP240001-SLEEVE INSPECTION DEMO\\Vision Software\\ReadFileXML\\ReadFileXML\\ReDo.cs [Design]",
+              "RelativeToolTip": "ReadFileXML\\ReDo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T02:32:07.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ReadFileXML.cs [Design]",
+              "DocumentMoniker": "D:\\240001. TKP240001-SLEEVE INSPECTION DEMO\\Vision Software\\ReadFileXML\\ReadFileXML\\ReadFileXML.cs",
+              "RelativeDocumentMoniker": "ReadFileXML\\ReadFileXML.cs",
+              "ToolTip": "D:\\240001. TKP240001-SLEEVE INSPECTION DEMO\\Vision Software\\ReadFileXML\\ReadFileXML\\ReadFileXML.cs [Design]",
+              "RelativeToolTip": "ReadFileXML\\ReadFileXML.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T01:55:33.106Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
